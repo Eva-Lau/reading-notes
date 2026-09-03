@@ -1,0 +1,1027 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>《认知觉醒》读书笔记</title>
+<style>
+  :root {
+    --bg: #FAF9F6;
+    --card: #FFFFFF;
+    --primary: #2B3A55;
+    --accent: #C77D3F;
+    --accent-light: #E8C9A0;
+    --accent-bg: #FBF3E8;
+    --text: #2C2C2C;
+    --text-secondary: #6B6B6B;
+    --text-light: #999999;
+    --border: #E8E5DF;
+    --green: #4A7C59;
+    --green-light: #E3EDE5;
+    --blue: #3B5B7E;
+    --blue-light: #E0E8F0;
+    --purple: #6B4E7D;
+    --purple-light: #EDE5F0;
+    --red: #B5443A;
+    --red-light: #F5E0DC;
+    --shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.8;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+  }
+
+  .container {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 48px 32px 80px;
+  }
+
+  /* ====== HERO ====== */
+  .hero {
+    text-align: center;
+    margin-bottom: 56px;
+    padding: 64px 40px 48px;
+    background: linear-gradient(135deg, #2B3A55 0%, #1E2D45 100%);
+    border-radius: 20px;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -60px; right: -60px;
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, rgba(199,125,63,0.15) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .hero::after {
+    content: '';
+    position: absolute;
+    bottom: -40px; left: -40px;
+    width: 160px; height: 160px;
+    background: radial-gradient(circle, rgba(255,255,255,0.04) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .hero .tag {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 0.15em;
+    color: var(--accent-light);
+    margin-bottom: 16px;
+    text-transform: uppercase;
+  }
+  .hero h1 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    letter-spacing: 0.04em;
+  }
+  .hero .quote {
+    font-size: 15px;
+    color: rgba(255,255,255,0.75);
+    line-height: 1.7;
+    max-width: 520px;
+    margin: 0 auto;
+    border-left: 3px solid var(--accent);
+    padding-left: 16px;
+    text-align: left;
+  }
+
+  /* ====== INFO BAR ====== */
+  .info-bar {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0;
+    background: var(--card);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    margin-bottom: 48px;
+    overflow: hidden;
+  }
+  .info-item {
+    padding: 20px 12px;
+    text-align: center;
+    border-right: 1px solid var(--border);
+  }
+  .info-item:last-child { border-right: none; }
+  .info-item .label {
+    font-size: 11px;
+    color: var(--text-light);
+    letter-spacing: 0.1em;
+    margin-bottom: 6px;
+  }
+  .info-item .value {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--primary);
+  }
+  .info-item .value.accent { color: var(--accent); }
+
+  /* ====== SECTION ====== */
+  .section { margin-bottom: 48px; }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .section-icon {
+    width: 36px; height: 36px;
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .section-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--primary);
+  }
+  .section-subtitle {
+    font-size: 12px;
+    color: var(--text-light);
+    margin-left: auto;
+  }
+
+  /* ====== CORE CLAIMS ====== */
+  .claims-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+  .claim-card {
+    background: var(--card);
+    border-radius: 14px;
+    padding: 24px;
+    box-shadow: var(--shadow);
+    border-top: 3px solid var(--accent);
+    position: relative;
+  }
+  .claim-card:nth-child(1) { border-top-color: var(--red); }
+  .claim-card:nth-child(2) { border-top-color: var(--accent); }
+  .claim-card:nth-child(3) { border-top-color: var(--blue); }
+  .claim-card:nth-child(4) { border-top-color: var(--green); }
+  .claim-card:nth-child(5) { border-top-color: var(--purple); }
+  .claim-number {
+    position: absolute;
+    top: 16px; right: 20px;
+    font-size: 36px;
+    font-weight: 800;
+    color: rgba(0,0,0,0.04);
+    line-height: 1;
+  }
+  .claim-card h3 {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 8px;
+  }
+  .claim-card p {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+  }
+
+  /* ====== PART DIVIDER ====== */
+  .part-divider {
+    text-align: center;
+    margin: 48px 0 40px;
+    padding: 32px;
+    background: var(--card);
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+    position: relative;
+  }
+  .part-divider .part-label {
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    color: var(--accent);
+    margin-bottom: 8px;
+  }
+  .part-divider h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--primary);
+  }
+
+  /* ====== CHAPTER CARD ====== */
+  .chapter {
+    background: var(--card);
+    border-radius: 14px;
+    padding: 28px;
+    box-shadow: var(--shadow);
+    margin-bottom: 20px;
+  }
+  .chapter-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+  .chapter-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--primary);
+  }
+  .chapter-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    flex-shrink: 0;
+    margin-left: 12px;
+  }
+  .badge-red { background: var(--red-light); color: var(--red); }
+  .badge-accent { background: var(--accent-bg); color: var(--accent); }
+  .badge-blue { background: var(--blue-light); color: var(--blue); }
+  .badge-green { background: var(--green-light); color: var(--green); }
+  .badge-purple { background: var(--purple-light); color: var(--purple); }
+
+  .chapter-insight {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  .insight-box {
+    padding: 14px 16px;
+    border-radius: 10px;
+    font-size: 13px;
+    line-height: 1.7;
+  }
+  .insight-key {
+    background: var(--bg);
+    border-left: 3px solid var(--primary);
+  }
+  .insight-mine {
+    background: var(--accent-bg);
+    border-left: 3px solid var(--accent);
+  }
+  .insight-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .insight-key .insight-label { color: var(--primary); }
+  .insight-mine .insight-label { color: var(--accent); }
+
+  .quotes-list {
+    list-style: none;
+    counter-reset: quote;
+  }
+  .quotes-list li {
+    counter-increment: quote;
+    font-size: 13.5px;
+    color: var(--text-secondary);
+    line-height: 1.75;
+    padding: 10px 0 10px 32px;
+    position: relative;
+    border-bottom: 1px solid var(--border);
+  }
+  .quotes-list li:last-child { border-bottom: none; }
+  .quotes-list li::before {
+    content: counter(quote, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 10px;
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.05em;
+  }
+
+  /* ====== TOP QUOTES ====== */
+  .top-quotes {
+    columns: 2;
+    column-gap: 20px;
+  }
+  .top-quote {
+    break-inside: avoid;
+    margin-bottom: 16px;
+    padding: 18px 20px;
+    background: var(--card);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    border-left: 3px solid var(--accent);
+    font-size: 14px;
+    color: var(--text);
+    line-height: 1.7;
+    position: relative;
+  }
+  .top-quote::before {
+    content: '"';
+    position: absolute;
+    top: 4px; left: 12px;
+    font-size: 40px;
+    color: rgba(199,125,63,0.12);
+    font-family: Georgia, serif;
+    line-height: 1;
+  }
+  .top-quote p {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ====== KNOWLEDGE LINKS ====== */
+  .links-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .link-item {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 18px;
+    box-shadow: var(--shadow);
+    font-size: 13px;
+    line-height: 1.7;
+  }
+  .link-item .link-type {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+  .link-type.match { background: var(--green-light); color: var(--green); }
+  .link-type.confirm { background: var(--blue-light); color: var(--blue); }
+  .link-type.challenge { background: var(--red-light); color: var(--red); }
+  .link-type.apply { background: var(--accent-bg); color: var(--accent); }
+
+  /* ====== ATOMIC CARDS ====== */
+  .atomic-flow {
+    text-align: center;
+    margin-bottom: 24px;
+    padding: 16px;
+    background: var(--card);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    font-size: 13px;
+    color: var(--text-secondary);
+  }
+  .atomic-flow .chain {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .atomic-flow .chain span {
+    padding: 4px 10px;
+    background: var(--accent-bg);
+    border-radius: 6px;
+    font-weight: 600;
+    color: var(--accent);
+    font-size: 12px;
+  }
+  .atomic-flow .arrow { color: var(--text-light); }
+
+  .atomic-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+  .atomic-card {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: var(--shadow);
+    text-align: center;
+    position: relative;
+  }
+  .atomic-num {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.1em;
+    margin-bottom: 6px;
+  }
+  .atomic-concept {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--primary);
+    line-height: 1.5;
+    margin-bottom: 6px;
+  }
+  .atomic-source {
+    font-size: 11px;
+    color: var(--text-light);
+  }
+
+  /* ====== ACTION LIST ====== */
+  .action-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .action-item {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 18px 20px;
+    box-shadow: var(--shadow);
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    border-left: 3px solid var(--green);
+  }
+  .action-checkbox {
+    width: 20px; height: 20px;
+    border: 2px solid var(--green);
+    border-radius: 5px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .action-content {
+    flex: 1;
+  }
+  .action-content h4 {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--primary);
+    margin-bottom: 4px;
+  }
+  .action-content p {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+  .action-ref {
+    font-size: 11px;
+    color: var(--green);
+    background: var(--green-light);
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-top: 8px;
+    display: inline-block;
+  }
+
+  /* ====== TAGS ====== */
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    padding: 24px 0;
+  }
+  .tag-pill {
+    padding: 6px 14px;
+    background: var(--card);
+    border-radius: 20px;
+    font-size: 12px;
+    color: var(--text-secondary);
+    box-shadow: var(--shadow);
+  }
+
+  /* ====== FOOTER ====== */
+  .footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    font-size: 12px;
+    color: var(--text-light);
+  }
+
+  @media (max-width: 768px) {
+    .container { padding: 24px 16px 48px; }
+    .hero { padding: 40px 24px 32px; }
+    .hero h1 { font-size: 24px; }
+    .info-bar { grid-template-columns: repeat(3, 1fr); }
+    .info-item:nth-child(4), .info-item:nth-child(5) { border-top: 1px solid var(--border); }
+    .claims-grid { grid-template-columns: 1fr; }
+    .chapter-insight { grid-template-columns: 1fr; }
+    .top-quotes { columns: 1; }
+    .links-list { grid-template-columns: 1fr; }
+    .atomic-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- ====== HERO ====== -->
+  <div class="hero">
+    <div class="tag">READING NOTES · 读书笔记</div>
+    <h1>《认知觉醒》</h1>
+    <div class="quote">
+      成长不是靠意志力硬扛，而是通过认清大脑天性、消除模糊、在舒适区边缘刻意练习，让改变自然发生。
+    </div>
+  </div>
+
+  <!-- ====== INFO BAR ====== -->
+  <div class="info-bar">
+    <div class="info-item">
+      <div class="label">作者</div>
+      <div class="value">周岭</div>
+    </div>
+    <div class="info-item">
+      <div class="label">类型</div>
+      <div class="value">成长 · 认知</div>
+    </div>
+    <div class="info-item">
+      <div class="label">阅读进度</div>
+      <div class="value accent">99%</div>
+    </div>
+    <div class="info-item">
+      <div class="label">划线</div>
+      <div class="value accent">67 条</div>
+    </div>
+    <div class="info-item">
+      <div class="label">覆盖</div>
+      <div class="value">全书 8 章</div>
+    </div>
+  </div>
+
+  <!-- ====== CORE CLAIMS ====== -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon" style="background: var(--accent-bg); color: var(--accent);">★</div>
+      <div class="section-title">核心主张</div>
+      <div class="section-subtitle">5 条</div>
+    </div>
+    <div class="claims-grid">
+      <div class="claim-card">
+        <div class="claim-number">01</div>
+        <h3>三重大脑与天性</h3>
+        <p>人有本能脑、情绪脑和理智脑，前两者力量强大且运行极快。焦虑的根源是"急于求成 + 避难趋易"——想同时做很多事，又想不怎么努力就立即看到效果。</p>
+      </div>
+      <div class="claim-card">
+        <div class="claim-number">02</div>
+        <h3>消除模糊是成长主线</h3>
+        <p>人生是一场"消除模糊的比赛"。模糊是困扰之源——认知模糊、情绪模糊、行动模糊都要靠明确目标与深度思考去化解。</p>
+      </div>
+      <div class="claim-card">
+        <div class="claim-number">03</div>
+        <h3>元认知 = 反思与自控</h3>
+        <p>能"跳出自己看自己"、俯瞰全局的能力，是人类的终极能力。它让我们主动选择做"更重要而不是更有趣"的事。</p>
+      </div>
+      <div class="claim-card">
+        <div class="claim-number">04</div>
+        <h3>学习要盯住改变量</h3>
+        <p>改变量 > 行动量 > 思考量 > 学习量。学习不是为了知道，而是为了发生真实的改变；真正的成长是"反馈，反馈再反馈"。</p>
+      </div>
+      <div class="claim-card" style="grid-column: span 2;">
+        <div class="claim-number">05</div>
+        <h3>行动力源自认知打通</h3>
+        <p>认知上想通想透后，行动就不需要大把意志力支撑；拥有清晰的目标与热爱，比行动力本身更重要。</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ====== PART 1 ====== -->
+  <div class="part-divider">
+    <div class="part-label">上篇</div>
+    <h2>内观自己，摆脱焦虑</h2>
+  </div>
+
+  <!-- Chapter 1 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第一章 · 大脑——一切问题的起源</div>
+      </div>
+      <div class="chapter-badge badge-red">14 条划线 · 全书最多</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        人类的安全感源于独特优势；焦虑源于天性（急于求成、避难趋易）；耐心不是毅力，而是对规律的认知。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        对规律（如复利曲线、平台期）的认知越多，耐心越强。划线密度最高说明"耐心-规律"与"改变量权重"对我触动最大——努力方向比努力程度更值得审视。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>急于求成，想同时做很多事；避难趋易，想不怎么努力就立即看到效果。</li>
+      <li>我像一个落水者，被焦虑彻底包裹，仿佛在慢慢地沉入河底。</li>
+      <li>36岁那年是我的"觉醒元年"，在此之前我过得很混沌。</li>
+      <li>大多数时候我们以为自己在思考，其实都是在对自身的行为和欲望进行合理化，这正是人类被称作"自我解释的动物"的原因。</li>
+      <li>无论个体还是群体，人类的安全感都源于自己在某一方面拥有的独特优势：或能力，或财富，或权力，或影响力。</li>
+      <li>坚信并践行价值积累规律，选择正确的方向，在舒适区边缘一点一点地扩展自己的能力范围。</li>
+      <li>要想办法看清那些想做之事的意义和好处，你看到的维度越多，耐心就会越强。</li>
+      <li>当我们知道的规律越多，就越能定位自己所处的阶段和位置、预估未来的结果，进而增强持续行动的耐心。</li>
+      <li>面对长期的冷寂或挫折失败时做出与他人不同的选择：有人选择放弃，而我们继续坚持。</li>
+      <li>只要持续创造价值，别人的今天就是自己的明天。</li>
+      <li>人喜欢唯一性和确定性，面对多元和不确定，靠天生的习性怕是很难应对。</li>
+      <li>社会中的精英通常是那些能更好地克服天性的人，他们的耐心水平更高，延迟满足的能力更强。</li>
+      <li>要想有所成就，必须保持耐心，延迟满足。</li>
+      <li>改变量 > 行动量 > 思考量 > 学习量。不盯住内层的改变量，表层投入再多的学习量也会事倍功半。</li>
+    </ol>
+  </div>
+
+  <!-- Chapter 2 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第二章 · 潜意识——生命留给我们的彩蛋</div>
+      </div>
+      <div class="chapter-badge badge-accent">10 条划线</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        模糊是人生困扰之源；多数人逃避真正的思考；恐惧是欺软怕硬的货色。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        情绪上"说不清道不明的难受"需要坐下来向自己提问、一层层挖到核心。把模糊问题显性化、书面化是低成本高杠杆的动作。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>模糊，正是人生困扰之源。而人生也像是一场消除模糊的比赛，谁的模糊越严重，谁就越混沌；谁的模糊越轻微，谁就越清醒。</li>
+      <li>人生就是一场消除模糊的比赛，领先的群体都有意无意地做着同一件事：消除认知、情绪和行动上的模糊。</li>
+      <li>当我们没有足够清晰的指令或者目标时，就很容易选择享乐，放弃那些本该坚持但比较烧脑的选项。</li>
+      <li>多数人为了逃避真正的思考，愿意做任何事情。</li>
+      <li>提升思考能力的方法正是不断明确核心困难和心得感悟，并专注于此。</li>
+      <li>掌握的工具越多，认知能力越强，消除模糊的能力就越强。</li>
+      <li>唯一的办法就是正视它、看清它、拆解它、化解它，不给它变模糊的机会。</li>
+      <li>一层层挖下去，直到挖不动为止。坦然地承认、接纳那些难以启齿的想法，让情绪极度透明。</li>
+      <li>恐惧就是一个欺软怕硬的货色，你躲避它，它就张牙舞爪，你正视它，它就原形毕露。</li>
+      <li>只取一个全书最触动自己的点，然后尽可能去实践、改变。</li>
+    </ol>
+  </div>
+
+  <!-- Chapter 3 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第三章 · 元认知——人类的终极能力</div>
+      </div>
+      <div class="chapter-badge badge-blue">9 条划线</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        元认知让你站在高处俯瞰全局；反思复盘是从经历中攫取智慧的唯一方式；人生由无数选择累加而成。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        "主动选择更重要而非更有趣的事"直接呼应我当前对时间管理、事务性工作稀释核心竞争力的困扰——元认知与每日反思是解药。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>每一次克制自己，就意味着比以前更强大。</li>
+      <li>在整个过程中，大脑都被本能和情绪劫持，理智脑根本没有主动启动的机会。</li>
+      <li>成长就是为了主动控制。</li>
+      <li>元认知能力总能让你站在高处俯瞰全局，让你主动选择去做那些更重要而不是更有趣的事情。</li>
+      <li>我们总是这样，一开始只想找一根绳子，最后却牵出一头大象。</li>
+      <li>如不做停留则很难攫取生活中的智慧，而反思复盘让我们有机会思考有什么经验可以获得。</li>
+      <li>帮我们从无知中跳出来，做出更加正确的选择。</li>
+      <li>人生是由无数个选择组成的，不同选择的累加造就了不同的人生。</li>
+      <li>当你开始反观自己的思考时，你能意识到自己在想什么，进而意识到这些想法是否明智，最终做出更好的选择。</li>
+    </ol>
+  </div>
+
+  <!-- Chapter 4 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第四章 · 专注力——情绪和智慧的交叉地带</div>
+      </div>
+      <div class="chapter-badge badge-green">3 条划线</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        深度沉浸能力决定成就高度；沉浸能力强的人处于支配层。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        划线条数少但分量重——深度专注（而非忙碌）是拉开差距的底层能力。对应"身心合一"的专注方法论。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>无论是谁，拥有深度沉浸的能力后，就一定能走向某一领域的高处。</li>
+      <li>从大范围看，沉浸能力强的人时常处于支配层，沉浸能力弱的人时常处于被支配层。</li>
+      <li>享受进化的好处也要承受进化带来的痛苦。</li>
+    </ol>
+  </div>
+
+  <!-- ====== PART 2 ====== -->
+  <div class="part-divider">
+    <div class="part-label">下篇</div>
+    <h2>外观世界，借力前行</h2>
+  </div>
+
+  <!-- Chapter 5 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第五章 · 学习力——学习不是一味地努力</div>
+      </div>
+      <div class="chapter-badge badge-red">13 条划线 · 全书第二</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        学习要在舒适区边缘（难易适中）；真正的成长靠反馈闭环；深度学习 + 输出倒逼输入。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        划线第二密集，说明"反馈闭环 + 反思晶体"是我认同的核心方法论——与"作品意识"、费曼技巧同源。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>一个真正的自控高手，不是一个只知道冲刺的人，而是一个善于主动休息、保持平衡的人。</li>
+      <li>选择做那些"跳一跳就能够得着"的学习或工作，是最容易进入专注状态的。</li>
+      <li>也愿你从此变得更加重要，此生不再平庸！</li>
+      <li>真正的学习成长不是"努力，努力再努力"，而是"反馈，反馈再反馈"。</li>
+      <li>打磨作品—到达一个小山的头部—受到更多关注—移动到一个更大山头的头部—借助系统推力，实现人生跃迁。</li>
+      <li>所有痛苦都是上天给我们的成长提示。</li>
+      <li>学习不是为了知道，而是为了发生真实的改变。</li>
+      <li>每日反思不是记流水账，而是留意每天最触动自己的那件事。一个触动点若能转化成一个认知晶体，生命质量将远远超过那些不反思的人。</li>
+      <li>一个人拥有的知识体系可以解决自己遇到的各种问题，那他必定是个厉害的人。</li>
+      <li>尽早抛弃轻松学习的幻想，锤炼深度学习能力，成为稀缺人才。</li>
+      <li>既不要太难，也不要太容易，难易适中的地带才是学习的心流通道。</li>
+      <li>持续反思让我对生活细节的感知能力变得越来越强，从生活中获得的东西也越来越多。</li>
+      <li>人与人之间的差距不是来自年龄，甚至不是来自经验，而是来自经验总结、反思和升华的能力。</li>
+    </ol>
+  </div>
+
+  <!-- Chapter 6 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第六章 · 行动力——没有行动世界只是个概念</div>
+      </div>
+      <div class="chapter-badge badge-accent">5 条划线</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        行动力来自认知打通与清晰目标；要容忍自己的笨拙，持续练习。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        "认知当技能、知道 ≠ 做到"是重要的自我提醒——知道再多方法，不练习就不会变成能力。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>我们应该学会用更成熟的心态包容自己最初的笨拙，即使做不好，也要持续练习。</li>
+      <li>把认知当成技能，知道或想通一个道理时，不要高兴得太早，想想后面还要做大量的练习。</li>
+      <li>如果不行动，我们可能永远也找不到自己的人生目标，依靠低维度的认知和经历，我们很难看清自己真正想要什么。</li>
+      <li>在能主动做成一件事情之后，我们就能够从侧视的角度，看到三维的、立体的世界。</li>
+      <li>有自己热爱的事，比行动力本身要重要得多。</li>
+    </ol>
+  </div>
+
+  <!-- Chapter 7 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第七章 · 情绪力——情绪是多角度看问题的智慧</div>
+      </div>
+      <div class="chapter-badge badge-purple">8 条划线</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        不要让事情本身束缚情绪；多角度看问题；别把自己的假设当事实。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        "假设 ≠ 事实"对管理沟通与跨团队协作极具实操价值；"笔或键盘帮你跳出一元视角"是我可立即用上的工具。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>怕什么真理无穷，进一寸有进一寸的欢喜。</li>
+      <li>即使没有鲜花和掌声，他们也会坚持输出和成长，收获的反馈和奖励都只是意外和惊喜。</li>
+      <li>事情本身并不重要，我们只是在通过它获取另外一种乐趣，顺便把这件事给做了。</li>
+      <li>困难和压力总能把人的情绪和注意力抓得死死的，让你很难看到其他角度。</li>
+      <li>不要让事情本身束缚了你的情绪和注意力。</li>
+      <li>无论什么时候，你的笔或键盘都能帮你跳出单一视角，看到更多维度。</li>
+      <li>很多人情绪不好，是因为他们把自己做的假设当成了事实，直接把情绪发泄了出来。</li>
+      <li>知道自己想要什么，才能免于盲目奔波，才有时间使用心智带宽审视自己。</li>
+    </ol>
+  </div>
+
+  <!-- Chapter 8 -->
+  <div class="chapter">
+    <div class="chapter-header">
+      <div>
+        <div class="chapter-title">第八章 · 早冥读写跑，人生五件套</div>
+      </div>
+      <div class="chapter-badge badge-green">5 条划线</div>
+    </div>
+    <div class="chapter-insight">
+      <div class="insight-box insight-key">
+        <span class="insight-label">关键观点</span>
+        阅读是最低成本的成长；用自己的话输出是深度学习的检验；觉知生活。
+      </div>
+      <div class="insight-box insight-mine">
+        <span class="insight-label">我的理解</span>
+        五件套中"读写"最贴合我的日常——读书笔记、复盘输出本身就是"用自己的话讲出来"的实践。
+      </div>
+    </div>
+    <ol class="quotes-list">
+      <li>无论学习什么东西，都要努力琢磨它们究竟在讲什么，然后用自己的话将其重新讲出来。</li>
+      <li>读书就是用最低廉的成本获取最高级的成长策略。</li>
+      <li>想要快速成为一个行业的高手，最好的方法就是和行业专家交流，直接向他们请教。</li>
+      <li>他们虽躺在床上，脑子里却像一壶刚烧开的沸水，思绪难以平静，彻夜不眠。</li>
+      <li>一旦认知上想通想透了，行动时就不需要用大把大把的意志力来支撑了。</li>
+    </ol>
+  </div>
+
+  <!-- ====== TOP QUOTES ====== -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon" style="background: var(--accent-bg); color: var(--accent);">"</div>
+      <div class="section-title">金句收藏</div>
+      <div class="section-subtitle">Top 12</div>
+    </div>
+    <div class="top-quotes">
+      <div class="top-quote"><p>急于求成，想同时做很多事；避难趋易，想不怎么努力就立即看到效果。<br><span style="color:var(--text-light); font-size:12px;">—— 焦虑的本质</span></p></div>
+      <div class="top-quote"><p>多数人为了逃避真正的思考，愿意做任何事情。</p></div>
+      <div class="top-quote"><p>一旦认知上想通想透了，行动时就不需要用大把大把的意志力来支撑了。</p></div>
+      <div class="top-quote"><p>真正的学习成长不是"努力，努力再努力"，而是"反馈，反馈再反馈"。</p></div>
+      <div class="top-quote"><p>学习不是为了知道，而是为了发生真实的改变。</p></div>
+      <div class="top-quote"><p>恐惧就是一个欺软怕硬的货色，你躲避它，它就张牙舞爪，你正视它，它就原形毕露。</p></div>
+      <div class="top-quote"><p>人生由无数个选择组成，不同选择的累加造就了不同的人生。</p></div>
+      <div class="top-quote"><p>未来视角是当前行动的指南针，让你主动选择去做那些更重要而不是更有趣的事情。</p></div>
+      <div class="top-quote"><p>很多人情绪不好，是因为他们把自己做的假设当成了事实。</p></div>
+      <div class="top-quote"><p>你的笔或键盘能帮你跳出单一视角，看到更多维度。</p></div>
+      <div class="top-quote"><p>所有痛苦都是上天给我们的成长提示。</p></div>
+      <div class="top-quote"><p>人与人之间的差距不是来自年龄，甚至不是来自经验，而是来自经验总结、反思和升华的能力。</p></div>
+    </div>
+  </div>
+
+  <!-- ====== KNOWLEDGE LINKS ====== -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon" style="background: var(--blue-light); color: var(--blue);">⇄</div>
+      <div class="section-title">知识连接</div>
+    </div>
+    <div class="links-list">
+      <div class="link-item">
+        <span class="link-type match">关联</span>
+        <p><strong>与《掌控习惯》关联：</strong>本书"在舒适区边缘练习"≈ 习惯养成的"黄金法则"（难度刚好超过当前能力 4%）；"反馈闭环"与习惯的"奖励机制"互相印证，可联动成体系。</p>
+      </div>
+      <div class="link-item">
+        <span class="link-type confirm">印证</span>
+        <p><strong>印证"刻意练习"理论：</strong>"舒适区边缘 + 专注 + 反馈"正是刻意练习四要素的通俗版表达。</p>
+      </div>
+      <div class="link-item">
+        <span class="link-type challenge">挑战</span>
+        <p><strong>挑战"意志力至上"观念：</strong>本书主张靠认知升级与机制设计减少对意志力的依赖，而非"硬扛"。</p>
+      </div>
+      <div class="link-item">
+        <span class="link-type apply">应用</span>
+        <p><strong>产品经理视角：</strong>"消除模糊"可直接映射到需求澄清、指标定义与目标管理；"反馈反馈再反馈"正是产品迭代的底层逻辑。</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ====== ATOMIC CARDS ====== -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon" style="background: var(--purple-light); color: var(--purple);">◈</div>
+      <div class="section-title">原子卡片</div>
+      <div class="section-subtitle">Zettelkasten · 9 张</div>
+    </div>
+    <div class="atomic-flow">
+      <span style="color: var(--text-light); font-size: 12px;">核心链路：</span>
+      <div class="chain">
+        <span>004 元认知</span><span class="arrow">→</span>
+        <span>008 每日反思</span><span class="arrow">→</span>
+        <span>005 舒适区边缘</span><span class="arrow">→</span>
+        <span>006 反馈验证</span><span class="arrow">→</span>
+        <span>009 认知变技能</span>
+      </div>
+    </div>
+    <div class="atomic-grid">
+      <div class="atomic-card">
+        <div class="atomic-num">001</div>
+        <div class="atomic-concept">学习权重：改变量 > 行动量 > 思考量 > 学习量</div>
+        <div class="atomic-source">第一章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">002</div>
+        <div class="atomic-concept">焦虑本质：急于求成 + 避难趋易</div>
+        <div class="atomic-source">第一章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">003</div>
+        <div class="atomic-concept">人生是一场消除模糊的比赛</div>
+        <div class="atomic-source">第二章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">004</div>
+        <div class="atomic-concept">元认知：跳出自己看自己</div>
+        <div class="atomic-source">第三章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">005</div>
+        <div class="atomic-concept">舒适区边缘：跳一跳够得着</div>
+        <div class="atomic-source">第一 / 四 / 五章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">006</div>
+        <div class="atomic-concept">反馈闭环：反馈，反馈再反馈</div>
+        <div class="atomic-source">第五章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">007</div>
+        <div class="atomic-concept">多角度看问题：别把假设当事实</div>
+        <div class="atomic-source">第七章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">008</div>
+        <div class="atomic-concept">每日反思：把触动写成认知晶体</div>
+        <div class="atomic-source">第三 / 五章</div>
+      </div>
+      <div class="atomic-card">
+        <div class="atomic-num">009</div>
+        <div class="atomic-concept">认知当技能：想通 ≠ 做到</div>
+        <div class="atomic-source">第六章</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ====== ACTION LIST ====== -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-icon" style="background: var(--green-light); color: var(--green);">✓</div>
+      <div class="section-title">行动清单</div>
+    </div>
+    <div class="action-list">
+      <div class="action-item">
+        <div class="action-checkbox"></div>
+        <div class="action-content">
+          <h4>建立每日反思</h4>
+          <p>每晚用 10 分钟记录"今天最触动我的事"，只写一件，写完复盘，坚持 30 天。避免记流水账——留意好的启发与坏的体验，并写出下一次怎么做。</p>
+          <span class="action-ref">第三章 · 卡片 008</span>
+        </div>
+      </div>
+      <div class="action-item">
+        <div class="action-checkbox"></div>
+        <div class="action-content">
+          <h4>实践"输出倒逼输入"</h4>
+          <p>每读完一本书/一份报告，用自己的话写一篇 500 字以内的"转述 + 行动点"，检验是否真懂。</p>
+          <span class="action-ref">第五章 / 第八章 · 卡片 006</span>
+        </div>
+      </div>
+      <div class="action-item">
+        <div class="action-checkbox"></div>
+        <div class="action-content">
+          <h4>把认知当技能练</h4>
+          <p>对本月学习的一个方法论（如 W2A Funnel / 投放复盘方法），主动设计刻意练习场景，不以"知道了"为终点。</p>
+          <span class="action-ref">第六章 · 卡片 009</span>
+        </div>
+      </div>
+      <div class="action-item">
+        <div class="action-checkbox"></div>
+        <div class="action-content">
+          <h4>情绪核对</h4>
+          <p>与人沟通前先区分"事实 vs 我的假设"，遇到情绪波动时，先用文字写下对方可能的视角再回应。</p>
+          <span class="action-ref">第七章 · 卡片 007</span>
+        </div>
+      </div>
+      <div class="action-item">
+        <div class="action-checkbox"></div>
+        <div class="action-content">
+          <h4>砍掉低价值忙碌</h4>
+          <p>每周五用 15 分钟列出下周最重要的 1 件事（know what you want），把精力集中到最重要的事上。</p>
+          <span class="action-ref">第三章 · 卡片 004</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ====== TAGS ====== -->
+  <div class="tags">
+    <span class="tag-pill">个人成长</span>
+    <span class="tag-pill">认知思维</span>
+    <span class="tag-pill">元认知</span>
+    <span class="tag-pill">习惯养成</span>
+    <span class="tag-pill">学习方法</span>
+    <span class="tag-pill">情绪管理</span>
+    <span class="tag-pill">读书笔记</span>
+  </div>
+
+  <!-- ====== FOOTER ====== -->
+  <div class="footer">
+    整理日期：2026-09-02 ｜ 数据来源：微信读书个人划线（67 条）<br>
+    划线内容版权归原作者及出版社所有
+  </div>
+
+</div>
+
+</body>
+</html>
