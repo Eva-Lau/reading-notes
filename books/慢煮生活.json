@@ -1,0 +1,205 @@
+{
+  "bookInfo": {
+    "bookId": "35991958",
+    "title": "慢煮生活",
+    "author": "汪曾祺",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 18
+  },
+  "bookmarks": {
+    "synckey": 1726705895,
+    "updated": [
+      {
+        "bookId": "35991958",
+        "bookmarkId": "35991958_12_419-465",
+        "createTime": 1726705895,
+        "chapterUid": 12,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "一个人的口味要宽一点、杂一点，“南甜北咸东辣西酸”，都去尝尝。对食物如此，对文化也应该这样。",
+        "range": "419-465"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第二章 一茶一饭过一生",
+        "chapterUid": 12,
+        "chapterIdx": 12
+      }
+    ],
+    "book": {
+      "bookId": "35991958",
+      "version": 1717463581,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/69/YueWen_35991958/s_YueWen_35991958.jpg",
+      "title": "慢煮生活",
+      "author": "汪曾祺",
+      "coverBoxInfo": {
+        "blurhash": "K]N,[At5t6~pWEWCD*j@WB",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#121b35"
+          },
+          {
+            "key": "1/6",
+            "hex": "#091a41"
+          },
+          {
+            "key": "1/8",
+            "hex": "#00184c"
+          },
+          {
+            "key": "2/4",
+            "hex": "#27304b"
+          },
+          {
+            "key": "2/6",
+            "hex": "#1f2f58"
+          },
+          {
+            "key": "2/8",
+            "hex": "#122e65"
+          },
+          {
+            "key": "3/4",
+            "hex": "#3c4765"
+          },
+          {
+            "key": "3/6",
+            "hex": "#344672"
+          },
+          {
+            "key": "3/8",
+            "hex": "#2b457e"
+          },
+          {
+            "key": "3/12",
+            "hex": "#014398"
+          },
+          {
+            "key": "4/6",
+            "hex": "#4f5f89"
+          },
+          {
+            "key": "4/10",
+            "hex": "#3a5ea3"
+          },
+          {
+            "key": "4/4",
+            "hex": "#565f7c"
+          },
+          {
+            "key": "5/10",
+            "hex": "#5678bd"
+          },
+          {
+            "key": "5/4",
+            "hex": "#6f7994"
+          },
+          {
+            "key": "5/8",
+            "hex": "#6079b0"
+          },
+          {
+            "key": "6/4",
+            "hex": "#8993ad"
+          },
+          {
+            "key": "6/6",
+            "hex": "#8193bc"
+          },
+          {
+            "key": "6/8",
+            "hex": "#7a93ca"
+          },
+          {
+            "key": "6/12",
+            "hex": "#6392e8"
+          },
+          {
+            "key": "7/8",
+            "hex": "#92ade6"
+          },
+          {
+            "key": "7/10",
+            "hex": "#87adf7"
+          },
+          {
+            "key": "7/12",
+            "hex": "#79adff"
+          },
+          {
+            "key": "8/4",
+            "hex": "#bcc8e2"
+          },
+          {
+            "key": "8/6",
+            "hex": "#b2c8f4"
+          },
+          {
+            "key": "8/12",
+            "hex": "#92c7ff"
+          },
+          {
+            "key": "9/2",
+            "hex": "#dee3ed"
+          },
+          {
+            "key": "9/12",
+            "hex": "#aae2ff"
+          },
+          {
+            "key": "1/100",
+            "hex": "#7a93ca"
+          },
+          {
+            "key": "2/100",
+            "hex": "#92ade6"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5ECF3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5ECF3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#001927"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#2c4377",
+          "hsv": [
+            222.0014489651695,
+            62.80210548844924,
+            46.76134676351379
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/958/35991958/s_35991958.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/958/35991958/s_35991958.jpg",
+        "colorsPure": [
+          "#6392e8",
+          "#79adff"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

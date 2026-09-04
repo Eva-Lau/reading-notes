@@ -1,0 +1,642 @@
+{
+  "bookInfo": {
+    "bookId": "26619954",
+    "title": "复盘思维：用经验提升能力的有效方法",
+    "author": "郑强",
+    "noteCount": 11,
+    "reviewCount": 5,
+    "markedStatus": 2,
+    "readingProgress": 49
+  },
+  "bookmarks": {
+    "synckey": 1605532164,
+    "updated": [
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_26_2421-2518",
+        "createTime": 1605532164,
+        "range": "2421-2518",
+        "markText": "时间原则（Time）、事件原则（Event）、清晰原则（Clear）、对比原则（Contrast）、避免歧义原则（Ambiguity）。这五个原则的英文首字母组合起来就是TECCA——泰卡原则，",
+        "type": 1,
+        "chapterUid": 26
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_24_1549-1605",
+        "chapterUid": 24,
+        "markText": "，套用标杆公司的方法一试，却不管用。为什么？原因就在于，我们在定义自己的问题时，把对方的问题看成了自己的问题了。",
+        "range": "1549-1605",
+        "createTime": 1605449565,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_23_4432-4506",
+        "chapterUid": 23,
+        "markText": "我们在评估一个问题是否是问题的时候，应该先搞清楚我们的标准是什么，是客户满意、经营业绩、扩大市场、战略布局，还是其他？标准不同，得出的结果肯定不同。",
+        "range": "4432-4506",
+        "createTime": 1605449473,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_23_2778-2930",
+        "chapterUid": 23,
+        "markText": "而随着时代的发展，我们发现，传统的木桶理论已经无法适应现在人们的需求，所以，现在我们经常提的一个理论叫优势理论。优势理论认为，一个人成就的高低并不在于是否可以补足缺陷，而在于能否发挥个人优势。发挥优势，自然要知道我们自己好在哪里，否则，成功只能算是碰运气。找出我们成功的原因，其实也是一个需要解决的问题。",
+        "range": "2778-2930",
+        "createTime": 1605449339,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_20_2237-2436",
+        "chapterUid": 20,
+        "markText": "另一方面，作为复盘催化师，也要在现场打造一个“对事不对人”的、温馨的谈话氛围。比如，催化师可以准备一些零食，利用海报、条幅、桌布、气球等道具布置会场，让大家能够放松心情，愿意进行分享。“对事不对人”氛围的打造，需要主持复盘的人注意：整个过程中尽量少谈人名，多谈事件；少用“你”，多用“我们”；少谈是谁的责任，多谈解决方案。总之，催化师应刻意淡化每个人在具体执行过程中的问题而强调整个事件产生的过程。",
+        "range": "2237-2436",
+        "createTime": 1605448673,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_20_2142-2237",
+        "chapterUid": 20,
+        "markText": "所以从一开始就要给参加复盘的人员这样的预期：这将不是一个平安祥和的座谈会，而是一次自我剖析、自我检讨的“内省会”。我在培训的时候，会在一开始就用一些励志的故事来强化大家对这个过程的接受程度。",
+        "range": "2142-2237",
+        "createTime": 1605448621,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_18_2696-2955",
+        "chapterUid": 18,
+        "markText": "“自我改变”“凡墙皆是门”“时间永远不够”“0.1>0”“错的永远是我们”五个复盘的核心理念，其实都是在诉说一个核心思想，就是一旦问题发生了，我们抱怨、伤心、愤怒，除了可以排解一下内心的苦闷，为自己找些对或不对的失败的理由之外，就事情本身而言，没有任何帮助。唯一的方法就是勇敢面对事情本身，在事情中抽丝剥茧地找到自己可以努力的方向，充满信心地去勇敢斗争。但同时要注意，我们的信念要无比坚定，我们的目标也要足够远大，但我们的行为却应足够落地，要能够从点滴做起，小处着眼，砥砺前行。这才是我们应该有的解决问题的态度和方法。",
+        "range": "2696-2955",
+        "createTime": 1605447857,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_16_2223-2414",
+        "chapterUid": 16,
+        "markText": "综上所述，时间的稀缺性要求我们：（1）永远不要妄想通过增加时间或其他资源的投入来获得最终的成功，我们还是要追本溯源，找到事情真正的症结进行复盘，进而提出解决方案；（2）因为时间有限，我们没有过多的精力去完美地解决一个问题，在复盘的时候，着眼点应在是否解决问题，而不是是否完美地解决问题；（3）相信专家的“直觉”，我们要去复盘的是专家“直觉”背后的原因，而不是其为何没有遵循规章制度。",
+        "range": "2223-2414",
+        "createTime": 1605447519,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_16_1773-1878",
+        "chapterUid": 16,
+        "markText": "这时候，我们是追求那个可能花费了大量时间和精力都无法达到的完美的100分，还是追求只需花费少许精力即可实现的80分呢？时间的珍稀性要求我们不要过度追求完美，而应正视自己的不足，先把事情做对做完，再谈把事情做好。",
+        "range": "1773-1878",
+        "createTime": 1605447252,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_15_1357-1452",
+        "chapterUid": 15,
+        "markText": "我们常说，“把话说出来，就好受多了”。其实，这是一种错误的观念。产生这一观念的原因在于，很多人把抱怨和倾诉混为一谈了，而它们是有着本质区别的。倾诉是基于事情本身的，而抱怨却是基于情绪本身的。",
+        "range": "1357-1452",
+        "createTime": 1605446747,
+        "type": 1
+      },
+      {
+        "bookId": "26619954",
+        "bookmarkId": "26619954_14_2315-2431",
+        "chapterUid": 14,
+        "markText": "所以，复盘首先要求我们做到的，就是停止抱怨，从我做起，重新审视自我价值，发现我们所蕴含的无穷能量，因为“我”才是一切发生的根源所在。即使上条路走错了，但是当我们坐下来去反思过往的时候，至少还能总结出一条失败的教训，这也是不小的收获。",
+        "range": "2315-2431",
+        "createTime": 1605446444,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第三节 时间永远不够",
+        "chapterUid": 16,
+        "chapterIdx": 16
+      },
+      {
+        "title": "第二节 凡墙皆是门",
+        "chapterUid": 15,
+        "chapterIdx": 15
+      },
+      {
+        "title": "第五节 错的永远是我们",
+        "chapterUid": 18,
+        "chapterIdx": 18
+      },
+      {
+        "title": "第五节 清晰表达问题的泰卡原则（TECCA）",
+        "chapterUid": 26,
+        "chapterIdx": 26
+      },
+      {
+        "title": "第二节 回顾有价值的目标",
+        "chapterUid": 20,
+        "chapterIdx": 20
+      },
+      {
+        "title": "第二节 问题的定义",
+        "chapterUid": 23,
+        "chapterIdx": 23
+      },
+      {
+        "title": "第一节 自我改变",
+        "chapterUid": 14,
+        "chapterIdx": 14
+      },
+      {
+        "title": "第三节 识别真正的问题",
+        "chapterUid": 24,
+        "chapterIdx": 24
+      }
+    ],
+    "book": {
+      "bookId": "26619954",
+      "version": 1234141967,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/954/26619954/s_26619954.jpg",
+      "title": "复盘思维：用经验提升能力的有效方法",
+      "author": "郑强",
+      "coverBoxInfo": {
+        "blurhash": "KDRfh5ni?H4UV?RP^*RQRP",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#151a35"
+          },
+          {
+            "key": "1/6",
+            "hex": "#101941"
+          },
+          {
+            "key": "1/8",
+            "hex": "#0c164b"
+          },
+          {
+            "key": "2/4",
+            "hex": "#292f4b"
+          },
+          {
+            "key": "2/6",
+            "hex": "#242e58"
+          },
+          {
+            "key": "2/8",
+            "hex": "#1c2c64"
+          },
+          {
+            "key": "3/4",
+            "hex": "#3f4665"
+          },
+          {
+            "key": "3/6",
+            "hex": "#394572"
+          },
+          {
+            "key": "3/8",
+            "hex": "#32447e"
+          },
+          {
+            "key": "3/12",
+            "hex": "#214197"
+          },
+          {
+            "key": "4/6",
+            "hex": "#525e89"
+          },
+          {
+            "key": "4/10",
+            "hex": "#445da3"
+          },
+          {
+            "key": "4/4",
+            "hex": "#585f7c"
+          },
+          {
+            "key": "5/10",
+            "hex": "#5e77bc"
+          },
+          {
+            "key": "5/4",
+            "hex": "#717994"
+          },
+          {
+            "key": "5/8",
+            "hex": "#6577b0"
+          },
+          {
+            "key": "6/4",
+            "hex": "#8b93ad"
+          },
+          {
+            "key": "6/6",
+            "hex": "#8592bc"
+          },
+          {
+            "key": "6/8",
+            "hex": "#7f92c9"
+          },
+          {
+            "key": "6/12",
+            "hex": "#6d90e7"
+          },
+          {
+            "key": "7/8",
+            "hex": "#97ace6"
+          },
+          {
+            "key": "7/10",
+            "hex": "#8eabf7"
+          },
+          {
+            "key": "7/12",
+            "hex": "#84abff"
+          },
+          {
+            "key": "8/4",
+            "hex": "#bec8e2"
+          },
+          {
+            "key": "8/6",
+            "hex": "#b6c7f4"
+          },
+          {
+            "key": "8/12",
+            "hex": "#9dc5ff"
+          },
+          {
+            "key": "9/2",
+            "hex": "#dfe3ed"
+          },
+          {
+            "key": "9/12",
+            "hex": "#b6dfff"
+          },
+          {
+            "key": "1/100",
+            "hex": "#7f92c9"
+          },
+          {
+            "key": "2/100",
+            "hex": "#97ace6"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5E5F3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5E5F3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#000427"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#152f86",
+          "hsv": [
+            226.25928172832724,
+            84.6357917820868,
+            52.72939750692521
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/954/26619954/s_26619954.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/954/26619954/s_26619954.jpg",
+        "colorsPure": [
+          "#6d90e7",
+          "#84abff"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1632381658,
+    "totalCount": 5,
+    "reviews": [
+      {
+        "reviewId": "17061918_7lSPQGYJk",
+        "review": {
+          "abstract": "而随着时代的发展，我们发现，传统的木桶理论已经无法适应现在人们的需求，所以，现在我们经常提的一个理论叫优势理论。优势理论认为，一个人成就的高低并不在于是否可以补足缺陷，而在于能否发挥个人优势。发挥优势，自然要知道我们自己好在哪里，否则，成功只能算是碰运气。找出我们成功的原因，其实也是一个需要解决的问题。",
+          "atUserVids": [],
+          "bookId": "26619954",
+          "bookVersion": 269035278,
+          "chapterUid": 23,
+          "content": "日日自新",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "2778-2930",
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7lSPQGYJk",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1605449360,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26619954",
+            "format": "epub",
+            "version": 1234141967,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/954/26619954/s_26619954.jpg",
+            "title": "复盘思维：用经验提升能力的有效方法",
+            "author": "郑强",
+            "payType": 1048577
+          },
+          "chapterIdx": 23,
+          "chapterTitle": "第二节 问题的定义",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7lSP9E2Ke",
+        "review": {
+          "abstract": "另一方面，作为复盘催化师，也要在现场打造一个“对事不对人”的、温馨的谈话氛围。比如，催化师可以准备一些零食，利用海报、条幅、桌布、气球等道具布置会场，让大家能够放松心情，愿意进行分享。“对事不对人”氛围的打造，需要主持复盘的人注意：整个过程中尽量少谈人名，多谈事件；少用“你”，多用“我们”；少谈是谁的责任，多谈解决方案。总之，催化师应刻意淡化每个人在具体执行过程中的问题而强调整个事件产生的过程。",
+          "atUserVids": [],
+          "bookId": "26619954",
+          "bookVersion": 269035278,
+          "chapterUid": 20,
+          "content": "说到底，复盘也是对于一个人情商的终极考量。主持会议的人更要注意说话的艺术",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "2237-2436",
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7lSP9E2Ke",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1605448724,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26619954",
+            "format": "epub",
+            "version": 1234141967,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/954/26619954/s_26619954.jpg",
+            "title": "复盘思维：用经验提升能力的有效方法",
+            "author": "郑强",
+            "payType": 1048577
+          },
+          "chapterIdx": 20,
+          "chapterTitle": "第二节 回顾有价值的目标",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 0
+      },
+      {
+        "reviewId": "17061918_7lSOeNDtH",
+        "review": {
+          "abstract": "“自我改变”“凡墙皆是门”“时间永远不够”“0.1>0”“错的永远是我们”五个复盘的核心理念，其实都是在诉说一个核心思想，就是一旦问题发生了，我们抱怨、伤心、愤怒，除了可以排解一下内心的苦闷，为自己找些对或不对的失败的理由之外，就事情本身而言，没有任何帮助。唯一的方法就是勇敢面对事情本身，在事情中抽丝剥茧地找到自己可以努力的方向，充满信心地去勇敢斗争。但同时要注意，我们的信念要无比坚定，我们的目标也要足够远大，但我们的行为却应足够落地，要能够从点滴做起，小处着眼，砥砺前行。这才是我们应该有的解决问题的态度和方法。",
+          "atUserVids": [],
+          "bookId": "26619954",
+          "bookVersion": 269035278,
+          "chapterUid": 18,
+          "content": "醍醐灌顶，顺利解决了职场上的很多问题",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "2696-2955",
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7lSOeNDtH",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1605447884,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26619954",
+            "format": "epub",
+            "version": 1234141967,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/954/26619954/s_26619954.jpg",
+            "title": "复盘思维：用经验提升能力的有效方法",
+            "author": "郑强",
+            "payType": 1048577
+          },
+          "chapterIdx": 18,
+          "chapterTitle": "第五节 错的永远是我们",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7lSNANZHJ",
+        "review": {
+          "abstract": "这时候，我们是追求那个可能花费了大量时间和精力都无法达到的完美的100分，还是追求只需花费少许精力即可实现的80分呢？时间的珍稀性要求我们不要过度追求完美，而应正视自己的不足，先把事情做对做完，再谈把事情做好。",
+          "atUserVids": [],
+          "bookId": "26619954",
+          "bookVersion": 555424522,
+          "chapterUid": 16,
+          "content": "先把事情做完，再把事情做做好，这是对于职场人效率提升很重要的一个点",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "1773-1878",
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7lSNANZHJ",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1605447294,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26619954",
+            "format": "epub",
+            "version": 1234141967,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/954/26619954/s_26619954.jpg",
+            "title": "复盘思维：用经验提升能力的有效方法",
+            "author": "郑强",
+            "payType": 1048577
+          },
+          "chapterIdx": 16,
+          "chapterTitle": "第三节 时间永远不够",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7lSMGVr8I",
+        "review": {
+          "abstract": "所以，复盘首先要求我们做到的，就是停止抱怨，从我做起，重新审视自我价值，发现我们所蕴含的无穷能量，因为“我”才是一切发生的根源所在。即使上条路走错了，但是当我们坐下来去反思过往的时候，至少还能总结出一条失败的教训，这也是不小的收获。",
+          "atUserVids": [],
+          "bookId": "26619954",
+          "bookVersion": 269035278,
+          "chapterUid": 14,
+          "content": "复盘的前提要素是要正确审视自己",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "2315-2431",
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7lSMGVr8I",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1605446467,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26619954",
+            "format": "epub",
+            "version": 1234141967,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/954/26619954/s_26619954.jpg",
+            "title": "复盘思维：用经验提升能力的有效方法",
+            "author": "郑强",
+            "payType": 1048577
+          },
+          "chapterIdx": 14,
+          "chapterTitle": "第一节 自我改变",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

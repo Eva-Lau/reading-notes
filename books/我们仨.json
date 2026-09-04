@@ -1,0 +1,218 @@
+{
+  "bookInfo": {
+    "bookId": "858626",
+    "title": "我们仨",
+    "author": "杨绛",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "markedStatus": 4,
+    "readingProgress": 100
+  },
+  "bookmarks": {
+    "synckey": 1682016771,
+    "updated": [
+      {
+        "bookId": "858626",
+        "bookmarkId": "858626_7_66563-66592",
+        "chapterUid": 34,
+        "markText": "“世间好物不坚牢，彩云易散琉璃脆”。现在，只剩下了我一人。",
+        "range": "2781-2810",
+        "createTime": 1543241726,
+        "type": 1
+      },
+      {
+        "bookId": "858626",
+        "bookmarkId": "858626_5_2643-2696",
+        "chapterUid": 15,
+        "markText": "等待是很烦心的。我叫自己别等，且埋头做我的工作。可是，说不等，却是急切的等，书也看不进，一个人在家团团转。",
+        "range": "2452-2505",
+        "createTime": 1543239348,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "（十六）",
+        "chapterUid": 34,
+        "chapterIdx": 25
+      },
+      {
+        "title": "（一）走上古驿道",
+        "chapterUid": 15,
+        "chapterIdx": 6
+      }
+    ],
+    "book": {
+      "bookId": "858626",
+      "version": 143002219,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/626/858626/s_858626.jpg",
+      "title": "我们仨",
+      "author": "杨绛",
+      "coverBoxInfo": {
+        "blurhash": "K2OLoZr;IA~VWWM{jaNHRj",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#331300"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3a0e00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#410600"
+          },
+          {
+            "key": "2/4",
+            "hex": "#472a11"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4e2700"
+          },
+          {
+            "key": "2/8",
+            "hex": "#532400"
+          },
+          {
+            "key": "3/4",
+            "hex": "#604125"
+          },
+          {
+            "key": "3/6",
+            "hex": "#673e10"
+          },
+          {
+            "key": "3/8",
+            "hex": "#6d3c00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#773600"
+          },
+          {
+            "key": "4/6",
+            "hex": "#845626"
+          },
+          {
+            "key": "4/10",
+            "hex": "#8e5200"
+          },
+          {
+            "key": "4/4",
+            "hex": "#7b5939"
+          },
+          {
+            "key": "5/10",
+            "hex": "#ad6b00"
+          },
+          {
+            "key": "5/4",
+            "hex": "#957353"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a86d25"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b08d6c"
+          },
+          {
+            "key": "6/6",
+            "hex": "#bb8a56"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c4873f"
+          },
+          {
+            "key": "6/12",
+            "hex": "#d08200"
+          },
+          {
+            "key": "7/8",
+            "hex": "#dfa158"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e79e3f"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ee9c1a"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e5c29d"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f2bf87"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb639"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f3e0cb"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd154"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c4873f"
+          },
+          {
+            "key": "2/100",
+            "hex": "#dfa158"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#d4ab81",
+          "hsv": [
+            30.486187588329056,
+            39.249557336411215,
+            82.9692037301785
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/626/858626/s_858626.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/626/858626/s_858626.jpg",
+        "colorsPure": [
+          "#d08200",
+          "#ee9c1a"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

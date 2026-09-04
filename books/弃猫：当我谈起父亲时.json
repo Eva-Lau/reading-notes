@@ -1,0 +1,508 @@
+{
+  "bookInfo": {
+    "bookId": "35433088",
+    "title": "弃猫：当我谈起父亲时",
+    "author": "[日]村上春树",
+    "noteCount": 7,
+    "reviewCount": 4,
+    "markedStatus": 2,
+    "readingProgress": 99
+  },
+  "bookmarks": {
+    "synckey": 1644733739,
+    "updated": [
+      {
+        "bookId": "35433088",
+        "bookmarkId": "35433088_12_3105-3130",
+        "chapterUid": 12,
+        "markText": "结果可以轻而易举地吞噬起因，让起因失去原本的力量。",
+        "range": "3105-3130",
+        "createTime": 1644733739,
+        "type": 1
+      },
+      {
+        "bookId": "35433088",
+        "bookmarkId": "35433088_12_1362-1424",
+        "chapterUid": 12,
+        "markText": "我至今都能清楚地回忆起那时岸边的潮声，以及风穿过防风松林带来的香气。正是这一件件小事无穷地累积，才让我这个人长成如今的模样。",
+        "range": "1362-1424",
+        "createTime": 1644733587,
+        "type": 1
+      },
+      {
+        "bookId": "35433088",
+        "bookmarkId": "35433088_9_2833-2928",
+        "createTime": 1644468142,
+        "range": "2833-2928",
+        "markText": "恐怕我们每个人都只能呼吸着不同时代的空气，背负着时代本身的重量活下去，也只能在时代的洪流中默默成长吧。没有好坏之分，而是顺其自然。就像现在的年轻人，也正没完没了地让他们的父母那代人头疼一样。",
+        "type": 1,
+        "chapterUid": 9
+      },
+      {
+        "bookId": "35433088",
+        "bookmarkId": "35433088_9_2553-2628",
+        "createTime": 1644468053,
+        "range": "2553-2628",
+        "markText": "直到现在，我偶尔还会梦到在学校考试，考卷上的试题一道也不会。时间一分一秒地流逝，而我完全招架不住。如果这次考试落榜，就大事不妙了……大概就是这样的梦。",
+        "type": 1,
+        "chapterUid": 9
+      },
+      {
+        "bookId": "35433088",
+        "bookmarkId": "35433088_5_1284-1349",
+        "createTime": 1644467328,
+        "range": "1284-1349",
+        "markText": "大概每个人或多或少都有些难忘的沉重回忆，我们无法用言语向人完整地诉说它的真实样貌，只是就这样无法言尽，就这样活下去，渐渐走向死亡。",
+        "type": 1,
+        "chapterUid": 5
+      },
+      {
+        "bookId": "35433088",
+        "bookmarkId": "35433088_5_980-1075",
+        "createTime": 1644467274,
+        "range": "980-1075",
+        "markText": "“抛弃”这种短暂的经历会给孩子的心灵蒙上怎样的阴影，我无法设身处地去感受，只能凭空想象“大抵是这样的吧”。不过这类记忆恐怕会成为看不见的伤痕，纵然深浅和形状会逐渐变化，也还是会纠缠人一辈子。",
+        "type": 1,
+        "chapterUid": 5
+      },
+      {
+        "bookId": "35433088",
+        "bookmarkId": "35433088_5_977-980",
+        "createTime": 1644467263,
+        "range": "977-980",
+        "markText": "被父母",
+        "type": 1,
+        "chapterUid": 5
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "7",
+        "chapterUid": 9,
+        "chapterIdx": 9
+      },
+      {
+        "title": "10",
+        "chapterUid": 12,
+        "chapterIdx": 12
+      },
+      {
+        "title": "3",
+        "chapterUid": 5,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "35433088",
+      "version": 732928429,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/34/YueWen_35433088/s_YueWen_35433088.jpg",
+      "title": "弃猫：当我谈起父亲时",
+      "author": "[日]村上春树",
+      "coverBoxInfo": {
+        "blurhash": "KaQ]$ixtkD-;a}kC_4Rjof",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#281a00"
+          },
+          {
+            "key": "1/6",
+            "hex": "#2d1a00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#311900"
+          },
+          {
+            "key": "2/4",
+            "hex": "#3c3004"
+          },
+          {
+            "key": "2/6",
+            "hex": "#402f00"
+          },
+          {
+            "key": "2/8",
+            "hex": "#432e00"
+          },
+          {
+            "key": "3/4",
+            "hex": "#53471d"
+          },
+          {
+            "key": "3/6",
+            "hex": "#574600"
+          },
+          {
+            "key": "3/8",
+            "hex": "#5a4500"
+          },
+          {
+            "key": "3/12",
+            "hex": "#5e4500"
+          },
+          {
+            "key": "4/6",
+            "hex": "#725f15"
+          },
+          {
+            "key": "4/10",
+            "hex": "#765e00"
+          },
+          {
+            "key": "4/4",
+            "hex": "#6e5f30"
+          },
+          {
+            "key": "5/10",
+            "hex": "#927700"
+          },
+          {
+            "key": "5/4",
+            "hex": "#877948"
+          },
+          {
+            "key": "5/8",
+            "hex": "#907800"
+          },
+          {
+            "key": "6/4",
+            "hex": "#a19360"
+          },
+          {
+            "key": "6/6",
+            "hex": "#a79344"
+          },
+          {
+            "key": "6/8",
+            "hex": "#ab9223"
+          },
+          {
+            "key": "6/12",
+            "hex": "#b09100"
+          },
+          {
+            "key": "7/8",
+            "hex": "#c6ad40"
+          },
+          {
+            "key": "7/10",
+            "hex": "#c9ac10"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ccac00"
+          },
+          {
+            "key": "8/4",
+            "hex": "#d5c891"
+          },
+          {
+            "key": "8/6",
+            "hex": "#dbc876"
+          },
+          {
+            "key": "8/12",
+            "hex": "#e7c700"
+          },
+          {
+            "key": "9/2",
+            "hex": "#ebe3c3"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffe31f"
+          },
+          {
+            "key": "1/100",
+            "hex": "#ab9223"
+          },
+          {
+            "key": "2/100",
+            "hex": "#c6ad40"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3F1E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3F1E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271E00"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#f5f1e2",
+          "hsv": [
+            47.750213301487165,
+            8.051116645572204,
+            96.26262605642428
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/88/35433088/s_35433088.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/88/35433088/s_35433088.jpg",
+        "colorsPure": [
+          "#b09100",
+          "#ccac00"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1645702064,
+    "totalCount": 4,
+    "reviews": [
+      {
+        "reviewId": "17061918_7x2soxSkt",
+        "review": {
+          "abstract": "我至今都能清楚地回忆起那时岸边的潮声，以及风穿过防风松林带来的香气。正是这一件件小事无穷地累积，才让我这个人长成如今的模样。",
+          "atUserVids": [],
+          "bookId": "35433088",
+          "bookVersion": 763474038,
+          "chapterUid": 12,
+          "content": "往往对人产生影响的，除了那些瞬间成长的大事之外，还有很多不计其数的小事",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "1362-1424",
+          "createTime": 1644733636,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7x2soxSkt",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "35433088",
+            "format": "epub",
+            "version": 732928429,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/34/YueWen_35433088/s_YueWen_35433088.jpg",
+            "title": "弃猫：当我谈起父亲时",
+            "author": "[日]村上春树",
+            "translator": "烨伊",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "10",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7wXMCYQLR",
+        "review": {
+          "bookId": "35433088",
+          "content": "人啊，都逃不了时代的洪流",
+          "bookVersion": 763474038,
+          "range": "2833-2928",
+          "abstract": "恐怕我们每个人都只能呼吸着不同时代的空气，背负着时代本身的重量活下去，也只能在时代的洪流中默默成长吧。没有好坏之分，而是顺其自然。就像现在的年轻人，也正没完没了地让他们的父母那代人头疼一样。",
+          "type": 1,
+          "chapterUid": 9,
+          "reviewId": "17061918_7wXMCYQLR",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1644468170,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "35433088",
+            "format": "epub",
+            "version": 732928429,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/34/YueWen_35433088/s_YueWen_35433088.jpg",
+            "title": "弃猫：当我谈起父亲时",
+            "author": "[日]村上春树",
+            "translator": "烨伊",
+            "payType": 1048577
+          },
+          "chapterIdx": 9,
+          "chapterTitle": "7",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7wXMz0pni",
+        "review": {
+          "bookId": "35433088",
+          "content": "人和人的这种感觉真的很奇妙，我也是时常还会梦到类似的场景",
+          "bookVersion": 763474038,
+          "range": "2553-2628",
+          "abstract": "直到现在，我偶尔还会梦到在学校考试，考卷上的试题一道也不会。时间一分一秒地流逝，而我完全招架不住。如果这次考试落榜，就大事不妙了……大概就是这样的梦。",
+          "type": 1,
+          "chapterUid": 9,
+          "reviewId": "17061918_7wXMz0pni",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1644468112,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "35433088",
+            "format": "epub",
+            "version": 732928429,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/34/YueWen_35433088/s_YueWen_35433088.jpg",
+            "title": "弃猫：当我谈起父亲时",
+            "author": "[日]村上春树",
+            "translator": "烨伊",
+            "payType": 1048577
+          },
+          "chapterIdx": 9,
+          "chapterTitle": "7",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7wXLMjz3P",
+        "review": {
+          "bookId": "35433088",
+          "content": "每个人都有秘密，既然已经是秘密了，也就意味着所有的痛苦纠缠都得自己承担。",
+          "bookVersion": 763474038,
+          "range": "1284-1349",
+          "abstract": "大概每个人或多或少都有些难忘的沉重回忆，我们无法用言语向人完整地诉说它的真实样貌，只是就这样无法言尽，就这样活下去，渐渐走向死亡。",
+          "type": 1,
+          "chapterUid": 5,
+          "reviewId": "17061918_7wXLMjz3P",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1644467392,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "35433088",
+            "format": "epub",
+            "version": 732928429,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/34/YueWen_35433088/s_YueWen_35433088.jpg",
+            "title": "弃猫：当我谈起父亲时",
+            "author": "[日]村上春树",
+            "translator": "烨伊",
+            "payType": 1048577
+          },
+          "chapterIdx": 5,
+          "chapterTitle": "3",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

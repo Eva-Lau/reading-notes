@@ -1,0 +1,252 @@
+{
+  "bookInfo": {
+    "bookId": "23723812",
+    "title": "走到人生边上：自问自答（增订本）",
+    "author": "杨绛",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "markedStatus": 2,
+    "readingProgress": 0
+  },
+  "bookmarks": {
+    "synckey": 0,
+    "updated": [],
+    "removed": [],
+    "chapters": [],
+    "book": {
+      "bookId": "23723812",
+      "version": 64953834,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/812/23723812/s_23723812.jpg",
+      "title": "走到人生边上：自问自答（增订本）",
+      "author": "杨绛",
+      "coverBoxInfo": {
+        "blurhash": "K3S?DVtR_3~WofR*xuofM{",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#211b1a"
+          },
+          {
+            "key": "1/6",
+            "hex": "#211b1a"
+          },
+          {
+            "key": "1/8",
+            "hex": "#211b1a"
+          },
+          {
+            "key": "2/4",
+            "hex": "#35302f"
+          },
+          {
+            "key": "2/6",
+            "hex": "#35302f"
+          },
+          {
+            "key": "2/8",
+            "hex": "#35302f"
+          },
+          {
+            "key": "3/4",
+            "hex": "#4c4645"
+          },
+          {
+            "key": "3/6",
+            "hex": "#4c4645"
+          },
+          {
+            "key": "3/8",
+            "hex": "#4c4645"
+          },
+          {
+            "key": "3/12",
+            "hex": "#4c4645"
+          },
+          {
+            "key": "4/6",
+            "hex": "#655f5d"
+          },
+          {
+            "key": "4/10",
+            "hex": "#655f5d"
+          },
+          {
+            "key": "4/4",
+            "hex": "#655f5d"
+          },
+          {
+            "key": "5/10",
+            "hex": "#7e7876"
+          },
+          {
+            "key": "5/4",
+            "hex": "#7e7876"
+          },
+          {
+            "key": "5/8",
+            "hex": "#7e7876"
+          },
+          {
+            "key": "6/4",
+            "hex": "#989290"
+          },
+          {
+            "key": "6/6",
+            "hex": "#989290"
+          },
+          {
+            "key": "6/8",
+            "hex": "#989290"
+          },
+          {
+            "key": "6/12",
+            "hex": "#989290"
+          },
+          {
+            "key": "7/8",
+            "hex": "#b2acaa"
+          },
+          {
+            "key": "7/10",
+            "hex": "#b2acaa"
+          },
+          {
+            "key": "7/12",
+            "hex": "#b2acaa"
+          },
+          {
+            "key": "8/4",
+            "hex": "#ccc7c5"
+          },
+          {
+            "key": "8/6",
+            "hex": "#ccc7c5"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ccc7c5"
+          },
+          {
+            "key": "9/2",
+            "hex": "#e7e2e0"
+          },
+          {
+            "key": "9/12",
+            "hex": "#e7e2e0"
+          },
+          {
+            "key": "1/100",
+            "hex": "#989290"
+          },
+          {
+            "key": "2/100",
+            "hex": "#b2acaa"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#270500"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#e0dbd9",
+          "hsv": [
+            9.377402964877737,
+            3.084116541353384,
+            87.99788533834587
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/812/23723812/s_23723812.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/812/23723812/s_23723812.jpg",
+        "colorsPure": [
+          "#989290",
+          "#b2acaa"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1686682252,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7zwFFQUEF",
+        "review": {
+          "abstract": "但人的劣根性是顽强的。少年贪玩，青年迷恋爱情，壮年汲汲于成名成家，暮年自安于自欺欺人。",
+          "atUserVids": [],
+          "bookId": "23723812",
+          "bookVersion": 441216542,
+          "chapterUid": 52,
+          "content": "晚上看朗读者，看到曹德旺企业家朗读杨绛先生的《走在人生边上》很有感触。",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "2063-2106",
+          "createTime": 1653493037,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7zwFFQUEF",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "23723812",
+            "format": "epub",
+            "version": 64953834,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/812/23723812/s_23723812.jpg",
+            "title": "走到人生边上：自问自答（增订本）",
+            "author": "杨绛",
+            "payType": 1048577
+          },
+          "chapterIdx": 15,
+          "chapterTitle": "十 受锻炼的是灵魂",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

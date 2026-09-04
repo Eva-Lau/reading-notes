@@ -1,0 +1,815 @@
+{
+  "bookInfo": {
+    "bookId": "3300024943",
+    "title": "一句顶一万句（2022新版）",
+    "author": "刘震云",
+    "noteCount": 29,
+    "reviewCount": 5,
+    "markedStatus": 3,
+    "readingProgress": 99
+  },
+  "bookmarks": {
+    "synckey": 1724346443,
+    "updated": [
+      {
+        "bookId": "3300024943",
+        "chapterUid": 68,
+        "bookmarkId": "3300024943_36_6375-6414",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692190398,
+        "range": "6382-6421",
+        "markText": "现在牛爱香商量也不商量，一个人做出决定，让宋解放去执行，宋解放一下回不过神来。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 68,
+        "bookmarkId": "3300024943_36_6233-6266",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692190383,
+        "range": "6240-6273",
+        "markText": "我不怕担这个恶名。现在断了来往，恶名还小；等闹出事来，恶名就大了。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 66,
+        "bookmarkId": "3300024943_34_5265-5287",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692188685,
+        "range": "5243-5265",
+        "markText": "我还看穿一件事，过日子是过以后，不是过从前。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 66,
+        "bookmarkId": "3300024943_34_4951-5034",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692188664,
+        "range": "4929-5012",
+        "markText": "因为这个相互没挑明，牛爱国知道六十岁之后的曹青娥是个妈。牛爱国小时，曹青娥并不亲他，亲弟弟牛爱河；小时认为妈不亲他是错的，后来跟妈记了仇；妈六十岁后，又觉得妈是个妈。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 65,
+        "bookmarkId": "3300024943_33_7358-7369",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692187910,
+        "range": "7394-7405",
+        "markText": "人生在世，草木一秋哇。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 65,
+        "bookmarkId": "3300024943_33_1713-1805",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692187695,
+        "range": "1749-1841",
+        "markText": "但他的不容易不是庞丽娜说的不容易，而是说话办事，一方总想着另一方，就没了自己的心思。没自己的心思倒没什么，所做的每一件事，都不是出自自己内心，而是为了给别人看，牛爱国突然觉得没了自己。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 64,
+        "bookmarkId": "3300024943_32_14265-14276",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692187574,
+        "range": "14214-14225",
+        "markText": "心倒是有，就是苦得很。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 64,
+        "bookmarkId": "3300024943_32_11986-12030",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692187443,
+        "range": "11964-12008",
+        "markText": "当年当回事的人，或走了，或死了，剩下的是一帮“听说”的人，也就无人把上辈子人的事当回事。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 64,
+        "bookmarkId": "3300024943_32_9733-9797",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692187326,
+        "range": "9711-9775",
+        "markText": "哭不是哭牛书道吸烟，而是爹爹的性子变了。老曹死时，曹青娥并没有特别伤心；死后，也没有特别想他。该想的，老曹活着的后五年都用光了。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 64,
+        "bookmarkId": "3300024943_32_8692-8723",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692187205,
+        "range": "8699-8730",
+        "markText": "曹青娥这时才明白，人是掰扯不得的，掰扯了别人，就是掰扯了自己。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 64,
+        "bookmarkId": "3300024943_32_5492-5512",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692187044,
+        "range": "5499-5519",
+        "markText": "我明白了，在你心里，我还不如一个拖拉机。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 64,
+        "bookmarkId": "3300024943_32_3427-3462",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692186990,
+        "range": "3434-3469",
+        "markText": "曹青娥怕黑，但有大灯在犁黑，旁边又有侯宝山坐着，她看着前方，一言不发。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 64,
+        "bookmarkId": "3300024943_32_662-751",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692186803,
+        "range": "669-758",
+        "markText": "但到了牛爱国三十五岁以后，爸牛书道已经死了，妈开始跟牛爱国说得着。妈有心事的时候，不找哥哥牛爱江说，不找姐姐牛爱香说，不找弟弟牛爱河说，单找牛爱国说。但牛爱国有心事，却不给妈说。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 63,
+        "bookmarkId": "3300024943_31_11484-11517",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692186718,
+        "range": "11460-11493",
+        "markText": "过去能跑的时候没跑，现在不能跑的时候跑了，要说可怜，也就这点可怜。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 63,
+        "bookmarkId": "3300024943_31_10256-10269",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692186576,
+        "range": "10232-10245",
+        "markText": "人一有偏向，中间自然有假。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 63,
+        "bookmarkId": "3300024943_31_9729-9804",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692186501,
+        "range": "9705-9780",
+        "markText": "另一个牛书道倒不是曹青娥当初认为的傻，他也不傻，但也不文静，也不喜欢读书，从来不说“正是”，剩下的就是调皮和胡搅蛮缠。在外胡搅蛮缠，在家里也胡搅蛮缠。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 63,
+        "bookmarkId": "3300024943_31_3714-3731",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692186188,
+        "range": "3721-3738",
+        "markText": "延津和吴摩西就成了改心的伤疤和短处"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 63,
+        "bookmarkId": "3300024943_31_2508-2601",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692186023,
+        "range": "2515-2608",
+        "markText": "一梦醒来，窗外的月牙，映在枣树的树杈间。但梦得多了，过去清楚的爹，面庞也渐渐模糊起来。白天细细想，也只能想出一个大概，爹的眉目、鼻子和嘴，被想成了一团麻花。原来一个人的面容，这么不经想。"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 63,
+        "bookmarkId": "3300024943_31_2103-2122",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692185991,
+        "range": "2110-2129",
+        "markText": "但世上的事情，越是有人不让想，心里越想"
+      },
+      {
+        "bookId": "3300024943",
+        "chapterUid": 63,
+        "bookmarkId": "3300024943_31_1324-1357",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1692185946,
+        "range": "1331-1364",
+        "markText": "懂道理的人，才跟他理论；这吵来吵去，也吵不出个子丑寅卯，就为磨嘴？"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_42_9079-9095",
+        "createTime": 1692147874,
+        "chapterUid": 61,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "事情虽然别扭着，却得按着别扭来。",
+        "range": "9093-9109"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_14963-15007",
+        "createTime": 1692147234,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "不是心疼那点儿猪耳朵和猪心，是让小谢明白，一个人想和另一个人成为朋友，也不是件容易的事。",
+        "range": "14941-14985"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_10357-10373",
+        "createTime": 1692146965,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "爱不爱说话，原来也看跟谁在一起。",
+        "range": "10335-10351"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_9756-9780",
+        "createTime": 1692146873,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "不爱说话是心里还有话，没话说是干脆什么都没有了。",
+        "range": "9734-9758"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_9722-9756",
+        "createTime": 1692146854,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "一开始觉得没有话说是两人不爱说话，后来发现不爱说话和没话说是两回事。",
+        "range": "9700-9734"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_9010-9065",
+        "createTime": 1692146771,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "牛爱国再遇到烦心事，就不能蹚河越山去找杜青海码放；杜青海遇到烦心事，也不能再找牛爱国，让牛爱国反问“你说呢”。",
+        "range": "8988-9043"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_5616-5643",
+        "createTime": 1692145692,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "爸妈不亲你，有不亲的好处；爸妈护着你，有护着的坏处。”",
+        "range": "5623-5650"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_4904-4953",
+        "createTime": 1692145639,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "从小不亲没啥，孩子遇到难处，也不知护着孩子；不护倒在其次，也不知给孩子指条出路，弄得孩子左右为难。",
+        "range": "4911-4960"
+      },
+      {
+        "bookId": "3300024943",
+        "bookmarkId": "3300024943_28_3351-3469",
+        "createTime": 1692111225,
+        "chapterUid": 60,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "打牛爱国记事起，他爸牛书道亲牛爱江，他妈曹青娥亲牛爱河，剩下牛爱国无人亲；有人亲不是说吃上穿上占多大便宜，而是受人欺负后，能有人做主；有苦处，能扎到他怀里说；牛爱国无人亲，遇事无人做主，有苦处无处说，姐姐牛爱香比他大八岁，姐便护着牛爱国",
+        "range": "3358-3476"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "九",
+        "chapterUid": 68,
+        "chapterIdx": 27
+      },
+      {
+        "title": "七",
+        "chapterUid": 66,
+        "chapterIdx": 25
+      },
+      {
+        "title": "六",
+        "chapterUid": 65,
+        "chapterIdx": 24
+      },
+      {
+        "title": "五",
+        "chapterUid": 64,
+        "chapterIdx": 23
+      },
+      {
+        "title": "一",
+        "chapterUid": 60,
+        "chapterIdx": 19
+      },
+      {
+        "title": "二",
+        "chapterUid": 61,
+        "chapterIdx": 20
+      },
+      {
+        "title": "四",
+        "chapterUid": 63,
+        "chapterIdx": 22
+      }
+    ],
+    "book": {
+      "bookId": "3300024943",
+      "version": 1120411252,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/43/3300024943/s_3300024943.jpg",
+      "title": "一句顶一万句（2022新版）",
+      "author": "刘震云",
+      "coverBoxInfo": {
+        "blurhash": "K29P1ej[0hxua|ay9|fQ=_",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#380e0f"
+          },
+          {
+            "key": "1/6",
+            "hex": "#40030a"
+          },
+          {
+            "key": "1/8",
+            "hex": "#480006"
+          },
+          {
+            "key": "2/4",
+            "hex": "#4d261f"
+          },
+          {
+            "key": "2/6",
+            "hex": "#561f16"
+          },
+          {
+            "key": "2/8",
+            "hex": "#60140b"
+          },
+          {
+            "key": "3/4",
+            "hex": "#673c31"
+          },
+          {
+            "key": "3/6",
+            "hex": "#723625"
+          },
+          {
+            "key": "3/8",
+            "hex": "#7c2f17"
+          },
+          {
+            "key": "3/12",
+            "hex": "#8d1900"
+          },
+          {
+            "key": "4/6",
+            "hex": "#8d503b"
+          },
+          {
+            "key": "4/10",
+            "hex": "#a1431c"
+          },
+          {
+            "key": "4/4",
+            "hex": "#825547"
+          },
+          {
+            "key": "5/10",
+            "hex": "#c05d32"
+          },
+          {
+            "key": "5/4",
+            "hex": "#9b6f60"
+          },
+          {
+            "key": "5/8",
+            "hex": "#b56343"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b68979"
+          },
+          {
+            "key": "6/6",
+            "hex": "#c4846b"
+          },
+          {
+            "key": "6/8",
+            "hex": "#d07e5d"
+          },
+          {
+            "key": "6/12",
+            "hex": "#e7723a"
+          },
+          {
+            "key": "7/8",
+            "hex": "#ee9874"
+          },
+          {
+            "key": "7/10",
+            "hex": "#f99365"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ff8c52"
+          },
+          {
+            "key": "8/4",
+            "hex": "#ecbeab"
+          },
+          {
+            "key": "8/6",
+            "hex": "#fcb89c"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffa668"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f3dfd7"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffc083"
+          },
+          {
+            "key": "1/100",
+            "hex": "#d07e5d"
+          },
+          {
+            "key": "2/100",
+            "hex": "#ee9874"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#270500"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#4a1f1a",
+          "hsv": [
+            6.013454922339063,
+            64.98007073658312,
+            28.97393510687375
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/943/3300024943/s_3300024943.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/943/3300024943/s_3300024943.jpg",
+        "colorsPure": [
+          "#e7723a",
+          "#ff8c52"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1724347162,
+    "totalCount": 5,
+    "reviews": [
+      {
+        "reviewId": "17061918_7KvUrP0AZ",
+        "review": {
+          "type": 1,
+          "bookId": "3300024943",
+          "chapterUid": 64,
+          "content": "看到这里，真的爆哭。读懂一本书，大多是在书里看到了自己的影子。",
+          "bookVersion": 0,
+          "abstract": "“三十三年了，我特别想问他一句话。”牛爱国：“啥话？”曹青娥：“他把卖我那十块大洋，使到啥地方去了。是买了头牲口，还是置了块地，还是拿它做了小买卖。”",
+          "range": "12860-13051",
+          "reviewId": "17061918_7KvUrP0AZ",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1692187533,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300024943",
+            "format": "epub",
+            "version": 1120411252,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/43/3300024943/s_3300024943.jpg",
+            "title": "一句顶一万句（2022新版）",
+            "author": "刘震云",
+            "payType": 1048577
+          },
+          "chapterIdx": 23,
+          "chapterTitle": "五",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "commentsCount": 2,
+        "likesCount": 14
+      },
+      {
+        "reviewId": "17061918_7KvTFrnQP",
+        "review": {
+          "type": 1,
+          "bookId": "3300024943",
+          "chapterUid": 64,
+          "content": "多么讽刺",
+          "bookVersion": 0,
+          "abstract": "但到了牛爱国三十五岁以后，爸牛书道已经死了，妈开始跟牛爱国说得着。妈有心事的时候，不找哥哥牛爱江说，不找姐姐牛爱香说，不找弟弟牛爱河说，单找牛爱国说。但牛爱国有心事，却不给妈说。",
+          "range": "669-758",
+          "reviewId": "17061918_7KvTFrnQP",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1692186818,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300024943",
+            "format": "epub",
+            "version": 1120411252,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/43/3300024943/s_3300024943.jpg",
+            "title": "一句顶一万句（2022新版）",
+            "author": "刘震云",
+            "payType": 1048577
+          },
+          "chapterIdx": 23,
+          "chapterTitle": "五",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7KvTuLKRn",
+        "review": {
+          "type": 1,
+          "bookId": "3300024943",
+          "chapterUid": 63,
+          "content": "“人一有偏向，中间自然有假。”看到这句话，体会到了一句顶一万句。",
+          "bookVersion": 0,
+          "abstract": "人一有偏向，中间自然有假",
+          "range": "10232-10244",
+          "reviewId": "17061918_7KvTuLKRn",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1692186660,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300024943",
+            "format": "epub",
+            "version": 1120411252,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/43/3300024943/s_3300024943.jpg",
+            "title": "一句顶一万句（2022新版）",
+            "author": "刘震云",
+            "payType": 1048577
+          },
+          "chapterIdx": 22,
+          "chapterTitle": "四",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1
+      },
+      {
+        "reviewId": "17061918_7KvSQh0kh",
+        "review": {
+          "type": 1,
+          "bookId": "3300024943",
+          "chapterUid": 63,
+          "content": "所以记忆啊，总是会有模糊的一天的，记住一个人的方式又是什么呢？\n",
+          "bookVersion": 0,
+          "abstract": "一梦醒来，窗外的月牙，映在枣树的树杈间。但梦得多了，过去清楚的爹，面庞也渐渐模糊起来。白天细细想，也只能想出一个大概，爹的眉目、鼻子和嘴，被想成了一团麻花。原来一个人的面容，这么不经想。",
+          "range": "2515-2608",
+          "reviewId": "17061918_7KvSQh0kh",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1692186062,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300024943",
+            "format": "epub",
+            "version": 1120411252,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/43/3300024943/s_3300024943.jpg",
+            "title": "一句顶一万句（2022新版）",
+            "author": "刘震云",
+            "payType": 1048577
+          },
+          "chapterIdx": 22,
+          "chapterTitle": "四",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1
+      },
+      {
+        "reviewId": "17061918_7KvSwt68z",
+        "review": {
+          "abstract": "我不是哭他个龟孙，我是哭我自己。我这一辈子，算是毁到了他手里。",
+          "atUserVids": [],
+          "bookId": "3300024943",
+          "bookVersion": 1969424867,
+          "chapterName": "三",
+          "chapterUid": 62,
+          "content": "这就是她的婚姻",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "notVisibleToFriends": 0,
+          "range": "15658-15689",
+          "createTime": 1692185769,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7KvSwt68z",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300024943",
+            "format": "epub",
+            "version": 1120411252,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/43/3300024943/s_3300024943.jpg",
+            "title": "一句顶一万句（2022新版）",
+            "author": "刘震云",
+            "payType": 1048577
+          },
+          "chapterIdx": 21,
+          "chapterTitle": "三",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

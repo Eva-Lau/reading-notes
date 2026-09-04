@@ -1,0 +1,302 @@
+{
+  "bookInfo": {
+    "bookId": "3300061911",
+    "title": "我值得拥有美好",
+    "author": "周小宽",
+    "noteCount": 3,
+    "reviewCount": 1,
+    "markedStatus": 2,
+    "readingProgress": 7
+  },
+  "bookmarks": {
+    "synckey": 1714480776,
+    "updated": [
+      {
+        "bookId": "3300061911",
+        "bookmarkId": "3300061911_7_2190-2217",
+        "createTime": 1714480776,
+        "chapterUid": 7,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "自我坍塌是因为人的内心其实是没有支柱的，或者是空心的。",
+        "range": "2190-2217"
+      },
+      {
+        "bookId": "3300061911",
+        "bookmarkId": "3300061911_4_405-435",
+        "createTime": 1714479100,
+        "chapterUid": 4,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "不能表达愤怒，活得完全没有攻击性的人，其实是活得很不健康的。",
+        "range": "405-435"
+      },
+      {
+        "bookId": "3300061911",
+        "bookmarkId": "3300061911_3_1886-1945",
+        "createTime": 1714478977,
+        "chapterUid": 3,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "唯有先拥有自己，才能拥有好的关系；唯有让内在的自己平衡和舒服了，才能和别人建立长期的、有生命力的、流动的、健康的关系。",
+        "range": "1886-1945"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "照顾别人的情绪之前，先照顾自己的情绪",
+        "chapterUid": 7,
+        "chapterIdx": 7
+      },
+      {
+        "title": "第一章 拒绝自我折磨，快速走出负面情绪",
+        "chapterUid": 4,
+        "chapterIdx": 4
+      },
+      {
+        "title": "自序 爱自己，不是说说而已",
+        "chapterUid": 3,
+        "chapterIdx": 3
+      }
+    ],
+    "book": {
+      "bookId": "3300061911",
+      "version": 1962361572,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/91/cpplatform_fgh7w2rwmu7bizejxxf9kc/s_cpplatform_fgh7w2rwmu7bizejxxf9kc1686803811.jpg",
+      "title": "我值得拥有美好",
+      "author": "周小宽",
+      "coverBoxInfo": {
+        "blurhash": "KBRp2qEf~W@ZxaXmzWX756",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#00222c"
+          },
+          {
+            "key": "1/6",
+            "hex": "#002534"
+          },
+          {
+            "key": "1/8",
+            "hex": "#00283d"
+          },
+          {
+            "key": "2/4",
+            "hex": "#00373f"
+          },
+          {
+            "key": "2/6",
+            "hex": "#003a46"
+          },
+          {
+            "key": "2/8",
+            "hex": "#003c4e"
+          },
+          {
+            "key": "3/4",
+            "hex": "#0d4f57"
+          },
+          {
+            "key": "3/6",
+            "hex": "#00525f"
+          },
+          {
+            "key": "3/8",
+            "hex": "#005566"
+          },
+          {
+            "key": "3/12",
+            "hex": "#005a73"
+          },
+          {
+            "key": "4/6",
+            "hex": "#006c77"
+          },
+          {
+            "key": "4/10",
+            "hex": "#007386"
+          },
+          {
+            "key": "4/4",
+            "hex": "#2e686f"
+          },
+          {
+            "key": "5/10",
+            "hex": "#008d9e"
+          },
+          {
+            "key": "5/4",
+            "hex": "#4b8287"
+          },
+          {
+            "key": "5/8",
+            "hex": "#008a97"
+          },
+          {
+            "key": "6/4",
+            "hex": "#639da1"
+          },
+          {
+            "key": "6/6",
+            "hex": "#3da1a8"
+          },
+          {
+            "key": "6/8",
+            "hex": "#00a5af"
+          },
+          {
+            "key": "6/12",
+            "hex": "#00acbe"
+          },
+          {
+            "key": "7/8",
+            "hex": "#20c0c8"
+          },
+          {
+            "key": "7/10",
+            "hex": "#00c4cf"
+          },
+          {
+            "key": "7/12",
+            "hex": "#00c7d7"
+          },
+          {
+            "key": "8/4",
+            "hex": "#96d3d4"
+          },
+          {
+            "key": "8/6",
+            "hex": "#75d7db"
+          },
+          {
+            "key": "8/12",
+            "hex": "#00e4ef"
+          },
+          {
+            "key": "9/2",
+            "hex": "#cae9e9"
+          },
+          {
+            "key": "9/12",
+            "hex": "#00ffff"
+          },
+          {
+            "key": "1/100",
+            "hex": "#00a5af"
+          },
+          {
+            "key": "2/100",
+            "hex": "#20c0c8"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5F2F3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5F2F3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#002722"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#daf2f2",
+          "hsv": [
+            180.60096370183476,
+            9.767745275692468,
+            94.95899559927516
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/911/3300061911/s_3300061911.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/911/3300061911/s_3300061911.jpg",
+        "colorsPure": [
+          "#00acbe",
+          "#00c7d7"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1714480548,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7QQogWVYS",
+        "review": {
+          "abstract": "因为人们不能处在非常亢奋的状态下太久，那样非常消耗能量。",
+          "atUserVids": [],
+          "bookId": "3300061911",
+          "bookVersion": 1962361572,
+          "chapterName": "不开心时，一定要想办法开心吗？",
+          "chapterUid": 6,
+          "content": "要允许自己不快乐，这才是获得快乐的前提",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 1,
+          "notVisibleToFriends": 0,
+          "range": "3074-3102",
+          "createTime": 1714480548,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7QQogWVYS",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 8,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300061911",
+            "format": "epub",
+            "version": 1962361572,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/91/cpplatform_fgh7w2rwmu7bizejxxf9kc/s_cpplatform_fgh7w2rwmu7bizejxxf9kc1686803811.jpg",
+            "title": "我值得拥有美好",
+            "author": "周小宽",
+            "payType": 1048577
+          },
+          "chapterIdx": 6,
+          "chapterTitle": "不开心时，一定要想办法开心吗？",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "bookInfo": {
+    "bookId": "41439366",
+    "title": "自洽：在不确定的日子里向内看",
+    "author": "史欣悦",
+    "noteCount": 28,
+    "reviewCount": 1,
+    "markedStatus": 4,
+    "readingProgress": 100
+  },
+  "bookmarks": {
+    "synckey": 1693505309,
+    "updated": [
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_50_4813-4848",
+        "createTime": 1664690392,
+        "range": "4822-4857",
+        "markText": "无论什么本事，都是从无到有、从少到多、从浅入深地积累，没有魔法和捷径。",
+        "type": 1,
+        "chapterUid": 100
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_46_1427-1456",
+        "createTime": 1664513762,
+        "range": "1412-1441",
+        "markText": "长期主义者是务实的，他们既能抬头看月亮，也能看清脚下的路。",
+        "type": 1,
+        "chapterUid": 96
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_45_6204-6277",
+        "createTime": 1664513563,
+        "range": "6203-6276",
+        "markText": "不论是谁，日常都难免蝇营狗苟、一地鸡毛，但是生活中仍然有超脱眼前琐碎的美好，可以是诗和远方，也可以是手边的一把京胡、一方邮票、一本闲书、一盏清茶。",
+        "type": 1,
+        "chapterUid": 95
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_45_6333-6370",
+        "createTime": 1664513465,
+        "range": "6332-6369",
+        "markText": "人除了是工作的人，还是运动的人、审美的人、艺术的人、求知的人和有情趣的人。",
+        "type": 1,
+        "chapterUid": 95
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_45_1769-1836",
+        "createTime": 1664513151,
+        "range": "1727-1794",
+        "markText": "读书有精读，有泛读，一般的小说、畅销书都可以泛泛地读，甚至一两天就翻完一本。电子书很适合泛读，一个阅读器，可以下载许多书，还不占地方。",
+        "type": 1,
+        "chapterUid": 95
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_44_3022-3064",
+        "createTime": 1664513003,
+        "range": "3007-3049",
+        "markText": "这世上有用的事太多了，干也干不完，可偏偏总是没用的事让人觉得人间值得，真是太美好了。",
+        "type": 1,
+        "chapterUid": 94
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_44_1235-1317",
+        "createTime": 1664512819,
+        "range": "1220-1302",
+        "markText": "因为喜欢历史，我到一个地方总想去看看那些历史书中出现过的地名。尤其是那些曾经名声显赫，现在已经变迁很多的地方，尽管是物也非、人也非，站到那里还是有扑面而来的现场感。",
+        "type": 1,
+        "chapterUid": 94
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_44_539-582",
+        "createTime": 1664512735,
+        "range": "524-567",
+        "markText": "“读万卷书，行万里路，胸中脱去尘浊，自然丘壑内营”。所以万卷书和万里路是给人长气韵的。",
+        "type": 1,
+        "chapterUid": 94
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_40_4039-4088",
+        "createTime": 1664512180,
+        "range": "3998-4047",
+        "markText": "有些事情反复纠结，终于想明白了，要唱一句：悟已往之不谏，知来者之可追，实迷途其未远，觉今是而昨非。",
+        "type": 1,
+        "chapterUid": 90
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_40_2446-2476",
+        "createTime": 1664511960,
+        "range": "2369-2392",
+        "markText": "身处低谷之中，不怨天，不尤人，更不要埋怨自己。",
+        "type": 1,
+        "chapterUid": 90
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_40_1708-1763",
+        "createTime": 1664511884,
+        "range": "1614-1669",
+        "markText": "相比高光，低谷更让人成长。回首过往自己和他人的各种“高低”时刻，我发现，没有过不去的高光，但会有走不出的低谷。",
+        "type": 1,
+        "chapterUid": 90
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_35_566-650",
+        "createTime": 1664276332,
+        "range": "551-635",
+        "markText": "对待一般错误的批评，要分事前事后：原则上，批评和提醒应该事前重，丑话说在前头，预防为主；事后轻，不要得理不让人。如果颠倒了前后轻重，员工的士气、团队的氛围都会受到影响。",
+        "type": 1,
+        "chapterUid": 85
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_33_2735-2819",
+        "createTime": 1664275771,
+        "range": "2737-2821",
+        "markText": "被职业改造自我的过程并不愉快，而且这个过程还是长期的，不仅仅是孙悟空被关进了炼丹炉七七四十九天那么简单，还有后面被压在五行山下的五百年，以及西天取经路上的九九八十一难。",
+        "type": 1,
+        "chapterUid": 83
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_32_2252-2336",
+        "createTime": 1664275413,
+        "range": "2256-2340",
+        "markText": "著名企业家冯仑曾经总结道，人要感到幸福就三件事：有点闲钱，有点闲工夫，没有是非。他点出了工作现实层面的三个方面：工资是不是够高，时间是不是可控，周围的人际关系是否良好。",
+        "type": 1,
+        "chapterUid": 82
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_31_4312-4432",
+        "createTime": 1664275295,
+        "range": "4330-4450",
+        "markText": "工作时间长分为两类：一个是马拉松式的耗钟点，每天都工作10个小时以上；另一个是上下班界限不明显，个人的休息时间，比如周末、假期，常常被工作打搅。如果遇上一个结合了这两个特点的工作，本身工作时间很长，下班后还被打搅，那工作的满意度一定不太高。",
+        "type": 1,
+        "chapterUid": 81
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_31_2174-2225",
+        "createTime": 1664275144,
+        "range": "2192-2243",
+        "markText": "工作都有两面，一面是现实，一面是情怀。但是现实是情怀的基础，情怀是在现实还维持得下去的基础上才能谈的。",
+        "type": 1,
+        "chapterUid": 81
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_27_2238-2285",
+        "createTime": 1664243733,
+        "range": "2200-2247",
+        "markText": "两个人生活在一起，是求大同、存小异，有基本一致的共同目标，却也不要时时刻刻、时时处处保持同步。",
+        "type": 1,
+        "chapterUid": 77
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_22_7801-7882",
+        "createTime": 1664241667,
+        "range": "7503-7584",
+        "markText": "总结一下，想要把话说好，把天聊好，首先是从诚实、真诚出发，请教别人擅长和感兴趣的事，不妄下判断，不自说自话，其次读一读经典作品，体会一下经典作品中人物说话的感觉。",
+        "type": 1,
+        "chapterUid": 72
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_16_3689-3718",
+        "createTime": 1664191885,
+        "range": "3708-3737",
+        "markText": "我们好好学习、天天向上不是为别人，是让自己觉得舒服和满意。",
+        "type": 1,
+        "chapterUid": 66
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_14_1729-1793",
+        "createTime": 1664191228,
+        "range": "1713-1777",
+        "markText": "机会都是试出来的，不是想出来的，好谋而无断，是不可取的。如何能“断”呢？就是靠行动。行动是治疗想法太多带来的选择焦虑的最好解药。",
+        "type": 1,
+        "chapterUid": 64
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_14_1182-1299",
+        "createTime": 1664191143,
+        "range": "1166-1283",
+        "markText": "人生不是战争，不求事事都能提前“庙算”胜出。有些事试了试不行，那也就不行了，没有无法回头和万劫不复，但是万一行了呢？生活也没有完全准备好了再行动这回事，无论是上学、就业、恋爱、婚姻还是生孩子，也都是考虑差不多，大概率靠谱，就可以做了。",
+        "type": 1,
+        "chapterUid": 64
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_12_1101-1198",
+        "createTime": 1664190840,
+        "range": "1086-1183",
+        "markText": "当今社会，事事离不开商业，事事也都在为商业服务，并成为商业的一部分。赚钱成为无须解释的人生目标，资本的力量和造富的神话时时刺激着人们的神经，燃起人们的希望和欲望，也加剧了人们心中的压力和不平衡。",
+        "type": 1,
+        "chapterUid": 62
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_10_2014-2095",
+        "createTime": 1664189979,
+        "range": "2016-2097",
+        "markText": "在这个时候，我们向内探寻，如何维护自己的身体，如何滋养自己的心灵，如何接纳自己的情绪，如何锻炼自己的思维，这就是经典意义上的内卷，而这个内卷无疑是对我们有好处的。",
+        "type": 1,
+        "chapterUid": 60
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_8_3206-3249",
+        "createTime": 1664189176,
+        "range": "3244-3287",
+        "markText": "因此，平凡时不自卑，成功时不自矜，从自己出发，又能回归自己，不失为一项智慧人生的修行。",
+        "type": 1,
+        "chapterUid": 58
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_8_1808-1845",
+        "createTime": 1664188932,
+        "range": "1810-1847",
+        "markText": "认识并接受自己的特质，从自己出发，做一事有一事的收获，过一日有一日的长进。",
+        "type": 1,
+        "chapterUid": 58
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_8_929-976",
+        "createTime": 1664188729,
+        "range": "914-961",
+        "markText": "现代人的精神危机很多来自不能认识自己，给自己定的目标都是别人说的，想做的事都是别人期望他做的。",
+        "type": 1,
+        "chapterUid": 58
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_8_705-750",
+        "createTime": 1664188691,
+        "range": "690-735",
+        "markText": "人在具备了一些经历之后，加上读书和思考，会产生一些更有效的思维方式，去思考自己、思考社会。",
+        "type": 1,
+        "chapterUid": 58
+      },
+      {
+        "bookId": "41439366",
+        "bookmarkId": "41439366_7_2041-2117",
+        "createTime": 1664188567,
+        "range": "2043-2119",
+        "markText": "认识自己一直都在发生，很小的时候，我们都能感受到自己喜欢什么事情、不喜欢什么事情。但是真正认清自己，需要在成年之后人格稳定下来，才能确定地知道自己的秉性",
+        "type": 1,
+        "chapterUid": 57
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "用爱好超脱眼前的琐碎",
+        "chapterUid": 95,
+        "chapterIdx": 45
+      },
+      {
+        "title": "机会是试出来的，不是想出来的",
+        "chapterUid": 64,
+        "chapterIdx": 14
+      },
+      {
+        "title": "在工作中找到自己的心流",
+        "chapterUid": 81,
+        "chapterIdx": 31
+      },
+      {
+        "title": "一个人像他的时代，远胜于儿子像他的父亲",
+        "chapterUid": 62,
+        "chapterIdx": 12
+      },
+      {
+        "title": "以职业观和事业观交替观照工作情绪",
+        "chapterUid": 82,
+        "chapterIdx": 32
+      },
+      {
+        "title": "自洽，认识并接受自己",
+        "chapterUid": 58,
+        "chapterIdx": 8
+      },
+      {
+        "title": "向内探寻自己是良性的内卷",
+        "chapterUid": 60,
+        "chapterIdx": 10
+      },
+      {
+        "title": "用精神给养走出职场低谷",
+        "chapterUid": 90,
+        "chapterIdx": 40
+      },
+      {
+        "title": "认知自己是一切的出发点",
+        "chapterUid": 57,
+        "chapterIdx": 7
+      },
+      {
+        "title": "不要给自己设限，是机缘就要善用",
+        "chapterUid": 66,
+        "chapterIdx": 16
+      },
+      {
+        "title": "做长期主义者，离眼前小利远一点",
+        "chapterUid": 96,
+        "chapterIdx": 46
+      },
+      {
+        "title": "无用之事让人觉得人间值得",
+        "chapterUid": 94,
+        "chapterIdx": 44
+      },
+      {
+        "title": "专业精神=专业本领×人品+专业形象",
+        "chapterUid": 83,
+        "chapterIdx": 33
+      },
+      {
+        "title": "正确面对职场中的错误和批评",
+        "chapterUid": 85,
+        "chapterIdx": 35
+      },
+      {
+        "title": "时间管理是零和游戏",
+        "chapterUid": 100,
+        "chapterIdx": 50
+      },
+      {
+        "title": "别让说话的方式削弱你的优势",
+        "chapterUid": 72,
+        "chapterIdx": 22
+      },
+      {
+        "title": "亲密关系不能破坏人际关系的基本尺度",
+        "chapterUid": 77,
+        "chapterIdx": 27
+      }
+    ],
+    "book": {
+      "bookId": "41439366",
+      "version": 879208748,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/2/YueWen_41439366/s_YueWen_41439366.jpg",
+      "title": "自洽：在不确定的日子里向内看",
+      "author": "史欣悦",
+      "coverBoxInfo": {
+        "blurhash": "KJT8];nhtmhyenbbrCe.X8",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#380e0e"
+          },
+          {
+            "key": "1/6",
+            "hex": "#400309"
+          },
+          {
+            "key": "1/8",
+            "hex": "#480005"
+          },
+          {
+            "key": "2/4",
+            "hex": "#4d261f"
+          },
+          {
+            "key": "2/6",
+            "hex": "#561f15"
+          },
+          {
+            "key": "2/8",
+            "hex": "#601508"
+          },
+          {
+            "key": "3/4",
+            "hex": "#673d30"
+          },
+          {
+            "key": "3/6",
+            "hex": "#723624"
+          },
+          {
+            "key": "3/8",
+            "hex": "#7b2f15"
+          },
+          {
+            "key": "3/12",
+            "hex": "#8c1c00"
+          },
+          {
+            "key": "4/6",
+            "hex": "#8d503a"
+          },
+          {
+            "key": "4/10",
+            "hex": "#a14319"
+          },
+          {
+            "key": "4/4",
+            "hex": "#815546"
+          },
+          {
+            "key": "5/10",
+            "hex": "#bf5e30"
+          },
+          {
+            "key": "5/4",
+            "hex": "#9b7060"
+          },
+          {
+            "key": "5/8",
+            "hex": "#b56441"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b58a78"
+          },
+          {
+            "key": "6/6",
+            "hex": "#c4846a"
+          },
+          {
+            "key": "6/8",
+            "hex": "#d07f5b"
+          },
+          {
+            "key": "6/12",
+            "hex": "#e67237"
+          },
+          {
+            "key": "7/8",
+            "hex": "#ed9973"
+          },
+          {
+            "key": "7/10",
+            "hex": "#f99364"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ff8d50"
+          },
+          {
+            "key": "8/4",
+            "hex": "#ecbeaa"
+          },
+          {
+            "key": "8/6",
+            "hex": "#fcb99b"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffa665"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f3dfd6"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffc181"
+          },
+          {
+            "key": "1/100",
+            "hex": "#d07f5b"
+          },
+          {
+            "key": "2/100",
+            "hex": "#ed9973"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#270500"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#fcb08e",
+          "hsv": [
+            18.858038370862296,
+            43.66660682226212,
+            98.76346499102334
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/366/41439366/s_41439366.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/366/41439366/s_41439366.jpg",
+        "colorsPure": [
+          "#e67237",
+          "#ff8d50"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1693505172,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7Cz1ag6RR",
+        "review": {
+          "bookId": "41439366",
+          "content": "都给我背下来",
+          "bookVersion": 308788326,
+          "range": "1166-1283",
+          "abstract": "人生不是战争，不求事事都能提前“庙算”胜出。有些事试了试不行，那也就不行了，没有无法回头和万劫不复，但是万一行了呢？生活也没有完全准备好了再行动这回事，无论是上学、就业、恋爱、婚姻还是生孩子，也都是考虑差不多，大概率靠谱，就可以做了。",
+          "type": 1,
+          "chapterUid": 64,
+          "reviewId": "17061918_7Cz1ag6RR",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1664191170,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "41439366",
+            "format": "epub",
+            "version": 879208748,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/2/YueWen_41439366/s_YueWen_41439366.jpg",
+            "title": "自洽：在不确定的日子里向内看",
+            "author": "史欣悦",
+            "payType": 1048577
+          },
+          "chapterIdx": 14,
+          "chapterTitle": "机会是试出来的，不是想出来的",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

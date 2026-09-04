@@ -1,0 +1,204 @@
+{
+  "bookInfo": {
+    "bookId": "31919805",
+    "title": "拒绝被支配的勇气",
+    "author": "铃木敏昭",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "markedStatus": 3,
+    "readingProgress": 18
+  },
+  "bookmarks": {
+    "synckey": 1604425539,
+    "updated": [
+      {
+        "bookId": "31919805",
+        "bookmarkId": "31919805_3_1910-1973",
+        "chapterUid": 3,
+        "markText": "脚本产生于无数的执念之中，简而言之，脚本就是执念。因而，我们需要改变的是执念。改变人生的关键在于改变那些让我们作茧自缚的执念。",
+        "range": "1910-1973",
+        "createTime": 1604425539,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "前言",
+        "chapterUid": 3,
+        "chapterIdx": 3
+      }
+    ],
+    "book": {
+      "bookId": "31919805",
+      "version": 1422680295,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/58/YueWen_31919805/s_YueWen_31919805.jpg",
+      "title": "拒绝被支配的勇气",
+      "author": "铃木敏昭",
+      "coverBoxInfo": {
+        "blurhash": "KRE2bfXnNK2_s,j?[laxsl",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#101b35"
+          },
+          {
+            "key": "1/6",
+            "hex": "#041a41"
+          },
+          {
+            "key": "1/8",
+            "hex": "#00194c"
+          },
+          {
+            "key": "2/4",
+            "hex": "#25304b"
+          },
+          {
+            "key": "2/6",
+            "hex": "#1b3058"
+          },
+          {
+            "key": "2/8",
+            "hex": "#082f65"
+          },
+          {
+            "key": "3/4",
+            "hex": "#3b4765"
+          },
+          {
+            "key": "3/6",
+            "hex": "#314772"
+          },
+          {
+            "key": "3/8",
+            "hex": "#25467e"
+          },
+          {
+            "key": "3/12",
+            "hex": "#004598"
+          },
+          {
+            "key": "4/6",
+            "hex": "#4c6089"
+          },
+          {
+            "key": "4/10",
+            "hex": "#345fa3"
+          },
+          {
+            "key": "4/4",
+            "hex": "#54607c"
+          },
+          {
+            "key": "5/10",
+            "hex": "#5179bd"
+          },
+          {
+            "key": "5/4",
+            "hex": "#6e7a94"
+          },
+          {
+            "key": "5/8",
+            "hex": "#5c79b0"
+          },
+          {
+            "key": "6/4",
+            "hex": "#8894ad"
+          },
+          {
+            "key": "6/6",
+            "hex": "#7f94bc"
+          },
+          {
+            "key": "6/8",
+            "hex": "#7794ca"
+          },
+          {
+            "key": "6/12",
+            "hex": "#5b94e8"
+          },
+          {
+            "key": "7/8",
+            "hex": "#8faee6"
+          },
+          {
+            "key": "7/10",
+            "hex": "#82aef7"
+          },
+          {
+            "key": "7/12",
+            "hex": "#71aeff"
+          },
+          {
+            "key": "8/4",
+            "hex": "#bac9e2"
+          },
+          {
+            "key": "8/6",
+            "hex": "#b0c9f4"
+          },
+          {
+            "key": "8/12",
+            "hex": "#8bc9ff"
+          },
+          {
+            "key": "9/2",
+            "hex": "#dee3ed"
+          },
+          {
+            "key": "9/12",
+            "hex": "#a2e4ff"
+          },
+          {
+            "key": "1/100",
+            "hex": "#7794ca"
+          },
+          {
+            "key": "2/100",
+            "hex": "#8faee6"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5ECF3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5ECF3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#001927"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#2759a2",
+          "hsv": [
+            215.8957030866094,
+            75.9626738535441,
+            63.71106797743394
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/805/31919805/s_31919805.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/805/31919805/s_31919805.jpg",
+        "colorsPure": [
+          "#5b94e8",
+          "#71aeff"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

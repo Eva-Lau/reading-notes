@@ -1,0 +1,250 @@
+{
+  "bookInfo": {
+    "bookId": "3300027206",
+    "title": "5%的改变",
+    "author": "李松蔚",
+    "noteCount": 5,
+    "reviewCount": 0,
+    "markedStatus": 4,
+    "readingProgress": 100
+  },
+  "bookmarks": {
+    "synckey": 1681665689,
+    "updated": [
+      {
+        "bookId": "3300027206",
+        "bookmarkId": "3300027206_50_1397-1456",
+        "createTime": 1668044348,
+        "range": "762-821",
+        "markText": "在关系里做惯了的角色，不会只因为某个人的某句话就解脱。人际关系是一个你中有我、我中有你的嵌套，你与对方都感到身不由己。",
+        "type": 1,
+        "chapterUid": 68
+      },
+      {
+        "bookId": "3300027206",
+        "bookmarkId": "3300027206_28_1220-1251",
+        "chapterUid": 66,
+        "markText": "你的回报取决于提供了多少被人认可的价值，自我感动没有太大意义。",
+        "range": "584-615",
+        "createTime": 1667918413,
+        "type": 1
+      },
+      {
+        "bookId": "3300027206",
+        "bookmarkId": "3300027206_10_4682-4708",
+        "chapterUid": 64,
+        "markText": "没有答案，那就去找，但问题没有错。不要放弃问题本身。",
+        "range": "21250-21276",
+        "createTime": 1667912888,
+        "type": 1
+      },
+      {
+        "bookId": "3300027206",
+        "bookmarkId": "3300027206_6_5924-6038",
+        "chapterUid": 64,
+        "markText": "大多数痛苦都可以概括成两句话：“我不希望自己这样，但确实我就是这样的。”“我希望像别人一样，但我又做不到那样。”",
+        "range": "6500-6614",
+        "createTime": 1667911948,
+        "type": 1
+      },
+      {
+        "bookId": "3300027206",
+        "bookmarkId": "3300027206_6_5487-5541",
+        "chapterUid": 64,
+        "markText": "“思考”和“想”是有差别的。“想”是懒惰的自由，“思考”却必须带上复杂难言的现实生活，以及对真实自我的理解。",
+        "range": "6043-6097",
+        "createTime": 1667911835,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "CHAPTER 5 人际关系",
+        "chapterUid": 68,
+        "chapterIdx": 9
+      },
+      {
+        "title": "CHAPTER 3 工作与理想",
+        "chapterUid": 66,
+        "chapterIdx": 7
+      },
+      {
+        "title": "CHAPTER 1 自我",
+        "chapterUid": 64,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "3300027206",
+      "version": 2038021122,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/10/cpPlatform_g2goG4PupEn6bGnzrLrK4a/s_cpPlatform_g2goG4PupEn6bGnzrLrK4a.jpg",
+      "title": "5%的改变",
+      "author": "李松蔚",
+      "coverBoxInfo": {
+        "blurhash": "KVS=eonixuNwjZt7P;f+of",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#380e0c"
+          },
+          {
+            "key": "1/6",
+            "hex": "#400307"
+          },
+          {
+            "key": "1/8",
+            "hex": "#480002"
+          },
+          {
+            "key": "2/4",
+            "hex": "#4c261e"
+          },
+          {
+            "key": "2/6",
+            "hex": "#562013"
+          },
+          {
+            "key": "2/8",
+            "hex": "#601605"
+          },
+          {
+            "key": "3/4",
+            "hex": "#673d2f"
+          },
+          {
+            "key": "3/6",
+            "hex": "#713722"
+          },
+          {
+            "key": "3/8",
+            "hex": "#7b3012"
+          },
+          {
+            "key": "3/12",
+            "hex": "#8a1f00"
+          },
+          {
+            "key": "4/6",
+            "hex": "#8d5038"
+          },
+          {
+            "key": "4/10",
+            "hex": "#9f4515"
+          },
+          {
+            "key": "4/4",
+            "hex": "#815545"
+          },
+          {
+            "key": "5/10",
+            "hex": "#be5e2d"
+          },
+          {
+            "key": "5/4",
+            "hex": "#9a705f"
+          },
+          {
+            "key": "5/8",
+            "hex": "#b4643f"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b58a77"
+          },
+          {
+            "key": "6/6",
+            "hex": "#c38469"
+          },
+          {
+            "key": "6/8",
+            "hex": "#d07f59"
+          },
+          {
+            "key": "6/12",
+            "hex": "#e57333"
+          },
+          {
+            "key": "7/8",
+            "hex": "#ec9971"
+          },
+          {
+            "key": "7/10",
+            "hex": "#f89461"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ff8e4c"
+          },
+          {
+            "key": "8/4",
+            "hex": "#ecbea9"
+          },
+          {
+            "key": "8/6",
+            "hex": "#fcb999"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffa762"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f4dfd6"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffc27d"
+          },
+          {
+            "key": "1/100",
+            "hex": "#d07f59"
+          },
+          {
+            "key": "2/100",
+            "hex": "#ec9971"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#fe7610",
+          "hsv": [
+            25.628816822619072,
+            93.65915008068856,
+            99.6925874125874
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/206/3300027206/s_3300027206.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/206/3300027206/s_3300027206.jpg",
+        "colorsPure": [
+          "#e57333",
+          "#ff8e4c"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

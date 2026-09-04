@@ -1,0 +1,206 @@
+{
+  "bookInfo": {
+    "bookId": "3300128993",
+    "title": "黄仁勋:英伟达之芯",
+    "author": "[美]斯蒂芬·威特",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 10
+  },
+  "bookmarks": {
+    "synckey": 1779844631,
+    "updated": [
+      {
+        "bookId": "3300128993",
+        "chapterIdx": 8,
+        "bookmarkId": "3300128993_8_7446-7475",
+        "range": "7446-7475",
+        "markText": "黄仁勋回避纷争、以身作则、勤奋工作、远离八卦，也不居功自傲",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 8,
+        "createTime": 1779844631
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第2章 职涯早期：AMD、LSI和太阳微系统公司",
+        "chapterUid": 8,
+        "chapterIdx": 8
+      }
+    ],
+    "book": {
+      "bookId": "3300128993",
+      "version": 254075604,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/17/cpplatform_tbvb88uy6cwrq2lzpcsshr/s_cpplatform_tbvb88uy6cwrq2lzpcsshr1735874725.jpg",
+      "title": "黄仁勋:英伟达之芯",
+      "author": "[美]斯蒂芬·威特",
+      "coverBoxInfo": {
+        "blurhash": "KFE;3~tS3v5zIUTG%#rtiK",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#00230f"
+          },
+          {
+            "key": "1/6",
+            "hex": "#002606"
+          },
+          {
+            "key": "1/8",
+            "hex": "#002800"
+          },
+          {
+            "key": "2/4",
+            "hex": "#183723"
+          },
+          {
+            "key": "2/6",
+            "hex": "#003a1b"
+          },
+          {
+            "key": "2/8",
+            "hex": "#003c12"
+          },
+          {
+            "key": "3/4",
+            "hex": "#2d4f36"
+          },
+          {
+            "key": "3/6",
+            "hex": "#16522c"
+          },
+          {
+            "key": "3/8",
+            "hex": "#005523"
+          },
+          {
+            "key": "3/12",
+            "hex": "#00590b"
+          },
+          {
+            "key": "4/6",
+            "hex": "#2f6c40"
+          },
+          {
+            "key": "4/10",
+            "hex": "#007228"
+          },
+          {
+            "key": "4/4",
+            "hex": "#44694b"
+          },
+          {
+            "key": "5/10",
+            "hex": "#008d3f"
+          },
+          {
+            "key": "5/4",
+            "hex": "#5d8363"
+          },
+          {
+            "key": "5/8",
+            "hex": "#348a4b"
+          },
+          {
+            "key": "6/4",
+            "hex": "#759d7a"
+          },
+          {
+            "key": "6/6",
+            "hex": "#65a16e"
+          },
+          {
+            "key": "6/8",
+            "hex": "#51a562"
+          },
+          {
+            "key": "6/12",
+            "hex": "#00ab48"
+          },
+          {
+            "key": "7/8",
+            "hex": "#6dc079"
+          },
+          {
+            "key": "7/10",
+            "hex": "#57c36c"
+          },
+          {
+            "key": "7/12",
+            "hex": "#35c75e"
+          },
+          {
+            "key": "8/4",
+            "hex": "#a8d3ab"
+          },
+          {
+            "key": "8/6",
+            "hex": "#97d79d"
+          },
+          {
+            "key": "8/12",
+            "hex": "#56e374"
+          },
+          {
+            "key": "9/2",
+            "hex": "#d0ead1"
+          },
+          {
+            "key": "9/12",
+            "hex": "#6fff89"
+          },
+          {
+            "key": "1/100",
+            "hex": "#51a562"
+          },
+          {
+            "key": "2/100",
+            "hex": "#6dc079"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5F3E9"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5F3E9"
+          },
+          {
+            "key": "6/100",
+            "hex": "#002706"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#12a44a",
+          "hsv": [
+            143.1089053160857,
+            89.27685975703051,
+            64.30664953027939
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/993/3300128993/s_3300128993.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/993/3300128993/s_3300128993.jpg",
+        "colorsPure": [
+          "#00ab48",
+          "#35c75e"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

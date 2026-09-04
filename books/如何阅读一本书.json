@@ -1,0 +1,227 @@
+{
+  "bookInfo": {
+    "bookId": "23723810",
+    "title": "如何阅读一本书",
+    "author": "莫提默·艾德勒 查尔斯·范多伦",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "markedStatus": 3,
+    "readingProgress": 12
+  },
+  "bookmarks": {
+    "synckey": 1681965526,
+    "updated": [
+      {
+        "bookId": "23723810",
+        "bookmarkId": "23723810_6_496-518",
+        "createTime": 1605369030,
+        "range": "507-529",
+        "markText": "一般来说，阅读的规则是：努力越多，效果越好。",
+        "type": 1,
+        "chapterUid": 33
+      },
+      {
+        "bookId": "23723810",
+        "bookmarkId": "23723810_5_9617-9652",
+        "chapterUid": 32,
+        "markText": "但如果你追寻的是一种解释，你就必须去理解它，否则没有人能向你解释清楚。",
+        "range": "9640-9675",
+        "createTime": 1605327288,
+        "type": 1
+      },
+      {
+        "bookId": "23723810",
+        "bookmarkId": "23723810_5_1204-1262",
+        "chapterUid": 32,
+        "markText": "太多的资讯就如同太少的资讯一样，都是一种对理解力的阻碍。换句话说，现代的媒体正以压倒性的泛滥资讯阻碍了我们的理解力。",
+        "range": "1190-1248",
+        "createTime": 1605325721,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第二章 阅读的层次",
+        "chapterUid": 33,
+        "chapterIdx": 6
+      },
+      {
+        "title": "第一篇 阅读的层次",
+        "chapterUid": 32,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "23723810",
+      "version": 1512533874,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/810/23723810/s_23723810.jpg",
+      "title": "如何阅读一本书",
+      "author": "莫提默·艾德勒 查尔斯·范多伦",
+      "coverBoxInfo": {
+        "blurhash": "KfQvXWPTp1*0rEoa?JbFaJ",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#002317"
+          },
+          {
+            "key": "1/6",
+            "hex": "#002615"
+          },
+          {
+            "key": "1/8",
+            "hex": "#002914"
+          },
+          {
+            "key": "2/4",
+            "hex": "#0f382a"
+          },
+          {
+            "key": "2/6",
+            "hex": "#003a28"
+          },
+          {
+            "key": "2/8",
+            "hex": "#003d26"
+          },
+          {
+            "key": "3/4",
+            "hex": "#22503f"
+          },
+          {
+            "key": "3/6",
+            "hex": "#00533c"
+          },
+          {
+            "key": "3/8",
+            "hex": "#00563a"
+          },
+          {
+            "key": "3/12",
+            "hex": "#005a36"
+          },
+          {
+            "key": "4/6",
+            "hex": "#116d52"
+          },
+          {
+            "key": "4/10",
+            "hex": "#00744c"
+          },
+          {
+            "key": "4/4",
+            "hex": "#396956"
+          },
+          {
+            "key": "5/10",
+            "hex": "#008f63"
+          },
+          {
+            "key": "5/4",
+            "hex": "#53836f"
+          },
+          {
+            "key": "5/8",
+            "hex": "#008c66"
+          },
+          {
+            "key": "6/4",
+            "hex": "#6a9e87"
+          },
+          {
+            "key": "6/6",
+            "hex": "#51a383"
+          },
+          {
+            "key": "6/8",
+            "hex": "#2ba67e"
+          },
+          {
+            "key": "6/12",
+            "hex": "#00ad77"
+          },
+          {
+            "key": "7/8",
+            "hex": "#4ec197"
+          },
+          {
+            "key": "7/10",
+            "hex": "#00c592"
+          },
+          {
+            "key": "7/12",
+            "hex": "#00c98e"
+          },
+          {
+            "key": "8/4",
+            "hex": "#9dd4ba"
+          },
+          {
+            "key": "8/6",
+            "hex": "#83d9b4"
+          },
+          {
+            "key": "8/12",
+            "hex": "#00e5a6"
+          },
+          {
+            "key": "9/2",
+            "hex": "#cbeada"
+          },
+          {
+            "key": "9/12",
+            "hex": "#00ffbd"
+          },
+          {
+            "key": "1/100",
+            "hex": "#2ba67e"
+          },
+          {
+            "key": "2/100",
+            "hex": "#4ec197"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5F3E9"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5F3E9"
+          },
+          {
+            "key": "6/100",
+            "hex": "#002706"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#aed4c1",
+          "hsv": [
+            150.9119630852891,
+            17.929046315436615,
+            82.99096783805427
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/810/23723810/s_23723810.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/810/23723810/s_23723810.jpg",
+        "colorsPure": [
+          "#00ad77",
+          "#00c98e"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

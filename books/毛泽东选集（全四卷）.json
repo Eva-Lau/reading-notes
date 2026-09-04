@@ -1,0 +1,206 @@
+{
+  "bookInfo": {
+    "bookId": "3300024284",
+    "title": "毛泽东选集（全四卷）",
+    "author": "",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 1
+  },
+  "bookmarks": {
+    "synckey": 1788396348,
+    "updated": [
+      {
+        "bookId": "3300024284",
+        "chapterIdx": 5,
+        "bookmarkId": "3300024284_223_4560-4632",
+        "range": "4560-4632",
+        "markText": "革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。革命是暴动，是一个阶级推翻一个阶级的暴烈的行动",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 223,
+        "createTime": 1788396348
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "湖南农民运动考察报告",
+        "chapterUid": 223,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "3300024284",
+      "version": 1784912880,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/84/3300024284/s_3300024284.jpg",
+      "title": "毛泽东选集（全四卷）",
+      "author": "",
+      "coverBoxInfo": {
+        "blurhash": "K8RB^LVYgO~q?aV?^+W=V@",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#341300"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3a0e00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#410500"
+          },
+          {
+            "key": "2/4",
+            "hex": "#472a12"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4e2700"
+          },
+          {
+            "key": "2/8",
+            "hex": "#542400"
+          },
+          {
+            "key": "3/4",
+            "hex": "#604126"
+          },
+          {
+            "key": "3/6",
+            "hex": "#683e11"
+          },
+          {
+            "key": "3/8",
+            "hex": "#6e3b00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#783500"
+          },
+          {
+            "key": "4/6",
+            "hex": "#845628"
+          },
+          {
+            "key": "4/10",
+            "hex": "#8f5100"
+          },
+          {
+            "key": "4/4",
+            "hex": "#7c593a"
+          },
+          {
+            "key": "5/10",
+            "hex": "#ae6a02"
+          },
+          {
+            "key": "5/4",
+            "hex": "#967354"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a96c27"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b18d6d"
+          },
+          {
+            "key": "6/6",
+            "hex": "#bc8958"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c58641"
+          },
+          {
+            "key": "6/12",
+            "hex": "#d28100"
+          },
+          {
+            "key": "7/8",
+            "hex": "#e1a15a"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e99e42"
+          },
+          {
+            "key": "7/12",
+            "hex": "#f09b1e"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e6c29e"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f3be89"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb53c"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f3e0cc"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd057"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c58641"
+          },
+          {
+            "key": "2/100",
+            "hex": "#e1a15a"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#f0d7be",
+          "hsv": [
+            29.921516072281705,
+            20.93084746960389,
+            94.18266814470006
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/284/3300024284/s_3300024284.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/284/3300024284/s_3300024284.jpg",
+        "colorsPure": [
+          "#d28100",
+          "#f09b1e"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

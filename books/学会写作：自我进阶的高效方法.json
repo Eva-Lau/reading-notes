@@ -1,0 +1,225 @@
+{
+  "bookInfo": {
+    "bookId": "25546236",
+    "title": "学会写作：自我进阶的高效方法",
+    "author": "粥左罗",
+    "noteCount": 3,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 6
+  },
+  "bookmarks": {
+    "synckey": 1713488665,
+    "updated": [
+      {
+        "bookId": "25546236",
+        "bookmarkId": "25546236_55_3694-3780",
+        "createTime": 1713488665,
+        "chapterUid": 55,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "思考能力绝对是写作能力三个核心要素中最重要的部分。思考能力决定你的认知水平，认知水平决定你的判断力，判断力决定你的选择力，千千万万个选择构成了你的一生，决定了你一生的命运。",
+        "range": "3694-3780"
+      },
+      {
+        "bookId": "25546236",
+        "bookmarkId": "25546236_55_3323-3571",
+        "createTime": 1713487336,
+        "chapterUid": 55,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "要带着目标和预期阅读；要养成边读边思考甚至做笔记的习惯；要更聚焦，进行主题式阅读；好内容要反反复复读；阅读时，要带着批判性思维和学习的心态；在阅读过程中，要不断代入自己的工作和生活场景。",
+        "range": "3323-3571"
+      },
+      {
+        "bookId": "25546236",
+        "bookmarkId": "25546236_55_1427-1451",
+        "createTime": 1713486988,
+        "chapterUid": 55,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "提升写作能力的三个核心要素是：输入、思考、输出。",
+        "range": "1427-1451"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第2节 支撑写作能力的三个核心要素",
+        "chapterUid": 55,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "25546236",
+      "version": 642043952,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/236/25546236/s_25546236.jpg",
+      "title": "学会写作：自我进阶的高效方法",
+      "author": "粥左罗",
+      "coverBoxInfo": {
+        "blurhash": "KBRfa-_4x]~UNHbH?cM{V?",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#1f1c17"
+          },
+          {
+            "key": "1/6",
+            "hex": "#1f1c17"
+          },
+          {
+            "key": "1/8",
+            "hex": "#1f1c17"
+          },
+          {
+            "key": "2/4",
+            "hex": "#34302b"
+          },
+          {
+            "key": "2/6",
+            "hex": "#34302b"
+          },
+          {
+            "key": "2/8",
+            "hex": "#34302b"
+          },
+          {
+            "key": "3/4",
+            "hex": "#4b4741"
+          },
+          {
+            "key": "3/6",
+            "hex": "#4b4741"
+          },
+          {
+            "key": "3/8",
+            "hex": "#4b4741"
+          },
+          {
+            "key": "3/12",
+            "hex": "#4b4741"
+          },
+          {
+            "key": "4/6",
+            "hex": "#646059"
+          },
+          {
+            "key": "4/10",
+            "hex": "#646059"
+          },
+          {
+            "key": "4/4",
+            "hex": "#646059"
+          },
+          {
+            "key": "5/10",
+            "hex": "#7d7972"
+          },
+          {
+            "key": "5/4",
+            "hex": "#7d7972"
+          },
+          {
+            "key": "5/8",
+            "hex": "#7d7972"
+          },
+          {
+            "key": "6/4",
+            "hex": "#97938b"
+          },
+          {
+            "key": "6/6",
+            "hex": "#97938b"
+          },
+          {
+            "key": "6/8",
+            "hex": "#97938b"
+          },
+          {
+            "key": "6/12",
+            "hex": "#97938b"
+          },
+          {
+            "key": "7/8",
+            "hex": "#b1ada5"
+          },
+          {
+            "key": "7/10",
+            "hex": "#b1ada5"
+          },
+          {
+            "key": "7/12",
+            "hex": "#b1ada5"
+          },
+          {
+            "key": "8/4",
+            "hex": "#ccc8bf"
+          },
+          {
+            "key": "8/6",
+            "hex": "#ccc8bf"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ccc8bf"
+          },
+          {
+            "key": "9/2",
+            "hex": "#e7e3d9"
+          },
+          {
+            "key": "9/12",
+            "hex": "#e7e3d9"
+          },
+          {
+            "key": "1/100",
+            "hex": "#97938b"
+          },
+          {
+            "key": "2/100",
+            "hex": "#b1ada5"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#f3efe5",
+          "hsv": [
+            40.49698143892495,
+            6.04683818225535,
+            95.4431353690791
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/236/25546236/s_25546236.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/236/25546236/s_25546236.jpg",
+        "colorsPure": [
+          "#97938b",
+          "#b1ada5"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

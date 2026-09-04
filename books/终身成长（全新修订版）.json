@@ -1,0 +1,256 @@
+{
+  "bookInfo": {
+    "bookId": "915642",
+    "title": "终身成长（全新修订版）",
+    "author": "卡罗尔·德韦克",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "markedStatus": 2,
+    "readingProgress": 4
+  },
+  "bookmarks": {
+    "synckey": 0,
+    "updated": [],
+    "removed": [],
+    "chapters": [],
+    "book": {
+      "bookId": "915642",
+      "version": 1655447831,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/59/YueWen_915642/s_YueWen_915642.jpg",
+      "title": "终身成长（全新修订版）",
+      "author": "卡罗尔·德韦克",
+      "coverBoxInfo": {
+        "blurhash": "K7OgNb%M%N?bj[?H01oexu",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#1b1c24"
+          },
+          {
+            "key": "1/6",
+            "hex": "#1b1c24"
+          },
+          {
+            "key": "1/8",
+            "hex": "#1b1c24"
+          },
+          {
+            "key": "2/4",
+            "hex": "#2f3039"
+          },
+          {
+            "key": "2/6",
+            "hex": "#2f3039"
+          },
+          {
+            "key": "2/8",
+            "hex": "#2f3039"
+          },
+          {
+            "key": "3/4",
+            "hex": "#464750"
+          },
+          {
+            "key": "3/6",
+            "hex": "#464750"
+          },
+          {
+            "key": "3/8",
+            "hex": "#464750"
+          },
+          {
+            "key": "3/12",
+            "hex": "#464750"
+          },
+          {
+            "key": "4/6",
+            "hex": "#5e6068"
+          },
+          {
+            "key": "4/10",
+            "hex": "#5e6068"
+          },
+          {
+            "key": "4/4",
+            "hex": "#5e6068"
+          },
+          {
+            "key": "5/10",
+            "hex": "#777981"
+          },
+          {
+            "key": "5/4",
+            "hex": "#777981"
+          },
+          {
+            "key": "5/8",
+            "hex": "#777981"
+          },
+          {
+            "key": "6/4",
+            "hex": "#91939a"
+          },
+          {
+            "key": "6/6",
+            "hex": "#91939a"
+          },
+          {
+            "key": "6/8",
+            "hex": "#91939a"
+          },
+          {
+            "key": "6/12",
+            "hex": "#91939a"
+          },
+          {
+            "key": "7/8",
+            "hex": "#abadb4"
+          },
+          {
+            "key": "7/10",
+            "hex": "#abadb4"
+          },
+          {
+            "key": "7/12",
+            "hex": "#abadb4"
+          },
+          {
+            "key": "8/4",
+            "hex": "#c6c8ce"
+          },
+          {
+            "key": "8/6",
+            "hex": "#c6c8ce"
+          },
+          {
+            "key": "8/12",
+            "hex": "#c6c8ce"
+          },
+          {
+            "key": "9/2",
+            "hex": "#e1e3e9"
+          },
+          {
+            "key": "9/12",
+            "hex": "#e1e3e9"
+          },
+          {
+            "key": "1/100",
+            "hex": "#91939a"
+          },
+          {
+            "key": "2/100",
+            "hex": "#abadb4"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5E5F3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5E5F3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#000427"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#ced0d6",
+          "hsv": [
+            226.95838889163625,
+            3.7105570723995287,
+            84.07906771482472
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/642/915642/s_915642.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/642/915642/s_915642.jpg",
+        "colorsPure": [
+          "#91939a",
+          "#abadb4"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1712576121,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7QiRvmsiI",
+        "review": {
+          "abstract": "只是这些有着成长型思维模式的人不会给自己贴上标签，或对自己失去信心。即使他们感到沮丧，他们也准备好了去承担这个风险，直面挑战，继续为此奋斗。",
+          "atUserVids": [],
+          "bookId": "915642",
+          "bookVersion": 1544543253,
+          "chapterName": "两种思维模式之下的不同生活",
+          "chapterUid": 68,
+          "content": "小时候的教育方式让自己困在了固定型思维里面，好在那些担心自己不够聪明的日子终于随着自己慢慢向外探求的过程中过去了",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 1,
+          "notVisibleToFriends": 0,
+          "range": "2116-2186",
+          "createTime": 1712576121,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7QiRvmsiI",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 8,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "915642",
+            "format": "epub",
+            "version": 1655447831,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/59/YueWen_915642/s_YueWen_915642.jpg",
+            "title": "终身成长（全新修订版）",
+            "author": "卡罗尔·德韦克",
+            "translator": "楚祎楠",
+            "payType": 1048577
+          },
+          "chapterIdx": 6,
+          "chapterTitle": "两种思维模式之下的不同生活",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

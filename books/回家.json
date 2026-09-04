@@ -1,0 +1,246 @@
+{
+  "bookInfo": {
+    "bookId": "3300041180",
+    "title": "回家",
+    "author": "孙悦",
+    "noteCount": 0,
+    "reviewCount": 1,
+    "markedStatus": 4,
+    "readingProgress": 99
+  },
+  "bookmarks": {
+    "synckey": 0,
+    "updated": [],
+    "removed": [],
+    "chapters": [],
+    "book": {
+      "bookId": "3300041180",
+      "version": 1090302671,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/54/cpPlatform_h5ZL6NHQzH8d4WaJQbbY5J/s_cpPlatform_h5ZL6NHQzH8d4WaJQbbY5J.jpg",
+      "title": "回家",
+      "author": "孙悦",
+      "coverBoxInfo": {
+        "blurhash": "KoOV0qt7=^};s,EQj?oJay",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#331400"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3a0f00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#410600"
+          },
+          {
+            "key": "2/4",
+            "hex": "#462b10"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4d2800"
+          },
+          {
+            "key": "2/8",
+            "hex": "#522500"
+          },
+          {
+            "key": "3/4",
+            "hex": "#5f4125"
+          },
+          {
+            "key": "3/6",
+            "hex": "#673e0f"
+          },
+          {
+            "key": "3/8",
+            "hex": "#6c3c00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#763700"
+          },
+          {
+            "key": "4/6",
+            "hex": "#835725"
+          },
+          {
+            "key": "4/10",
+            "hex": "#8d5200"
+          },
+          {
+            "key": "4/4",
+            "hex": "#7b5939"
+          },
+          {
+            "key": "5/10",
+            "hex": "#ac6b00"
+          },
+          {
+            "key": "5/4",
+            "hex": "#957352"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a76d24"
+          },
+          {
+            "key": "6/4",
+            "hex": "#af8d6b"
+          },
+          {
+            "key": "6/6",
+            "hex": "#ba8a55"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c3873e"
+          },
+          {
+            "key": "6/12",
+            "hex": "#cf8300"
+          },
+          {
+            "key": "7/8",
+            "hex": "#dfa257"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e69f3d"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ed9d16"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e5c29c"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f1bf86"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb737"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f3e0cb"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd252"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c3873e"
+          },
+          {
+            "key": "2/100",
+            "hex": "#dfa257"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#fcc077",
+          "hsv": [
+            33.13669133408014,
+            52.71429579090465,
+            98.66567060815144
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/180/3300041180/s_3300041180.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/180/3300041180/s_3300041180.jpg",
+        "colorsPure": [
+          "#cf8300",
+          "#ed9d16"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1722093214,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7T0pPZTNY",
+        "review": {
+          "bookVersion": 1090302671,
+          "bookId": "3300041180",
+          "content": "",
+          "type": 4,
+          "star": 100,
+          "reviewId": "17061918_7T0pPZTNY",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1722093214,
+          "isFinish": 1,
+          "flag": 0,
+          "newRatingLevel": 1,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300041180",
+            "format": "epub",
+            "version": 1090302671,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/54/cpPlatform_h5ZL6NHQzH8d4WaJQbbY5J/s_cpPlatform_h5ZL6NHQzH8d4WaJQbbY5J.jpg",
+            "title": "回家",
+            "author": "孙悦",
+            "payType": 1048577
+          },
+          "bookFinderSuccessCount": 0,
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

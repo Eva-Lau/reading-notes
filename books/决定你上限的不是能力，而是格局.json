@@ -1,0 +1,305 @@
+{
+  "bookInfo": {
+    "bookId": "924833",
+    "title": "决定你上限的不是能力，而是格局",
+    "author": "陶瓷兔子",
+    "noteCount": 4,
+    "reviewCount": 1,
+    "markedStatus": 3,
+    "readingProgress": 5
+  },
+  "bookmarks": {
+    "synckey": 1685986283,
+    "updated": [
+      {
+        "bookId": "924833",
+        "bookmarkId": "924833_8_1538-1652",
+        "createTime": 1577273133,
+        "range": "1551-1636",
+        "markText": "可是我们往往会忘记，一个人的形式和内容，里子和面子，从来都是一回事儿。没有什么“外表××，内心××”的说法，你的一举一动都代表着你这个人，而你怎样过一天，就会怎样过一生。\n",
+        "type": 1,
+        "chapterUid": 76
+      },
+      {
+        "bookId": "924833",
+        "bookmarkId": "924833_7_3739-3933",
+        "createTime": 1577273051,
+        "range": "3690-3883",
+        "markText": "或许，这才是拥有“仪式感”的最佳状态，不刻意追求，不汲汲于制造，不因之狂喜，也不因没有它而抱怨日常的无聊。\n它不分高下，无论好坏，每个人对它的定义都不尽相同，但最好的仪式感，一定不止于仪式。\n因为我们从来不需要用它向庸常的生活宣战，它存在的所有意义，原本就是让我们爱上生活。\n",
+        "type": 1,
+        "chapterUid": 75
+      },
+      {
+        "bookId": "924833",
+        "bookmarkId": "924833_6_2830-2926",
+        "createTime": 1577272899,
+        "range": "2781-2848",
+        "markText": "人生在世难免遇到困局，寻求一些援助无可厚非，可是以求助为名，将自己的困局和压力转嫁给别人却不同，前者是麻烦他人，后者是成为对方的麻烦。\n",
+        "type": 1,
+        "chapterUid": 74
+      },
+      {
+        "bookId": "924833",
+        "bookmarkId": "924833_5_3732-3958",
+        "createTime": 1577272751,
+        "range": "3710-3935",
+        "markText": "我们无法拔着自己的头发将自己提起来，去自行脱胎换骨。但至少，请在心中保留一丝警惕：\n我所认同的，可能会是错的；\n我所想到的，可能是片面的；\n我所不知道的还有很多，除了自己去尝试之外，没有人能告诉我。\n这才是“走出去”的第一步。\n",
+        "type": 1,
+        "chapterUid": 73
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "你如何过一天，便如何过一生",
+        "chapterUid": 76,
+        "chapterIdx": 8
+      },
+      {
+        "title": "你的生活究竟需要怎样的仪式感？",
+        "chapterUid": 75,
+        "chapterIdx": 7
+      },
+      {
+        "title": "我可以出手相助，也请你用力狗刨",
+        "chapterUid": 74,
+        "chapterIdx": 6
+      },
+      {
+        "title": "你的世界观就是你的世界",
+        "chapterUid": 73,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "924833",
+      "version": 1543381631,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/81/YueWen_924833/s_YueWen_924833.jpg",
+      "title": "决定你上限的不是能力，而是格局",
+      "author": "陶瓷兔子",
+      "coverBoxInfo": {
+        "blurhash": "KoI=S.x]fk01t6Rj-nIUWB",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#151a35"
+          },
+          {
+            "key": "1/6",
+            "hex": "#101841"
+          },
+          {
+            "key": "1/8",
+            "hex": "#0d164b"
+          },
+          {
+            "key": "2/4",
+            "hex": "#292f4b"
+          },
+          {
+            "key": "2/6",
+            "hex": "#242e58"
+          },
+          {
+            "key": "2/8",
+            "hex": "#1d2c64"
+          },
+          {
+            "key": "3/4",
+            "hex": "#3f4665"
+          },
+          {
+            "key": "3/6",
+            "hex": "#394572"
+          },
+          {
+            "key": "3/8",
+            "hex": "#33447e"
+          },
+          {
+            "key": "3/12",
+            "hex": "#224197"
+          },
+          {
+            "key": "4/6",
+            "hex": "#525e89"
+          },
+          {
+            "key": "4/10",
+            "hex": "#445ca3"
+          },
+          {
+            "key": "4/4",
+            "hex": "#585f7c"
+          },
+          {
+            "key": "5/10",
+            "hex": "#5e77bc"
+          },
+          {
+            "key": "5/4",
+            "hex": "#717994"
+          },
+          {
+            "key": "5/8",
+            "hex": "#6577b0"
+          },
+          {
+            "key": "6/4",
+            "hex": "#8b93ad"
+          },
+          {
+            "key": "6/6",
+            "hex": "#8592bc"
+          },
+          {
+            "key": "6/8",
+            "hex": "#7f92c9"
+          },
+          {
+            "key": "6/12",
+            "hex": "#6e90e7"
+          },
+          {
+            "key": "7/8",
+            "hex": "#97ace6"
+          },
+          {
+            "key": "7/10",
+            "hex": "#8fabf7"
+          },
+          {
+            "key": "7/12",
+            "hex": "#84abff"
+          },
+          {
+            "key": "8/4",
+            "hex": "#bec8e2"
+          },
+          {
+            "key": "8/6",
+            "hex": "#b6c7f4"
+          },
+          {
+            "key": "8/12",
+            "hex": "#9dc5ff"
+          },
+          {
+            "key": "9/2",
+            "hex": "#dfe3ed"
+          },
+          {
+            "key": "9/12",
+            "hex": "#b7dfff"
+          },
+          {
+            "key": "1/100",
+            "hex": "#7f92c9"
+          },
+          {
+            "key": "2/100",
+            "hex": "#97ace6"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5E5F3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5E5F3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#000427"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#20243b",
+          "hsv": [
+            231.82190179223292,
+            45.73282878503296,
+            23.06319743674732
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/833/924833/s_924833.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/833/924833/s_924833.jpg",
+        "colorsPure": [
+          "#6e90e7",
+          "#84abff"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1727344908,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7dSLM9Xlz",
+        "review": {
+          "bookId": "924833",
+          "content": "这句话，也许是映射到了自己吧",
+          "bookVersion": 985849178,
+          "range": "3170-3232",
+          "abstract": "这世界上从没有谁是全副武装好之后才迈入挑战的，而一个人生活的半径，其实并不是由他的能力或者意愿决定的，最重要的是他的世界观。",
+          "type": 1,
+          "chapterUid": 73,
+          "topics": [],
+          "userVid": 17061918,
+          "reviewId": "17061918_7dSLM9Xlz",
+          "createTime": 1577272711,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "924833",
+            "format": "epub",
+            "version": 1543381631,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/81/YueWen_924833/s_YueWen_924833.jpg",
+            "title": "决定你上限的不是能力，而是格局",
+            "author": "陶瓷兔子",
+            "payType": 1048577
+          },
+          "chapterIdx": 5,
+          "chapterTitle": "你的世界观就是你的世界",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

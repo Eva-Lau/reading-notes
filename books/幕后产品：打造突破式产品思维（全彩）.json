@@ -1,0 +1,77 @@
+{
+  "bookInfo": {
+    "bookId": "25670948",
+    "title": "幕后产品：打造突破式产品思维（全彩）",
+    "author": "王诗沐",
+    "noteCount": 27,
+    "reviewCount": 1,
+    "markedStatus": 2,
+    "readingProgress": 45
+  },
+  "bookmarks": {},
+  "reviews": {
+    "synckey": 1569283374,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7bC73AWh9",
+        "review": {
+          "bookVersion": 729378048,
+          "bookId": "25670948",
+          "range": "1370-1513",
+          "chapterUid": 5,
+          "type": 7,
+          "abstract": "产品经理是一个综合型职业，所需能力范围涵盖美学、心理学、经济学、市场营销、管理学等诸多方面，对人的认知模式、学习能力、思考能力和密度有极高的要求，顶尖的产品经理必须是一个顶尖的商业问题解决者、一个深度思考和善于自我迭代进化的人。",
+          "topics": [],
+          "userVid": 17061918,
+          "reviewId": "17061918_7bC73AWh9",
+          "createTime": 1569283374,
+          "content": "",
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "25670948",
+            "format": "epub",
+            "version": 1574062584,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/89/YueWen_25670948/s_YueWen_25670948.jpg",
+            "title": "幕后产品：打造突破式产品思维（全彩）",
+            "author": "王诗沐",
+            "payType": 1048577
+          },
+          "chapterIdx": 5,
+          "chapterTitle": "推荐序一",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

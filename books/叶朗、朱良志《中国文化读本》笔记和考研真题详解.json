@@ -1,0 +1,204 @@
+{
+  "bookInfo": {
+    "bookId": "27029372",
+    "title": "叶朗、朱良志《中国文化读本》笔记和考研真题详解",
+    "author": "圣才电子书",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 2
+  },
+  "bookmarks": {
+    "synckey": 1662364472,
+    "updated": [
+      {
+        "bookId": "27029372",
+        "bookmarkId": "27029372_2_2495-2537",
+        "createTime": 1662364472,
+        "range": "2495-2537",
+        "markText": "中国历代思想家都强调，人要提升自己的精神境界，不断追求一种更有意义和更有价值的人生。",
+        "type": 1,
+        "chapterUid": 2
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第1章 智慧与信仰",
+        "chapterUid": 2,
+        "chapterIdx": 2
+      }
+    ],
+    "book": {
+      "bookId": "27029372",
+      "version": 1225642730,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/372/27029372/s_27029372.jpg",
+      "title": "叶朗、朱良志《中国文化读本》笔记和考研真题详解",
+      "author": "圣才电子书",
+      "coverBoxInfo": {
+        "blurhash": "K3O:qo_3_2VD9Exu~CVsRj",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#211b18"
+          },
+          {
+            "key": "1/6",
+            "hex": "#211b18"
+          },
+          {
+            "key": "1/8",
+            "hex": "#211b18"
+          },
+          {
+            "key": "2/4",
+            "hex": "#35302d"
+          },
+          {
+            "key": "2/6",
+            "hex": "#35302d"
+          },
+          {
+            "key": "2/8",
+            "hex": "#35302d"
+          },
+          {
+            "key": "3/4",
+            "hex": "#4d4643"
+          },
+          {
+            "key": "3/6",
+            "hex": "#4d4643"
+          },
+          {
+            "key": "3/8",
+            "hex": "#4d4643"
+          },
+          {
+            "key": "3/12",
+            "hex": "#4d4643"
+          },
+          {
+            "key": "4/6",
+            "hex": "#655f5b"
+          },
+          {
+            "key": "4/10",
+            "hex": "#655f5b"
+          },
+          {
+            "key": "4/4",
+            "hex": "#655f5b"
+          },
+          {
+            "key": "5/10",
+            "hex": "#7e7874"
+          },
+          {
+            "key": "5/4",
+            "hex": "#7e7874"
+          },
+          {
+            "key": "5/8",
+            "hex": "#7e7874"
+          },
+          {
+            "key": "6/4",
+            "hex": "#98928e"
+          },
+          {
+            "key": "6/6",
+            "hex": "#98928e"
+          },
+          {
+            "key": "6/8",
+            "hex": "#98928e"
+          },
+          {
+            "key": "6/12",
+            "hex": "#98928e"
+          },
+          {
+            "key": "7/8",
+            "hex": "#b3aca8"
+          },
+          {
+            "key": "7/10",
+            "hex": "#b3aca8"
+          },
+          {
+            "key": "7/12",
+            "hex": "#b3aca8"
+          },
+          {
+            "key": "8/4",
+            "hex": "#cdc7c2"
+          },
+          {
+            "key": "8/6",
+            "hex": "#cdc7c2"
+          },
+          {
+            "key": "8/12",
+            "hex": "#cdc7c2"
+          },
+          {
+            "key": "9/2",
+            "hex": "#e8e2dd"
+          },
+          {
+            "key": "9/12",
+            "hex": "#e8e2dd"
+          },
+          {
+            "key": "1/100",
+            "hex": "#98928e"
+          },
+          {
+            "key": "2/100",
+            "hex": "#b3aca8"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#dad4cf",
+          "hsv": [
+            26.84837761119799,
+            5.07365885385301,
+            85.3878351359815
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/372/27029372/s_27029372.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/372/27029372/s_27029372.jpg",
+        "colorsPure": [
+          "#98928e",
+          "#b3aca8"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

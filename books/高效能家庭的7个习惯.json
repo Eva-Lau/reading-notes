@@ -1,0 +1,205 @@
+{
+  "bookInfo": {
+    "bookId": "33091571",
+    "title": "高效能家庭的7个习惯",
+    "author": "史蒂芬·柯维",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 7
+  },
+  "bookmarks": {
+    "synckey": 1692680372,
+    "updated": [
+      {
+        "bookId": "33091571",
+        "bookmarkId": "33091571_4_857-944",
+        "createTime": 1692680372,
+        "chapterUid": 4,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "孩提时代的我们常常躺在凉爽的绿草坪上，望着天空上的云彩不断变幻。夏夜，我们好奇地看着银河里数不清的星星，有时候就睡在屋外。这幅画面一直在我的心中，是一个幸福可靠的家庭的理想。",
+        "range": "857-944"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "序 言",
+        "chapterUid": 4,
+        "chapterIdx": 4
+      }
+    ],
+    "book": {
+      "bookId": "33091571",
+      "version": 410500546,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/571/33091571/s_33091571.jpg",
+      "title": "高效能家庭的7个习惯",
+      "author": "史蒂芬·柯维",
+      "coverBoxInfo": {
+        "blurhash": "KXK0$xM|9t~URPNaM}xtxa",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#331400"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3a0f00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#410600"
+          },
+          {
+            "key": "2/4",
+            "hex": "#462b10"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4d2800"
+          },
+          {
+            "key": "2/8",
+            "hex": "#522500"
+          },
+          {
+            "key": "3/4",
+            "hex": "#5f4124"
+          },
+          {
+            "key": "3/6",
+            "hex": "#663f0e"
+          },
+          {
+            "key": "3/8",
+            "hex": "#6c3c00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#753700"
+          },
+          {
+            "key": "4/6",
+            "hex": "#835725"
+          },
+          {
+            "key": "4/10",
+            "hex": "#8d5300"
+          },
+          {
+            "key": "4/4",
+            "hex": "#7b5939"
+          },
+          {
+            "key": "5/10",
+            "hex": "#ab6c00"
+          },
+          {
+            "key": "5/4",
+            "hex": "#957352"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a66d23"
+          },
+          {
+            "key": "6/4",
+            "hex": "#af8d6b"
+          },
+          {
+            "key": "6/6",
+            "hex": "#ba8a55"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c2883d"
+          },
+          {
+            "key": "6/12",
+            "hex": "#ce8300"
+          },
+          {
+            "key": "7/8",
+            "hex": "#dea256"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e69f3c"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ec9d13"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e5c29c"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f0bf86"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb736"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f3e0ca"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd251"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c2883d"
+          },
+          {
+            "key": "2/100",
+            "hex": "#dea256"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#cab39b",
+          "hsv": [
+            30.4366620918368,
+            23.30256559708167,
+            79.14702187741813
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/571/33091571/s_33091571.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/571/33091571/s_33091571.jpg",
+        "colorsPure": [
+          "#ce8300",
+          "#ec9d13"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

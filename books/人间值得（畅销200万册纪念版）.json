@@ -1,0 +1,426 @@
+{
+  "bookInfo": {
+    "bookId": "26406758",
+    "title": "人间值得（畅销200万册纪念版）",
+    "author": "[日]中村恒子 [日]奥田弘美",
+    "noteCount": 19,
+    "reviewCount": 0,
+    "markedStatus": 4,
+    "readingProgress": 100
+  },
+  "bookmarks": {
+    "synckey": 1720700740,
+    "updated": [
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_48_1393-1423",
+        "chapterUid": 153,
+        "markText": "无须功成名就，只要在自己所在的环境中释放自己的力量就可以了。",
+        "range": "1356-1386",
+        "createTime": 1667385936,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_46_1131-1169",
+        "chapterUid": 151,
+        "markText": "人生的结果，不会马上显现。但是在每个瞬间，都有必须珍惜的事情。",
+        "range": "1289-1320",
+        "createTime": 1667385709,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_46_1019-1083",
+        "chapterUid": 151,
+        "markText": "工作顺心，家庭和睦。如今一切看起来都圆满的恒子老师，正是在人生的瞬间把握住了重要的事情，并在以后的人生中坚持下来，才收获了幸福。",
+        "range": "1196-1260",
+        "createTime": 1667385663,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_43_1892-1935",
+        "chapterUid": 148,
+        "markText": "在追求的过程中，一定要分清自己是自己，他人在实践他人的人生，我们不需要追寻别人的脚步。",
+        "range": "2050-2093",
+        "createTime": 1667385269,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_43_673-716",
+        "chapterUid": 148,
+        "markText": "每天努力地生活，拼命做好眼前的工作。至于出人头地、享受奢侈人生之类的，完全没有时间考虑",
+        "range": "643-686",
+        "createTime": 1667385162,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_42_1996-2068",
+        "chapterUid": 147,
+        "markText": "总之，只要活着，人生总会有办法的。能吃饱，能睡好，有一份维持最低限度生活的工作，一定没问题。",
+        "range": "1873-1919",
+        "createTime": 1667385079,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_38_1677-1698",
+        "chapterUid": 143,
+        "markText": "自己的人生，自己负责，这样最终才能活出自己",
+        "range": "1854-1875",
+        "createTime": 1666848680,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_36_1175-1215",
+        "chapterUid": 141,
+        "markText": "生活如果没有目标，就会变得懒散。一旦决定“今天这样做”，生活一下子就会张弛有度。",
+        "range": "1145-1185",
+        "createTime": 1666848419,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_35_1539-1576",
+        "chapterUid": 140,
+        "markText": "无论是孩子还是家庭，不要试图追求完美，保持一种细水长流的态度，结果会更好。",
+        "range": "1483-1520",
+        "createTime": 1666848302,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_35_1183-1220",
+        "chapterUid": 140,
+        "markText": "在没有其他选择的时候，如果能下定决心就一定会找到出路。我觉得人生就是这样。",
+        "range": "1146-1183",
+        "createTime": 1666848240,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_34_1352-1399",
+        "chapterUid": 139,
+        "markText": "因此，请放弃“希望万事都朝理想方向发展”的想法，转换思维，思考“如何做才能推进事情顺利进行”。",
+        "range": "1163-1210",
+        "createTime": 1666848106,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_34_593-621",
+        "chapterUid": 139,
+        "markText": "工作质量不完美没关系，调整思路也可以，关键是不要中途放弃",
+        "range": "430-458",
+        "createTime": 1666848063,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_32_1192-1273",
+        "createTime": 1665733805,
+        "range": "1162-1207",
+        "markText": "不要事事都想咬紧牙关挺过去，只要抱着“今天这样做基本就可以了”的态度，日复一日地坚持积累。\n",
+        "type": 1,
+        "chapterUid": 137
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_31_1471-1504",
+        "createTime": 1665733716,
+        "range": "1441-1474",
+        "markText": "和别人比较让自己陷入失落、嫉妒中，实在毫无意义，这只会消耗你的精力",
+        "type": 1,
+        "chapterUid": 136
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_18_1868-1903",
+        "createTime": 1665733051,
+        "range": "1874-1902",
+        "markText": "只有自己在困境中不断挣扎着寻找答案，才是最终的解决之道。",
+        "type": 1,
+        "chapterUid": 123
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_11_1743-1775",
+        "chapterUid": 116,
+        "markText": "了解自己，接纳自己，把重要的事情作为中心，然后一步一步积极行动。",
+        "range": "1769-1801",
+        "createTime": 1665666774,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_11_1370-1405",
+        "chapterUid": 116,
+        "markText": "然而，一旦被别人的价值观所束缚，就不会意识到自己已经陷入欲望的怪圈中。",
+        "range": "1396-1431",
+        "createTime": 1665666739,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_11_1036-1088",
+        "chapterUid": 116,
+        "markText": "如果自己没有喜欢且向往的人生，而以别人的人生作为标准，身上背负的行囊就会越来越沉，只会感觉压力越来越大。",
+        "range": "848-900",
+        "createTime": 1665666611,
+        "type": 1
+      },
+      {
+        "bookId": "26406758",
+        "bookmarkId": "26406758_3_541-588",
+        "chapterUid": 107,
+        "markText": "人生，只要能照亮某个角落就够了。",
+        "range": "380-425",
+        "createTime": 1665665744,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "37 不求功成名就，只要能照亮某个角落就够了",
+        "chapterUid": 153,
+        "chapterIdx": 49
+      },
+      {
+        "title": "36 事情不会马上有结果，焦虑的时候心里不要七上八下，也不要思考过去和未来，而是珍惜当下",
+        "chapterUid": 151,
+        "chapterIdx": 47
+      },
+      {
+        "title": "33 他人有他人的人生，自己有自己的人生，界限分明，冲突、压力就会减少",
+        "chapterUid": 148,
+        "chapterIdx": 44
+      },
+      {
+        "title": "29 对于养育孩子，比起技巧，更重要的是行动",
+        "chapterUid": 143,
+        "chapterIdx": 39
+      },
+      {
+        "title": "27 人生常常需要忍耐，思考可以轻松忍耐的方法",
+        "chapterUid": 141,
+        "chapterIdx": 37
+      },
+      {
+        "title": "26 家庭和睦比什么都重要，只要守护它，其他都会慢慢变好",
+        "chapterUid": 140,
+        "chapterIdx": 36
+      },
+      {
+        "title": "24 不得不努力的时刻，一定会到来。所以，如果不是这样的时候，就无须太过努力",
+        "chapterUid": 137,
+        "chapterIdx": 33
+      },
+      {
+        "title": "第2章 不要期待过多，对生活中的小事心存感激",
+        "chapterUid": 116,
+        "chapterIdx": 12
+      },
+      {
+        "title": "第6章 简单生活每一天",
+        "chapterUid": 147,
+        "chapterIdx": 43
+      },
+      {
+        "title": "第3章 恰到好处的人际关系",
+        "chapterUid": 123,
+        "chapterIdx": 19
+      },
+      {
+        "title": "第5章 生活和工作的平衡之道",
+        "chapterUid": 139,
+        "chapterIdx": 35
+      },
+      {
+        "title": "文前",
+        "chapterUid": 107,
+        "chapterIdx": 3
+      },
+      {
+        "title": "23 人很难不与他人比较，即便健康有活力的人，未必没有烦恼",
+        "chapterUid": 136,
+        "chapterIdx": 32
+      }
+    ],
+    "book": {
+      "bookId": "26406758",
+      "version": 986915654,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/32/yuewen_26406758/s_yuewen_264067581720754472.jpg",
+      "title": "人间值得（畅销200万册纪念版）",
+      "author": "[日]中村恒子 [日]奥田弘美",
+      "coverBoxInfo": {
+        "blurhash": "KDR3QN_3Vs~q-VM{s:4nxZ",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#370f05"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3e0600"
+          },
+          {
+            "key": "1/8",
+            "hex": "#450000"
+          },
+          {
+            "key": "2/4",
+            "hex": "#4b2719"
+          },
+          {
+            "key": "2/6",
+            "hex": "#54220a"
+          },
+          {
+            "key": "2/8",
+            "hex": "#5d1a00"
+          },
+          {
+            "key": "3/4",
+            "hex": "#653e2c"
+          },
+          {
+            "key": "3/6",
+            "hex": "#6f391c"
+          },
+          {
+            "key": "3/8",
+            "hex": "#763406"
+          },
+          {
+            "key": "3/12",
+            "hex": "#832a00"
+          },
+          {
+            "key": "4/6",
+            "hex": "#8a5232"
+          },
+          {
+            "key": "4/10",
+            "hex": "#9a4903"
+          },
+          {
+            "key": "4/4",
+            "hex": "#805641"
+          },
+          {
+            "key": "5/10",
+            "hex": "#b96222"
+          },
+          {
+            "key": "5/4",
+            "hex": "#99715b"
+          },
+          {
+            "key": "5/8",
+            "hex": "#b16737"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b48b73"
+          },
+          {
+            "key": "6/6",
+            "hex": "#c18662"
+          },
+          {
+            "key": "6/8",
+            "hex": "#cd8150"
+          },
+          {
+            "key": "6/12",
+            "hex": "#df7823"
+          },
+          {
+            "key": "7/8",
+            "hex": "#e99c69"
+          },
+          {
+            "key": "7/10",
+            "hex": "#f49756"
+          },
+          {
+            "key": "7/12",
+            "hex": "#fe923e"
+          },
+          {
+            "key": "8/4",
+            "hex": "#eabfa5"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f9bb93"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffac55"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f4dfd2"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffc770"
+          },
+          {
+            "key": "1/100",
+            "hex": "#cd8150"
+          },
+          {
+            "key": "2/100",
+            "hex": "#e99c69"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#270500"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#fad3bb",
+          "hsv": [
+            23.083236163141983,
+            25.237754158964883,
+            97.88077634011093
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/758/26406758/s_26406758.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/758/26406758/s_26406758.jpg",
+        "colorsPure": [
+          "#df7823",
+          "#fe923e"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "bookInfo": {
+    "bookId": "3300052405",
+    "title": "人生十年，不可辜负的20岁到30岁",
+    "author": "梅格·杰伊",
+    "noteCount": 17,
+    "reviewCount": 1,
+    "markedStatus": 2,
+    "readingProgress": 37
+  },
+  "bookmarks": {
+    "synckey": 1744247862,
+    "updated": [
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_16_658-716",
+        "createTime": 1744247862,
+        "range": "658-716",
+        "markText": "接受生命的纷杂与无序，是成年人对自由的体验。不过，这些纷杂和无序，仍然需要找地方安放，最好是一个它们可以成长的地方。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 16
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_15_5172-5260",
+        "createTime": 1744247773,
+        "range": "5172-5260",
+        "markText": "我告诉她，成年人的生活不是建立在美食、祈祷和恋爱上，而是建立在人物、地点和事情上：我们和谁在一起，我们住在哪里，我们靠什么谋生，这些才是构成我们生活的元素，也是我们生活的起点。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 15
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_15_3449-3539",
+        "createTime": 1744247702,
+        "range": "3449-3539",
+        "markText": "我只是专注于眼前的事情。如果他们愿意让我做，那么我就愿意尝试。我想，让我真正在公司里一步步前进的，是我开始承认自己的平凡，而不觉得自己要比周围的人更优秀，同时专注于学习和交付成果。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 15
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_14_9691-9789",
+        "createTime": 1744247464,
+        "range": "9691-9789",
+        "markText": "当我们将别人精修过的照片和自己未曾编辑过的生活做对比时，或者将别人公之于众的美好瞬间和自己未曾分享的日常点滴做对比时，我们所做的正是不断地用那些会让自己感觉糟糕的信息（以毫秒计算）轰炸我们的大脑。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 14
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_13_570-613",
+        "createTime": 1743555960,
+        "range": "570-613",
+        "markText": "年少时，寻找自我并非执着所有的可能性，而是以新的可能性，直面对自己而言真正重要的事物。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 13
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_12_12680-12693",
+        "createTime": 1743555936,
+        "range": "12680-12693",
+        "markText": "有智慧的人自己创造运气”。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 12
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_12_12517-12580",
+        "createTime": 1743555924,
+        "range": "12517-12580",
+        "markText": "更有技巧一点；做足功课，清楚自己想要什么或需要什么；然后鼓起勇气，礼貌询问。有些人或许不会帮你，但比你想象中更多的人愿意帮你。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 12
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_12_11086-11266",
+        "createTime": 1743555867,
+        "range": "11086-11266",
+        "markText": "人们在帮助别人时，会产生“助人快感”(helper's high)￼。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 12
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_12_10682-10735",
+        "createTime": 1743555844,
+        "range": "10682-10735",
+        "markText": "你为某人提供帮助之后，你会更喜欢这个人——这意味着你很可能会再次帮他或她。这一现象被称为“富兰克林效应”。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 12
+      },
+      {
+        "bookId": "3300052405",
+        "bookmarkId": "3300052405_12_8418-8441",
+        "createTime": 1743555762,
+        "range": "8418-8441",
+        "markText": "不妨把弱连接的强大之处看作一种众筹或群体智慧。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 12
+      },
+      {
+        "bookId": "3300052405",
+        "chapterUid": 11,
+        "bookmarkId": "3300052405_11_12703-12738",
+        "colorStyle": 4,
+        "type": 1,
+        "createTime": 1743470135,
+        "range": "12703-12738",
+        "markText": "你没办法通过苦思冥想来了解自己想做什么，唯一的办法就是，去做一些事情。"
+      },
+      {
+        "bookId": "3300052405",
+        "chapterUid": 11,
+        "bookmarkId": "3300052405_11_12395-12461",
+        "colorStyle": 4,
+        "type": 1,
+        "createTime": 1743470116,
+        "range": "12395-12461",
+        "markText": "在我认识的朋友里，没有哪个人在毕业的时候，就非常清楚自己想做什么。他们现在做的事情，通常是他们在读大学的时候甚至都没有听说过的事情。"
+      },
+      {
+        "bookId": "3300052405",
+        "chapterUid": 11,
+        "bookmarkId": "3300052405_11_11336-11360",
+        "colorStyle": 4,
+        "type": 1,
+        "createTime": 1743470053,
+        "range": "11336-11360",
+        "markText": "我一直以来的建议都是选择身份资本含量最高的工作。"
+      },
+      {
+        "bookId": "3300052405",
+        "chapterUid": 11,
+        "bookmarkId": "3300052405_11_10323-10386",
+        "colorStyle": 4,
+        "type": 1,
+        "createTime": 1743469940,
+        "range": "10323-10386",
+        "markText": "因为最开始那十年的工作经历，通常会为我们塑造出陡峭的学习曲线，而这样的学习曲线会随着我们逐渐成熟，而在后来形成陡峭的赚钱曲线。"
+      },
+      {
+        "bookId": "3300052405",
+        "chapterUid": 11,
+        "bookmarkId": "3300052405_11_8626-8844",
+        "colorStyle": 4,
+        "type": 1,
+        "createTime": 1743469905,
+        "range": "8626-8844",
+        "markText": "我们在工作中越晚站稳脚跟（无论是在什么领域）​，我们越有可能变得像一位记者所描述的那样，被长时间的漂泊不定所“异化和伤害”[插图]。"
+      },
+      {
+        "bookId": "3300052405",
+        "chapterUid": 11,
+        "bookmarkId": "3300052405_11_7615-7681",
+        "colorStyle": 4,
+        "type": 1,
+        "createTime": 1743469832,
+        "range": "7615-7681",
+        "markText": "但更多时候，那些真正决定你未来职业道路的，并不是你在学校学的专业和平均学分绩点(GPA)，而是两三个能让别人对你产生兴趣的身份资本。"
+      },
+      {
+        "bookId": "3300052405",
+        "chapterUid": 11,
+        "bookmarkId": "3300052405_11_3963-4129",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1743469635,
+        "range": "3963-4129",
+        "markText": "一些身份资本，譬如学位证书、工作经历、考试成绩或社团活动，可以写在简历里；但另一些身份资本，则更为私人化，包括我们是如何向外界展现自己的，我们是如何解决问题的，我们从哪里来，以及我们的爱好或其他人生经历。这些加总在一起，才构成了我们独一无二的身份资本。它就像是成人世界里的虚拟货币。我们可以用它来购买自己想要的机会、工作和其他东西。"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "6 定制化的人生",
+        "chapterUid": 16,
+        "chapterIdx": 16
+      },
+      {
+        "title": "5 追求荣耀",
+        "chapterUid": 15,
+        "chapterIdx": 15
+      },
+      {
+        "title": "4 Instagram上的完美人生",
+        "chapterUid": 14,
+        "chapterIdx": 14
+      },
+      {
+        "title": "工作",
+        "chapterUid": 11,
+        "chapterIdx": 11
+      },
+      {
+        "title": "2 弱连接",
+        "chapterUid": 12,
+        "chapterIdx": 12
+      },
+      {
+        "title": "3 未知的已知",
+        "chapterUid": 13,
+        "chapterIdx": 13
+      }
+    ],
+    "book": {
+      "bookId": "3300052405",
+      "version": 577714161,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/22/cpplatform_ppgdafv7kjpfcpb2enc8a5/s_cpplatform_ppgdafv7kjpfcpb2enc8a51725343124.jpg",
+      "title": "人生十年，不可辜负的20岁到30岁",
+      "author": "梅格·杰伊",
+      "coverBoxInfo": {
+        "blurhash": "KPOE3ZR+^Q1GWV-Bo{oef%",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#002327"
+          },
+          {
+            "key": "1/6",
+            "hex": "#00262d"
+          },
+          {
+            "key": "1/8",
+            "hex": "#002934"
+          },
+          {
+            "key": "2/4",
+            "hex": "#00373a"
+          },
+          {
+            "key": "2/6",
+            "hex": "#003a3e"
+          },
+          {
+            "key": "2/8",
+            "hex": "#003d43"
+          },
+          {
+            "key": "3/4",
+            "hex": "#0f5051"
+          },
+          {
+            "key": "3/6",
+            "hex": "#005356"
+          },
+          {
+            "key": "3/8",
+            "hex": "#00565a"
+          },
+          {
+            "key": "3/12",
+            "hex": "#005b63"
+          },
+          {
+            "key": "4/6",
+            "hex": "#006d6e"
+          },
+          {
+            "key": "4/10",
+            "hex": "#007478"
+          },
+          {
+            "key": "4/4",
+            "hex": "#2e6969"
+          },
+          {
+            "key": "5/10",
+            "hex": "#008f8f"
+          },
+          {
+            "key": "5/4",
+            "hex": "#4a8381"
+          },
+          {
+            "key": "5/8",
+            "hex": "#008b8a"
+          },
+          {
+            "key": "6/4",
+            "hex": "#629e9b"
+          },
+          {
+            "key": "6/6",
+            "hex": "#3da29f"
+          },
+          {
+            "key": "6/8",
+            "hex": "#00a6a3"
+          },
+          {
+            "key": "6/12",
+            "hex": "#00adab"
+          },
+          {
+            "key": "7/8",
+            "hex": "#25c1bb"
+          },
+          {
+            "key": "7/10",
+            "hex": "#00c5bf"
+          },
+          {
+            "key": "7/12",
+            "hex": "#00c9c3"
+          },
+          {
+            "key": "8/4",
+            "hex": "#96d3ce"
+          },
+          {
+            "key": "8/6",
+            "hex": "#75d8d1"
+          },
+          {
+            "key": "8/12",
+            "hex": "#00e5dc"
+          },
+          {
+            "key": "9/2",
+            "hex": "#c9eae6"
+          },
+          {
+            "key": "9/12",
+            "hex": "#00fff7"
+          },
+          {
+            "key": "1/100",
+            "hex": "#00a6a3"
+          },
+          {
+            "key": "2/100",
+            "hex": "#25c1bb"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5F2F3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5F2F3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#002722"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#7adad3",
+          "hsv": [
+            175.8287338294539,
+            43.93725765903958,
+            85.34835314670416
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/405/3300052405/s_3300052405.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/405/3300052405/s_3300052405.jpg",
+        "colorsPure": [
+          "#00adab",
+          "#00c9c3"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1743469691,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7Z4LdE2YL",
+        "review": {
+          "type": 1,
+          "bookId": "3300052405",
+          "chapterUid": 11,
+          "content": "积累身份资本",
+          "bookVersion": 508629390,
+          "isPrivate": 1,
+          "abstract": "一些身份资本，譬如学位证书、工作经历、考试成绩或社团活动，可以写在简历里；但另一些身份资本，则更为私人化，包括我们是如何向外界展现自己的，我们是如何解决问题的，我们从哪里来，以及我们的爱好或其他人生经历。这些加总在一起，才构成了我们独一无二的身份资本。它就像是成人世界里的虚拟货币。我们可以用它来购买自己想要的机会、工作和其他东西。",
+          "range": "3963-4129",
+          "reviewId": "17061918_7Z4LdE2YL",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1743469691,
+          "flag": 8,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3300052405",
+            "format": "epub",
+            "version": 577714161,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/22/cpplatform_ppgdafv7kjpfcpb2enc8a5/s_cpplatform_ppgdafv7kjpfcpb2enc8a51725343124.jpg",
+            "title": "人生十年，不可辜负的20岁到30岁",
+            "author": "梅格·杰伊",
+            "translator": "陈能顺",
+            "payType": 1048577
+          },
+          "chapterIdx": 11,
+          "chapterTitle": "工作",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

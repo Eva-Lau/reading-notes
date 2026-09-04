@@ -1,0 +1,668 @@
+{
+  "bookInfo": {
+    "bookId": "822995",
+    "title": "明朝那些事儿（全集）",
+    "author": "当年明月",
+    "noteCount": 21,
+    "reviewCount": 3,
+    "markedStatus": 4,
+    "readingProgress": 100
+  },
+  "bookmarks": {
+    "synckey": 1779676841,
+    "updated": [
+      {
+        "bookId": "822995",
+        "chapterIdx": 174,
+        "bookmarkId": "822995_550_3248-3273",
+        "range": "3248-3273",
+        "markText": "我明白，无论这个世界有多绝望，你自己都要充满希望。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 550,
+        "createTime": 1779676841
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 174,
+        "bookmarkId": "822995_550_2693-2712",
+        "range": "2693-2712",
+        "markText": "能改的，叫作缺点；不能改的，叫作弱点。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 550,
+        "createTime": 1779676814
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 174,
+        "bookmarkId": "822995_550_2644-2664",
+        "range": "2644-2664",
+        "markText": "所有的错误，我们都知道，然而终究改不掉。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 550,
+        "createTime": 1779676806
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 173,
+        "bookmarkId": "822995_549_8582-8604",
+        "range": "8582-8604",
+        "markText": "成功只有一个——按照自己的方式，去度过人生。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 549,
+        "createTime": 1779672469
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 170,
+        "bookmarkId": "822995_546_17676-17735",
+        "range": "17676-17735",
+        "markText": "但我认为，在人的一生中，至少有那么一两件事，应该不妥协，至少一两件。因为不妥协、坚持虽然不现实，很没好处，却是正确的。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 546,
+        "createTime": 1779411239
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 147,
+        "bookmarkId": "822995_523_17830-17852",
+        "range": "17830-17852",
+        "markText": "弱者和强者之间唯一的差别，只在信念是否坚定。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 523,
+        "createTime": 1778548062
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 126,
+        "bookmarkId": "822995_502_11796-11842",
+        "range": "11796-11842",
+        "markText": "因为人的精力是有限的，而世界上的折腾是无限的，把有限的精力投入到无限的折腾中去，是不可能的。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 502,
+        "createTime": 1773968960
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 121,
+        "bookmarkId": "822995_497_7839-7871",
+        "range": "7839-7871",
+        "markText": "日本人不懂得，所以他们失败了，以前如此，现在如此，将来依然如此。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 497,
+        "createTime": 1773276604
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 116,
+        "bookmarkId": "822995_492_15974-15989",
+        "range": "15974-15989",
+        "markText": "把复杂的问题搞简单，那是能耐。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 492,
+        "createTime": 1772760031
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 109,
+        "bookmarkId": "822995_485_20932-20952",
+        "range": "20932-20952",
+        "markText": "继续活下去，活着受苦，严嵩，这是你应得的",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 485,
+        "createTime": 1770168900
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 109,
+        "bookmarkId": "822995_485_19032-19044",
+        "range": "19032-19044",
+        "markText": "对付流氓，要用流氓的方法",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 485,
+        "createTime": 1770168811
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 102,
+        "bookmarkId": "822995_478_12987-13023",
+        "chapterUid": 478,
+        "colorStyle": 5,
+        "createTime": 1770079791,
+        "markText": "论家世比不过，想打架又未必打得赢，所以在两人有矛盾时，大都是戚继光让步。",
+        "range": "12987-13023",
+        "type": 1
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 101,
+        "bookmarkId": "822995_477_4476-4509",
+        "chapterUid": 477,
+        "colorStyle": 5,
+        "createTime": 1770048297,
+        "markText": "这一年他刚刚二十八岁，踌躇满志，意气风发，时刻盼望着大干一番事业。",
+        "range": "4476-4509",
+        "type": 1
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 93,
+        "bookmarkId": "822995_469_12330-12365",
+        "range": "12330-12365",
+        "markText": "要隐忍，要忍受痛苦和折磨，要坚强地活下去，只有活下去，才有胜利的希望。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 469,
+        "createTime": 1769511522
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 93,
+        "bookmarkId": "822995_469_11762-11804",
+        "range": "11762-11804",
+        "markText": "他终于明白，这个世界是现实的，要适应这个世界，并且继续生存下去，必须采用合适的方法。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 469,
+        "createTime": 1769511476
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 91,
+        "bookmarkId": "822995_467_18907-18929",
+        "range": "18907-18929",
+        "markText": "在这世上，很多事情你可以不理解，却必须接受。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 467,
+        "createTime": 1769475788
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 91,
+        "bookmarkId": "822995_467_6636-6660",
+        "range": "6636-6660",
+        "markText": "即使日后身处绝境，亦须坚守，万勿轻言放弃，切记！",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 467,
+        "createTime": 1769474738
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 19,
+        "bookmarkId": "822995_395_29492-29530",
+        "range": "29492-29530",
+        "markText": "而那些最优秀的人能够从失败中爬起来，去挑战那个多次战胜自己的人，这就叫作坚强",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 395,
+        "createTime": 1763983240
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 19,
+        "bookmarkId": "822995_395_29395-29463",
+        "range": "29395-29463",
+        "markText": "当你数次败在同一个人手下时，你就会畏惧这个人，所谓的恐某症就是这么来的，即使你有着杰出的军事才能，不能战胜自己的软弱，依然无法成为名将。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 395,
+        "createTime": 1763983232
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 19,
+        "bookmarkId": "822995_395_29367-29395",
+        "range": "29367-29395",
+        "markText": "然而你的选择只能是坚强，即使你屡战屡败，但必须屡败屡战！",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 395,
+        "createTime": 1763983220
+      },
+      {
+        "bookId": "822995",
+        "chapterIdx": 14,
+        "bookmarkId": "822995_390_8594-8692",
+        "chapterUid": 390,
+        "colorStyle": 5,
+        "createTime": 1763739902,
+        "markText": "在进行决策时，会有很多人在你耳边提出他们自己的意见，将他们手中的钥匙交给你，让你去选择，但这个游戏最残酷的地方在于：你只有一次尝试的机会。",
+        "range": "8594-8692",
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "后记",
+        "chapterUid": 550,
+        "chapterIdx": 174
+      },
+      {
+        "title": "第十八章 二次摊牌",
+        "chapterUid": 502,
+        "chapterIdx": 126
+      },
+      {
+        "title": "第十三章 野心的起始",
+        "chapterUid": 497,
+        "chapterIdx": 121
+      },
+      {
+        "title": "第八章 阴谋",
+        "chapterUid": 492,
+        "chapterIdx": 116
+      },
+      {
+        "title": "第一章 致命的正义",
+        "chapterUid": 485,
+        "chapterIdx": 109
+      },
+      {
+        "title": "第九章 决战不可避免",
+        "chapterUid": 390,
+        "chapterIdx": 14
+      },
+      {
+        "title": "第七章 徐阶的觉醒",
+        "chapterUid": 467,
+        "chapterIdx": 91
+      },
+      {
+        "title": "第十八章 制胜之道",
+        "chapterUid": 478,
+        "chapterIdx": 102
+      },
+      {
+        "title": "第十四章 复仇",
+        "chapterUid": 395,
+        "chapterIdx": 19
+      },
+      {
+        "title": "第二十一章 结束了？",
+        "chapterUid": 549,
+        "chapterIdx": 173
+      },
+      {
+        "title": "第十七章 殉道",
+        "chapterUid": 523,
+        "chapterIdx": 147
+      },
+      {
+        "title": "第九章 致命的疏漏",
+        "chapterUid": 469,
+        "chapterIdx": 93
+      },
+      {
+        "title": "第十八章 天才的计划",
+        "chapterUid": 546,
+        "chapterIdx": 170
+      },
+      {
+        "title": "第十七章 名将的起点",
+        "chapterUid": 477,
+        "chapterIdx": 101
+      }
+    ],
+    "book": {
+      "bookId": "822995",
+      "version": 387552383,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/97/yuewen_822995/s_yuewen_8229951695023669.jpg",
+      "title": "明朝那些事儿（全集）",
+      "author": "当年明月",
+      "coverBoxInfo": {
+        "blurhash": "K8L:+H0N9a={$$?GO9%e%L",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#331400"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3a0f00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#410600"
+          },
+          {
+            "key": "2/4",
+            "hex": "#462b10"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4d2800"
+          },
+          {
+            "key": "2/8",
+            "hex": "#522500"
+          },
+          {
+            "key": "3/4",
+            "hex": "#5f4125"
+          },
+          {
+            "key": "3/6",
+            "hex": "#673f0f"
+          },
+          {
+            "key": "3/8",
+            "hex": "#6c3c00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#763700"
+          },
+          {
+            "key": "4/6",
+            "hex": "#835725"
+          },
+          {
+            "key": "4/10",
+            "hex": "#8d5200"
+          },
+          {
+            "key": "4/4",
+            "hex": "#7b5939"
+          },
+          {
+            "key": "5/10",
+            "hex": "#ac6b00"
+          },
+          {
+            "key": "5/4",
+            "hex": "#957352"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a76d23"
+          },
+          {
+            "key": "6/4",
+            "hex": "#af8d6b"
+          },
+          {
+            "key": "6/6",
+            "hex": "#ba8a55"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c3873e"
+          },
+          {
+            "key": "6/12",
+            "hex": "#cf8300"
+          },
+          {
+            "key": "7/8",
+            "hex": "#dea257"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e69f3d"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ed9d15"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e5c29c"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f1bf86"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb737"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f3e0cb"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd252"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c3873e"
+          },
+          {
+            "key": "2/100",
+            "hex": "#dea257"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#c3ad97",
+          "hsv": [
+            30.732733758531584,
+            22.579295316704137,
+            76.37189432210018
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/995/822995/s_822995.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/995/822995/s_822995.jpg",
+        "colorsPure": [
+          "#cf8300",
+          "#ed9d15"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1773105201,
+    "totalCount": 3,
+    "reviews": [
+      {
+        "reviewId": "17061918_87uvHMYaq",
+        "review": {
+          "bookVersion": 387552383,
+          "bookId": "822995",
+          "content": "",
+          "type": 4,
+          "star": 100,
+          "chapterName": "",
+          "chapterIdx": 0,
+          "reviewId": "17061918_87uvHMYaq",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1773105201,
+          "flag": 0,
+          "newRatingLevel": 1,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "822995",
+            "format": "epub",
+            "version": 387552383,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/97/yuewen_822995/s_yuewen_8229951695023669.jpg",
+            "title": "明朝那些事儿（全集）",
+            "author": "当年明月",
+            "payType": 4097
+          },
+          "bookFinderSuccessCount": 0,
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_87oq2KbjH",
+        "review": {
+          "bookId": "822995",
+          "content": "大智慧",
+          "bookVersion": 387552383,
+          "range": "11252-11413",
+          "abstract": "在这个世界上，所有存在的东西，必有其合理性，否则它就绝不会诞生。而王安石不太懂得这个道理，他痛恨旧制度，痛恨北宋那一大帮子吃闲饭的人。但他不知道的是，旧有的制度或许顽固，或许不合理，却也是无数前人伟大智慧的结晶。制定制度和执行制度的人，都是无与伦比的聪明人，比所有自以为聪明的人要聪明得多，僵化也好，烦琐也罢，但是，有效。",
+          "type": 1,
+          "isPrivate": 1,
+          "chapterUid": 492,
+          "chapterName": "第八章 阴谋",
+          "chapterIdx": 116,
+          "reviewId": "17061918_87oq2KbjH",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1772759213,
+          "flag": 8,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "822995",
+            "format": "epub",
+            "version": 387552383,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/97/yuewen_822995/s_yuewen_8229951695023669.jpg",
+            "title": "明朝那些事儿（全集）",
+            "author": "当年明月",
+            "payType": 4097
+          },
+          "chapterTitle": "第八章 阴谋",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_86EOvZ1Gx",
+        "review": {
+          "bookId": "822995",
+          "content": "人生大智慧",
+          "bookVersion": 387552383,
+          "range": "19032-19044",
+          "abstract": "对付流氓，要用流氓的方法",
+          "type": 1,
+          "isPrivate": 1,
+          "chapterUid": 485,
+          "chapterName": "第一章 致命的正义",
+          "chapterIdx": 109,
+          "reviewId": "17061918_86EOvZ1Gx",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1770168821,
+          "flag": 8,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "822995",
+            "format": "epub",
+            "version": 387552383,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/weread/cover/97/yuewen_822995/s_yuewen_8229951695023669.jpg",
+            "title": "明朝那些事儿（全集）",
+            "author": "当年明月",
+            "payType": 4097
+          },
+          "chapterTitle": "第一章 致命的正义",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

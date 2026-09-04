@@ -1,0 +1,294 @@
+{
+  "bookInfo": {
+    "bookId": "38334243",
+    "title": "我的第一本人生规划手册",
+    "author": "柏永辉",
+    "noteCount": 7,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 27
+  },
+  "bookmarks": {
+    "synckey": 1757983453,
+    "updated": [
+      {
+        "bookId": "38334243",
+        "chapterIdx": 30,
+        "bookmarkId": "38334243_30_434-508",
+        "range": "434-508",
+        "markText": "固定成本代表了活在这个世上，想要过什么样质量的生活，想要和什么样的朋友交往，想要身处什么样的一个社交圈、协会、名利场，这背后皆是代价。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 30,
+        "createTime": 1757983453
+      },
+      {
+        "bookId": "38334243",
+        "chapterIdx": 29,
+        "bookmarkId": "38334243_29_960-1044",
+        "range": "960-1044",
+        "markText": "固定成本（fixed cost）、沉没成本（sunk cost），机会成本（opportunity cost）以及边际成本（marginal cost）。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 29,
+        "createTime": 1757983393
+      },
+      {
+        "bookId": "38334243",
+        "chapterIdx": 28,
+        "bookmarkId": "38334243_28_1150-1183",
+        "range": "1150-1183",
+        "markText": "任何超越自身能力范围的跃迁成长，弯道超车，都会在下一个阶段栽跟头。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 28,
+        "createTime": 1757983367
+      },
+      {
+        "bookId": "38334243",
+        "chapterIdx": 26,
+        "bookmarkId": "38334243_26_1924-2071",
+        "range": "1924-2071",
+        "markText": "假设你的月收入没有过1万元，我建议投资自己的能力，让自己变成专家，变得值钱；假设你的月收入在1万～2万元，我建议投资自己的朋友，让自己的人脉圈变得值钱；假设你的月收入在2万～3万元，我建议投资自己的未来，让自己的眼界格局升维；当你的月收入过3万元之后，我建议开始为自己的“被动收入管道”做布局。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 26,
+        "createTime": 1757983152
+      },
+      {
+        "bookId": "38334243",
+        "bookmarkId": "38334243_6_1111-1174",
+        "createTime": 1750726467,
+        "chapterUid": 6,
+        "colorStyle": 5,
+        "type": 1,
+        "markText": "其实人生规划不是某一个时间段的“短跑计划”，而是一个人一辈子的“马拉松计划”，更是一家人的“合力努力”，甚至是几代人的共同结果",
+        "range": "1111-1174"
+      },
+      {
+        "bookId": "38334243",
+        "bookmarkId": "38334243_3_2728-2832",
+        "createTime": 1750726202,
+        "chapterUid": 3,
+        "colorStyle": 5,
+        "type": 1,
+        "markText": "所以一年只有600小时碎片时间的你，其实只有小于100小时的学习时间，剩下的500多小时，都得用来做反反复复的实践和练习，最后应用到自己身上，如果你不这么做，最后你只会成为一个永远也毕不了业的“学习爱好者”。",
+        "range": "2728-2832"
+      },
+      {
+        "bookId": "38334243",
+        "bookmarkId": "38334243_3_2661-2700",
+        "createTime": 1750726192,
+        "chapterUid": 3,
+        "colorStyle": 5,
+        "type": 1,
+        "markText": "从知道知识到掌握知识，再到应用，最后到内化成自己的，至少需要6小时的训练时间。",
+        "range": "2661-2700"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "3.2.2 每月的固定开支，决定你的生活水平和行动范围",
+        "chapterUid": 30,
+        "chapterIdx": 30
+      },
+      {
+        "title": "3.2.1 不好意思，你的命运没有无限可能",
+        "chapterUid": 29,
+        "chapterIdx": 29
+      },
+      {
+        "title": "1.1 为什么人生规划是很重要的事情",
+        "chapterUid": 6,
+        "chapterIdx": 6
+      },
+      {
+        "title": "3.2 想要改变自己的命运？你需要注意这四个“要素”",
+        "chapterUid": 28,
+        "chapterIdx": 28
+      },
+      {
+        "title": "3.1.2 投资类角色这样学习，资源才会突飞猛进",
+        "chapterUid": 26,
+        "chapterIdx": 26
+      },
+      {
+        "title": "序",
+        "chapterUid": 3,
+        "chapterIdx": 3
+      }
+    ],
+    "book": {
+      "bookId": "38334243",
+      "version": 674502234,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/243/38334243/s_38334243.jpg",
+      "title": "我的第一本人生规划手册",
+      "author": "柏永辉",
+      "coverBoxInfo": {
+        "blurhash": "KIRVgxVXxdwkr_r^-@VaR5",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#271b00"
+          },
+          {
+            "key": "1/6",
+            "hex": "#2b1a00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#2f1a00"
+          },
+          {
+            "key": "2/4",
+            "hex": "#3a3003"
+          },
+          {
+            "key": "2/6",
+            "hex": "#3e3000"
+          },
+          {
+            "key": "2/8",
+            "hex": "#413000"
+          },
+          {
+            "key": "3/4",
+            "hex": "#52471d"
+          },
+          {
+            "key": "3/6",
+            "hex": "#554700"
+          },
+          {
+            "key": "3/8",
+            "hex": "#574700"
+          },
+          {
+            "key": "3/12",
+            "hex": "#5b4700"
+          },
+          {
+            "key": "4/6",
+            "hex": "#6f6013"
+          },
+          {
+            "key": "4/10",
+            "hex": "#735f00"
+          },
+          {
+            "key": "4/4",
+            "hex": "#6c6030"
+          },
+          {
+            "key": "5/10",
+            "hex": "#8f7900"
+          },
+          {
+            "key": "5/4",
+            "hex": "#857a47"
+          },
+          {
+            "key": "5/8",
+            "hex": "#8d7900"
+          },
+          {
+            "key": "6/4",
+            "hex": "#9f9460"
+          },
+          {
+            "key": "6/6",
+            "hex": "#a49443"
+          },
+          {
+            "key": "6/8",
+            "hex": "#a89321"
+          },
+          {
+            "key": "6/12",
+            "hex": "#ac9300"
+          },
+          {
+            "key": "7/8",
+            "hex": "#c2ae3f"
+          },
+          {
+            "key": "7/10",
+            "hex": "#c5ae0b"
+          },
+          {
+            "key": "7/12",
+            "hex": "#c8ae00"
+          },
+          {
+            "key": "8/4",
+            "hex": "#d4c990"
+          },
+          {
+            "key": "8/6",
+            "hex": "#d9c975"
+          },
+          {
+            "key": "8/12",
+            "hex": "#e3c900"
+          },
+          {
+            "key": "9/2",
+            "hex": "#eae4c3"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffe41a"
+          },
+          {
+            "key": "1/100",
+            "hex": "#a89321"
+          },
+          {
+            "key": "2/100",
+            "hex": "#c2ae3f"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3F1E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3F1E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271E00"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#f6ebaf",
+          "hsv": [
+            50.75721306771402,
+            28.729912202045583,
+            96.51877993929426
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/243/38334243/s_38334243.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/243/38334243/s_38334243.jpg",
+        "colorsPure": [
+          "#ac9300",
+          "#c8ae00"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

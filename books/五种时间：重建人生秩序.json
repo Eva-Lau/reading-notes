@@ -1,0 +1,292 @@
+{
+  "bookInfo": {
+    "bookId": "37665432",
+    "title": "五种时间：重建人生秩序",
+    "author": "王潇",
+    "noteCount": 3,
+    "reviewCount": 1,
+    "markedStatus": 2,
+    "readingProgress": 8
+  },
+  "bookmarks": {
+    "synckey": 1715276279,
+    "updated": [
+      {
+        "bookId": "37665432",
+        "bookmarkId": "37665432_65_3566-3605",
+        "createTime": 1715276279,
+        "chapterUid": 65,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "3∶7是我认为在真实生活中我们能争取到的自由灵魂与大概率快乐之间最大的比例了。",
+        "range": "3566-3605"
+      },
+      {
+        "bookId": "37665432",
+        "bookmarkId": "37665432_65_2668-2693",
+        "createTime": 1715276198,
+        "chapterUid": 65,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "核心就是，谁也别管我想干什么，我乐意干什么就干什么",
+        "range": "2668-2693"
+      },
+      {
+        "bookId": "37665432",
+        "bookmarkId": "37665432_65_2652-2667",
+        "createTime": 1715276183,
+        "chapterUid": 65,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "我想要空白、自由，哪怕无所事事",
+        "range": "2652-2667"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "拥挤的许愿池",
+        "chapterUid": 65,
+        "chapterIdx": 8
+      }
+    ],
+    "book": {
+      "bookId": "37665432",
+      "version": 1889190336,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/432/37665432/s_37665432.jpg",
+      "title": "五种时间：重建人生秩序",
+      "author": "王潇",
+      "coverBoxInfo": {
+        "blurhash": "KIFYrxt7E1?HWBt84mayo#",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#251a18"
+          },
+          {
+            "key": "1/6",
+            "hex": "#251a18"
+          },
+          {
+            "key": "1/8",
+            "hex": "#251a18"
+          },
+          {
+            "key": "2/4",
+            "hex": "#392f2c"
+          },
+          {
+            "key": "2/6",
+            "hex": "#392f2c"
+          },
+          {
+            "key": "2/8",
+            "hex": "#392f2c"
+          },
+          {
+            "key": "3/4",
+            "hex": "#504541"
+          },
+          {
+            "key": "3/6",
+            "hex": "#504541"
+          },
+          {
+            "key": "3/8",
+            "hex": "#504541"
+          },
+          {
+            "key": "3/12",
+            "hex": "#504541"
+          },
+          {
+            "key": "4/6",
+            "hex": "#695e59"
+          },
+          {
+            "key": "4/10",
+            "hex": "#695e59"
+          },
+          {
+            "key": "4/4",
+            "hex": "#695e59"
+          },
+          {
+            "key": "5/10",
+            "hex": "#827772"
+          },
+          {
+            "key": "5/4",
+            "hex": "#827772"
+          },
+          {
+            "key": "5/8",
+            "hex": "#827772"
+          },
+          {
+            "key": "6/4",
+            "hex": "#9c918c"
+          },
+          {
+            "key": "6/6",
+            "hex": "#9c918c"
+          },
+          {
+            "key": "6/8",
+            "hex": "#9c918c"
+          },
+          {
+            "key": "6/12",
+            "hex": "#9c918c"
+          },
+          {
+            "key": "7/8",
+            "hex": "#b6aba6"
+          },
+          {
+            "key": "7/10",
+            "hex": "#b6aba6"
+          },
+          {
+            "key": "7/12",
+            "hex": "#b6aba6"
+          },
+          {
+            "key": "8/4",
+            "hex": "#d0c6c1"
+          },
+          {
+            "key": "8/6",
+            "hex": "#d0c6c1"
+          },
+          {
+            "key": "8/12",
+            "hex": "#d0c6c1"
+          },
+          {
+            "key": "9/2",
+            "hex": "#ebe1db"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ebe1db"
+          },
+          {
+            "key": "1/100",
+            "hex": "#9c918c"
+          },
+          {
+            "key": "2/100",
+            "hex": "#b6aba6"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3E8E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#270500"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#231816",
+          "hsv": [
+            12.578020308782936,
+            36.8793094373388,
+            13.55083600891275
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/432/37665432/s_37665432.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/432/37665432/s_37665432.jpg",
+        "colorsPure": [
+          "#9c918c",
+          "#b6aba6"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1715228918,
+    "totalCount": 1,
+    "reviews": [
+      {
+        "reviewId": "17061918_7R3z9ruJ4",
+        "review": {
+          "abstract": "建造花园者，收获果实",
+          "atUserVids": [],
+          "bookId": "37665432",
+          "bookVersion": 1889190336,
+          "chapterName": "建造花园者，收获果实",
+          "chapterUid": 60,
+          "content": "单读这一句，就觉得很美",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 1,
+          "notVisibleToFriends": 0,
+          "range": "565-575",
+          "createTime": 1715228918,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7R3z9ruJ4",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 8,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "37665432",
+            "format": "epub",
+            "version": 1889190336,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/432/37665432/s_37665432.jpg",
+            "title": "五种时间：重建人生秩序",
+            "author": "王潇",
+            "payType": 1048577
+          },
+          "chapterIdx": 3,
+          "chapterTitle": "建造花园者，收获果实",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

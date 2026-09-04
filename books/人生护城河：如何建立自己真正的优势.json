@@ -1,0 +1,1088 @@
+{
+  "bookInfo": {
+    "bookId": "26011106",
+    "title": "人生护城河：如何建立自己真正的优势",
+    "author": "张辉",
+    "noteCount": 10,
+    "reviewCount": 13,
+    "markedStatus": 4,
+    "readingProgress": 100
+  },
+  "bookmarks": {
+    "synckey": 1712058925,
+    "updated": [
+      {
+        "bookId": "26011106",
+        "chapterUid": 38,
+        "bookmarkId": "26011106_38_21446-21525",
+        "colorStyle": 1,
+        "type": 1,
+        "createTime": 1712058925,
+        "range": "21446-21525",
+        "markText": "你所掌握的思维模型、思维框架越多，你越难犯下愚蠢的错误。只有一种思维模型和框架的人，不是智者，而是容易被牵着走的人。容易被牵着走的人，是那些注定要被收割的人。"
+      },
+      {
+        "bookId": "26011106",
+        "chapterUid": 38,
+        "bookmarkId": "26011106_38_8798-8844",
+        "colorStyle": 3,
+        "type": 1,
+        "createTime": 1711621375,
+        "range": "8798-8844",
+        "markText": "定位要鲜明，能力要突出，能做到“你可以不喜欢我，但你得用我，因为我无可替代，我值这份薪水”。"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_7_658-715",
+        "createTime": 1697158269,
+        "chapterUid": 33,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "我觉得就是知道自己内心想要的是什么，也知道自己可以放弃什么，知道自己应对什么承担责任。内心自信，有所为，有所不为。",
+        "range": "585-642"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_6_17782-17834",
+        "createTime": 1697157847,
+        "chapterUid": 32,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "所以说，人这一生最怕的是时间花出去了，挣了点小钱，但见识没增长。小富即安是财富自由和精神自由的最大敌人。",
+        "range": "17690-17742"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_6_7113-7162",
+        "createTime": 1693628696,
+        "chapterUid": 32,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "人生最终要做的事情是扬长避短，当然，作为必要手段，你需要“知长知短”，即真正了解自己的优势和不足。",
+        "range": "7128-7177"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_6_6591-6618",
+        "createTime": 1693628653,
+        "chapterUid": 32,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "你必须采取一个非共识但正确的观点，才能打败竞争对手。”",
+        "range": "6561-6588"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_6_6500-6560",
+        "createTime": 1693628644,
+        "chapterUid": 32,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "贝索斯采用的是“长线思维”，换言之，他喜欢做那些被其他人误解、琢磨不透的事情，因为这些事情的模式和收益在短期内看不清楚。",
+        "range": "6470-6530"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_6_6323-6371",
+        "createTime": 1693620027,
+        "chapterUid": 32,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "当你围绕自己的优势做事时，你关心的不是竞争，而是能否真正着眼于长期目标，能否充分发挥自己的优势。",
+        "range": "6293-6341"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_6_6100-6148",
+        "createTime": 1693619986,
+        "chapterUid": 32,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "我们在竞争之外还有选择，即尽量回归初心，找到自己真正的优势，并且在执行时尽可能避开不必要的竞争。",
+        "range": "6070-6118"
+      },
+      {
+        "bookId": "26011106",
+        "bookmarkId": "26011106_4_1206-1244",
+        "createTime": 1693616743,
+        "chapterUid": 30,
+        "colorStyle": 1,
+        "type": 1,
+        "markText": "回顾当初，运营公众号就是为了能记录自己的心声，不为流量，不为利益，就为自己。",
+        "range": "1139-1177"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "工作历练",
+        "chapterUid": 38,
+        "chapterIdx": 12
+      },
+      {
+        "title": "人生定位",
+        "chapterUid": 33,
+        "chapterIdx": 7
+      },
+      {
+        "title": "人生商战",
+        "chapterUid": 32,
+        "chapterIdx": 6
+      },
+      {
+        "title": "序言",
+        "chapterUid": 30,
+        "chapterIdx": 4
+      }
+    ],
+    "book": {
+      "bookId": "26011106",
+      "version": 1857632491,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+      "title": "人生护城河：如何建立自己真正的优势",
+      "author": "张辉",
+      "coverBoxInfo": {
+        "blurhash": "KRQv|2x]V@}@ofNGS$V@xa",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#00222f"
+          },
+          {
+            "key": "1/6",
+            "hex": "#002439"
+          },
+          {
+            "key": "1/8",
+            "hex": "#002643"
+          },
+          {
+            "key": "2/4",
+            "hex": "#003742"
+          },
+          {
+            "key": "2/6",
+            "hex": "#00394c"
+          },
+          {
+            "key": "2/8",
+            "hex": "#003c56"
+          },
+          {
+            "key": "3/4",
+            "hex": "#0f4f5b"
+          },
+          {
+            "key": "3/6",
+            "hex": "#005165"
+          },
+          {
+            "key": "3/8",
+            "hex": "#00546e"
+          },
+          {
+            "key": "3/12",
+            "hex": "#005980"
+          },
+          {
+            "key": "4/6",
+            "hex": "#006b7c"
+          },
+          {
+            "key": "4/10",
+            "hex": "#007191"
+          },
+          {
+            "key": "4/4",
+            "hex": "#306873"
+          },
+          {
+            "key": "5/10",
+            "hex": "#008ca9"
+          },
+          {
+            "key": "5/4",
+            "hex": "#4d828b"
+          },
+          {
+            "key": "5/8",
+            "hex": "#00889f"
+          },
+          {
+            "key": "6/4",
+            "hex": "#669ca5"
+          },
+          {
+            "key": "6/6",
+            "hex": "#41a0af"
+          },
+          {
+            "key": "6/8",
+            "hex": "#00a3b8"
+          },
+          {
+            "key": "6/12",
+            "hex": "#00aacc"
+          },
+          {
+            "key": "7/8",
+            "hex": "#2cbed1"
+          },
+          {
+            "key": "7/10",
+            "hex": "#00c2db"
+          },
+          {
+            "key": "7/12",
+            "hex": "#00c6e6"
+          },
+          {
+            "key": "8/4",
+            "hex": "#98d2d9"
+          },
+          {
+            "key": "8/6",
+            "hex": "#78d6e2"
+          },
+          {
+            "key": "8/12",
+            "hex": "#00e2ff"
+          },
+          {
+            "key": "9/2",
+            "hex": "#cde8eb"
+          },
+          {
+            "key": "9/12",
+            "hex": "#00ffff"
+          },
+          {
+            "key": "1/100",
+            "hex": "#00a3b8"
+          },
+          {
+            "key": "2/100",
+            "hex": "#2cbed1"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5F2F3"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5F2F3"
+          },
+          {
+            "key": "6/100",
+            "hex": "#002722"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#c9f5fa",
+          "hsv": [
+            186.64151852183008,
+            19.49647577092511,
+            98.1229074889868
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/106/26011106/s_26011106.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/106/26011106/s_26011106.jpg",
+        "colorsPure": [
+          "#00aacc",
+          "#00c6e6"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1723788035,
+    "totalCount": 13,
+    "reviews": [
+      {
+        "reviewId": "17061918_7QhjjuQOf",
+        "review": {
+          "abstract": "别怕花钱，认知比钱值钱，而钱每天都在贬值。",
+          "atUserVids": [],
+          "bookId": "26011106",
+          "bookVersion": 1462772855,
+          "chapterName": "每日践行：思行合一才能快速前进",
+          "chapterUid": 46,
+          "content": "为自己花钱又找到了一个合理的理由",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "notVisibleToFriends": 0,
+          "range": "5050-5071",
+          "createTime": 1712487997,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7QhjjuQOf",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 20,
+          "chapterTitle": "每日践行：思行合一才能快速前进",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7QccH46K1",
+        "review": {
+          "abstract": "现代人有两个切肤之痛，第一是在无关小事上分散太多注意力；第二是在关键大事上缺乏行动力，投入资源也不够。",
+          "atUserVids": [],
+          "bookId": "26011106",
+          "bookVersion": 1462772855,
+          "chapterName": "复盘机制：如何把每一次意外和跌倒都当成机会",
+          "chapterUid": 45,
+          "content": "就是这样一个现代人，点醒了",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "notVisibleToFriends": 0,
+          "range": "2429-2480",
+          "createTime": 1712197931,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7QccH46K1",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 19,
+          "chapterTitle": "复盘机制：如何把每一次意外和跌倒都当成机会",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Qc7Zak2Y",
+        "review": {
+          "abstract": "对于我们人生发展至关重要的事情，我们一定要找到固定的空间和时间，每天去做。这就是为关键的少数事情创建固定的、舒适的第三空间。这一点是时间管理的关键。",
+          "atUserVids": [],
+          "bookId": "26011106",
+          "bookVersion": 1462772855,
+          "chapterName": "第三空间：让心成长",
+          "chapterUid": 40,
+          "content": "管理好自己人生的第二象限",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "notVisibleToFriends": 0,
+          "range": "2944-3018",
+          "createTime": 1712193618,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7Qc7Zak2Y",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 14,
+          "chapterTitle": "第三空间：让心成长",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Q9NqOeCi",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 40,
+          "content": "我们不断推动文明的发展，但又一步步成为文明的奴隶。",
+          "bookVersion": 201955388,
+          "abstract": "手机让你无处可藏，智能手机更是让你沉迷其中。我们不断推动文明发展，又一步步成为文明的奴隶。等到人工智能真正到来之日，大多数人更会成为毫无用处的宠物。",
+          "range": "14055-14129",
+          "reviewId": "17061918_7Q9NqOeCi",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1712061187,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 14,
+          "chapterTitle": "第三空间：让心成长",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Q9LAd7bW",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "做自己擅长的事情，不要老去想着补短板\n",
+          "bookVersion": 201955388,
+          "abstract": "一个人应该做自己最擅长的事情，而且最好越钻越深，使之达到特别擅长的程度。",
+          "range": "23087-23123",
+          "reviewId": "17061918_7Q9LAd7bW",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1712059494,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1
+      },
+      {
+        "reviewId": "17061918_7Q9LqE5xR",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "今天又学到一个新词，联想到自己的经历，我的大部分成长的瞬间就是Pain-Driven型的。",
+          "bookVersion": 201955388,
+          "abstract": "“Pain—Driven”（痛苦驱动型）的认知提升，我们更需要主动去提升认知。这样，你就具备更多的能力，能储藏更多的能量，以面对你未来人生的各种挑战。",
+          "range": "21939-22014",
+          "reviewId": "17061918_7Q9LqE5xR",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1712059352,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Q9KhgZVS",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "读好书，不要做愚蠢的人类~",
+          "bookVersion": 201955388,
+          "abstract": "真正的好书只有一个定义：能改变你认知的书。也就是说，是在公认的好书和适合你的书之间取一个交集。对我而言，《禅与摩托车维修艺术》（罗伯特·M·波西格著）改变了我看待周围世界的方式；《爱上双人舞》（李中莹著）让我重新认识了婚姻和爱情；《少有人走的路》（M·斯科特·派克著）让我理解了心智成熟之路是一条少有人走的路，也是我们要坚持一生的道路；《怎样解题》（G·波利亚著）奠定了我思考问题的角度；《穷查理宝典》（查理·芒格著）让我更加确认多重思维框架的重要性。",
+          "range": "19680-19906",
+          "reviewId": "17061918_7Q9KhgZVS",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1712058298,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Q9GMT5Lq",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "一定要看得更远一点，走得也才能更远一点",
+          "bookVersion": 201955388,
+          "abstract": "“定位高远，降维攻击”，不要纠结于局部的得失，而是要能看到3～5年后的发展，对标更优秀的人。",
+          "range": "17345-17391",
+          "reviewId": "17061918_7Q9GMT5Lq",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1712055100,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Q24s0Rpz",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "理想工作的三大要素",
+          "bookVersion": 1462772855,
+          "abstract": "第一，做有潜力的事情。第二，与自己佩服的人一起做。第三，充分发挥自己的优势。",
+          "range": "13475-13571",
+          "reviewId": "17061918_7Q24s0Rpz",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1711622377,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Q24kx2bC",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "对自由有了更多的思考。",
+          "bookVersion": 1462772855,
+          "abstract": "人生最终的自由就是选择的自由，选择的自由就是时间的自由，时间的自由首先来自高时薪，最终来自投资。所以，提高自己的时薪，提高对于这种时薪的可控性，是迈向人生自由的第一步。",
+          "range": "12906-12990",
+          "reviewId": "17061918_7Q24kx2bC",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1711622267,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 0
+      },
+      {
+        "reviewId": "17061918_7Q23q78sz",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "永远真诚，保持进步",
+          "bookVersion": 1462772855,
+          "abstract": "定位要鲜明，能力要突出，能做到“你可以不喜欢我，但你得用我，因为我无可替代，我值这份薪水”。",
+          "range": "8798-8844",
+          "reviewId": "17061918_7Q23q78sz",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1711621433,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7Q23i4z81",
+        "review": {
+          "type": 1,
+          "bookId": "26011106",
+          "chapterUid": 38,
+          "content": "职场真理，也是我的领导教会我的一件最重要的事情，始终保持做事的心态。",
+          "bookVersion": 1462772855,
+          "abstract": "其实，无论在大公司还是小公司，我们始终要保持做事的心态，不要推诿扯皮，该扛的风险要扛，该让的功劳要让。你的职业生涯要长于你在任何一家公司的任职时间，你以为是吃亏的事情，长期来看很可能给你加分的；你以为是占便宜的事情，长期来看有可能是给你减分的。",
+          "range": "8060-8182",
+          "reviewId": "17061918_7Q23i4z81",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1711621314,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 12,
+          "chapterTitle": "工作历练",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7LVpWzWpY",
+        "review": {
+          "abstract": "对见识、能力和收入三要素的选择和阶段性取舍，就是你的人生战略，它能反映出你的格局，也决定了你的未来之路。",
+          "atUserVids": [],
+          "bookId": "26011106",
+          "bookVersion": 842056419,
+          "chapterName": "人生商战",
+          "chapterUid": 32,
+          "content": "打造人生的护城河，是一项极具挑战的工程",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "notVisibleToFriends": 0,
+          "range": "18183-18235",
+          "createTime": 1697158008,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7LVpWzWpY",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "26011106",
+            "format": "epub",
+            "version": 1857632491,
+            "soldout": 0,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/106/26011106/s_26011106.jpg",
+            "title": "人生护城河：如何建立自己真正的优势",
+            "author": "张辉",
+            "payType": 1048577
+          },
+          "chapterIdx": 6,
+          "chapterTitle": "人生商战",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

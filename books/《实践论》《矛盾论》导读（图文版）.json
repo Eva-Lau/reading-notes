@@ -1,0 +1,222 @@
+{
+  "bookInfo": {
+    "bookId": "3300090259",
+    "title": "《实践论》《矛盾论》导读（图文版）",
+    "author": "崔丽华",
+    "noteCount": 2,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 22
+  },
+  "bookmarks": {
+    "synckey": 1758071224,
+    "updated": [
+      {
+        "bookId": "3300090259",
+        "chapterIdx": 7,
+        "bookmarkId": "3300090259_7_6336-6489",
+        "range": "6336-6489",
+        "markText": "1935年1月，中央政治局在长征途中举行遵义会议，结束了王明“左”倾教条主义在党中央的统治，事实上确立了毛泽东在党中央和红军的领导地位，开始确立以毛泽东同志为主要代表的马克思主义正确路线在党中央的领导地位，开始形成以毛泽东同志为核心的党的第一代中央领导集体，开启了党独立自主地解决中国革命实际问题的新阶段。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 7,
+        "createTime": 1758071224
+      },
+      {
+        "bookId": "3300090259",
+        "chapterIdx": 6,
+        "bookmarkId": "3300090259_6_5072-5227",
+        "range": "5072-5227",
+        "markText": "据不完全统计，从1927年3月到1928年上半年，被杀害的共产党员和革命群众达31万多人。在严重的白色恐怖下，革命高潮时期加入共产党组织的一些不坚定分子，有的悲观失望，有的消极动摇，更有的叛变投敌，堕落为革命的敌人。共产党员人数由1927年召开中共五大时期的5.7万多人骤减到1万多人，轰轰烈烈的大革命失败了。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 6,
+        "createTime": 1758069191
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "二 “两论”的现实需要",
+        "chapterUid": 7,
+        "chapterIdx": 7
+      },
+      {
+        "title": "一 “两论”的时代背景",
+        "chapterUid": 6,
+        "chapterIdx": 6
+      }
+    ],
+    "book": {
+      "bookId": "3300090259",
+      "version": 15399690,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/78/cpplatform_qtyg9mmabulw4cwkkazyfj/s_cpplatform_qtyg9mmabulw4cwkkazyfj1709799027.jpg",
+      "title": "《实践论》《矛盾论》导读（图文版）",
+      "author": "崔丽华",
+      "coverBoxInfo": {
+        "blurhash": "KCGl^btT0K%MWYe.9Zt6%M",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#002316"
+          },
+          {
+            "key": "1/6",
+            "hex": "#002614"
+          },
+          {
+            "key": "1/8",
+            "hex": "#002913"
+          },
+          {
+            "key": "2/4",
+            "hex": "#0f382a"
+          },
+          {
+            "key": "2/6",
+            "hex": "#003a27"
+          },
+          {
+            "key": "2/8",
+            "hex": "#003d25"
+          },
+          {
+            "key": "3/4",
+            "hex": "#22503f"
+          },
+          {
+            "key": "3/6",
+            "hex": "#00533b"
+          },
+          {
+            "key": "3/8",
+            "hex": "#005639"
+          },
+          {
+            "key": "3/12",
+            "hex": "#005a35"
+          },
+          {
+            "key": "4/6",
+            "hex": "#136d51"
+          },
+          {
+            "key": "4/10",
+            "hex": "#00744b"
+          },
+          {
+            "key": "4/4",
+            "hex": "#396956"
+          },
+          {
+            "key": "5/10",
+            "hex": "#008f62"
+          },
+          {
+            "key": "5/4",
+            "hex": "#53836e"
+          },
+          {
+            "key": "5/8",
+            "hex": "#008b65"
+          },
+          {
+            "key": "6/4",
+            "hex": "#6a9e87"
+          },
+          {
+            "key": "6/6",
+            "hex": "#52a382"
+          },
+          {
+            "key": "6/8",
+            "hex": "#2ca67d"
+          },
+          {
+            "key": "6/12",
+            "hex": "#00ad76"
+          },
+          {
+            "key": "7/8",
+            "hex": "#50c196"
+          },
+          {
+            "key": "7/10",
+            "hex": "#06c591"
+          },
+          {
+            "key": "7/12",
+            "hex": "#00c98d"
+          },
+          {
+            "key": "8/4",
+            "hex": "#9dd4b9"
+          },
+          {
+            "key": "8/6",
+            "hex": "#84d9b3"
+          },
+          {
+            "key": "8/12",
+            "hex": "#00e5a4"
+          },
+          {
+            "key": "9/2",
+            "hex": "#cbead9"
+          },
+          {
+            "key": "9/12",
+            "hex": "#00ffbb"
+          },
+          {
+            "key": "1/100",
+            "hex": "#2ca67d"
+          },
+          {
+            "key": "2/100",
+            "hex": "#50c196"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#E5F3EF"
+          },
+          {
+            "key": "5/100",
+            "hex": "#E5F3EF"
+          },
+          {
+            "key": "6/100",
+            "hex": "#002714"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#6e8b7d",
+          "hsv": [
+            149.5548619537718,
+            20.82132006910109,
+            54.664807589205935
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/259/3300090259/s_3300090259.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/259/3300090259/s_3300090259.jpg",
+        "colorsPure": [
+          "#00ad76",
+          "#00c98d"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

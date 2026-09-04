@@ -1,0 +1,204 @@
+{
+  "bookInfo": {
+    "bookId": "652123",
+    "title": "黄金时代",
+    "author": "王小波",
+    "noteCount": 1,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 22
+  },
+  "bookmarks": {
+    "synckey": 1681970399,
+    "updated": [
+      {
+        "bookId": "652123",
+        "bookmarkId": "652123_1_3085-3226",
+        "chapterUid": 3,
+        "markText": "那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想在一瞬间变成天上半明半暗的云。后来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。",
+        "range": "3990-4131",
+        "createTime": 1531290881,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "黄金时代",
+        "chapterUid": 3,
+        "chapterIdx": 3
+      }
+    ],
+    "book": {
+      "bookId": "652123",
+      "version": 1369630002,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/95/YueWen_652123/s_YueWen_652123.jpg",
+      "title": "黄金时代",
+      "author": "王小波",
+      "coverBoxInfo": {
+        "blurhash": "KcMGq;4m?wofbHayRj%gM_",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#321500"
+          },
+          {
+            "key": "1/6",
+            "hex": "#391000"
+          },
+          {
+            "key": "1/8",
+            "hex": "#410800"
+          },
+          {
+            "key": "2/4",
+            "hex": "#452b0e"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4b2900"
+          },
+          {
+            "key": "2/8",
+            "hex": "#502700"
+          },
+          {
+            "key": "3/4",
+            "hex": "#5e4223"
+          },
+          {
+            "key": "3/6",
+            "hex": "#64400b"
+          },
+          {
+            "key": "3/8",
+            "hex": "#693e00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#733900"
+          },
+          {
+            "key": "4/6",
+            "hex": "#815822"
+          },
+          {
+            "key": "4/10",
+            "hex": "#8a5400"
+          },
+          {
+            "key": "4/4",
+            "hex": "#795a37"
+          },
+          {
+            "key": "5/10",
+            "hex": "#a86d00"
+          },
+          {
+            "key": "5/4",
+            "hex": "#937450"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a36f1e"
+          },
+          {
+            "key": "6/4",
+            "hex": "#ae8e69"
+          },
+          {
+            "key": "6/6",
+            "hex": "#b88b52"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c08939"
+          },
+          {
+            "key": "6/12",
+            "hex": "#ca8500"
+          },
+          {
+            "key": "7/8",
+            "hex": "#dba353"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e2a137"
+          },
+          {
+            "key": "7/12",
+            "hex": "#e89f02"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e3c39a"
+          },
+          {
+            "key": "8/6",
+            "hex": "#eec083"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb92f"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f2e1c9"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd54b"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c08939"
+          },
+          {
+            "key": "2/100",
+            "hex": "#dba353"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#8a622f",
+          "hsv": [
+            33.40963272157701,
+            66.2408685152443,
+            54.28552330846522
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/123/652123/s_652123.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/123/652123/s_652123.jpg",
+        "colorsPure": [
+          "#ca8500",
+          "#e89f02"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

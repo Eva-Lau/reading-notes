@@ -1,0 +1,542 @@
+{
+  "bookInfo": {
+    "bookId": "651108",
+    "title": "目送：龙应台“人生三书”之三",
+    "author": "龙应台",
+    "noteCount": 19,
+    "reviewCount": 2,
+    "markedStatus": 3,
+    "readingProgress": 39
+  },
+  "bookmarks": {
+    "synckey": 1587737337,
+    "updated": [
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_37581-37620",
+        "chapterUid": 21,
+        "markText": "冬夜的街，很黑，犬吠声自远处幽幽传来，听起来像低声呜咽，在解释一个说不清的痛处",
+        "range": "2858-2897",
+        "createTime": 1534568382,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_35052-35180",
+        "chapterUid": 20,
+        "markText": "家，一不小心就变成一个没有温暖、只有压迫的地方。外面的世界固然荒凉，但是家却可以更寒冷。一个人固然寂寞，两个人孤灯下无言相对却可以更寂寞。很多人在散了之后就开始终身流浪。",
+        "range": "2499-2627",
+        "createTime": 1534568224,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_28090-28224",
+        "chapterUid": 17,
+        "markText": "我们拼命地学习如何成功冲刺一百米，但是没有人教过我们：你跌倒时，怎么跌得有尊严；你的膝盖破得血肉模糊时，怎么清洗伤口、怎么包扎；你痛得无法忍受时，用什么样的表情去面对别人；你一头栽下时，怎么治疗内心淌血的创伤，怎么获得心灵深层的平静；心像玻璃一样碎了一地时，怎么收拾？",
+        "range": "2062-2196",
+        "createTime": 1534567848,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_24223-24288",
+        "chapterUid": 15,
+        "markText": "兄弟，不是永不交叉的铁轨，倒像同一株雨树上的枝叶，虽然隔开三十米，但是同树同根，日开夜合，看同一场雨直直落地，与树雨共老，挺好的。",
+        "range": "2548-2613",
+        "createTime": 1534567351,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_23529-23811",
+        "chapterUid": 15,
+        "markText": "所谓兄弟，就是家常日子平淡过，各自有各自的工作和生活，各自做各自的抉择和承受。我们聚首，通常不是为了彼此，而是为了父亲或母亲。聚首时即使促膝而坐，也不必然会谈心。即使谈心，也不必然有所企求—自己的抉择，只有自己能承受，在我们这个年龄，已经了然在心。有时候，我们问：母亲也走了以后，你我还会这样相聚吗？我们会不会，像风中转蓬一样，各自滚向渺茫，相忘于人生的荒漠？[插图]",
+        "range": "1782-1962",
+        "createTime": 1534567255,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_16788-17058",
+        "chapterUid": 12,
+        "markText": "你们之中，今天最聪明、最优秀的四个孩子，两个人会成为医生或工程师或商人，另外两个人会终其一生落魄而艰辛。所有其他的人，会经历结婚、生育、工作、退休，人生由淡淡的悲伤和淡淡的幸福组成，在小小的期待、偶尔的兴奋和沉默的失望中度过每一天，然后带着一种想说却又说不来的‘懂’，做最后的转身离开。”如果在我们十二岁那年，有人跟我们这样上课，会怎么样？当然，没有一个老师，会对十二岁的孩子们这样说话。因为，这，哪能做人生的“座右铭”呢？",
+        "range": "2398-2668",
+        "createTime": 1534563800,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_14763-14804",
+        "chapterUid": 11,
+        "markText": "君子之交，其淡如水，执象而求，咫尺千里。问余何适，廓尔忘言，华枝春满，天心月圆。”",
+        "range": "1976-2017",
+        "createTime": 1534563639,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_5965-5997",
+        "chapterUid": 7,
+        "markText": "我顿时失神；自己十七岁时，曾经多么强烈憎恶妈妈坚持递过来的雨伞。",
+        "range": "1163-1195",
+        "createTime": 1531725853,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_4173-4210",
+        "chapterUid": 6,
+        "markText": "在浅浅的晨光中，我竟分不清那究竟是她年轻时的锋芒余光，还是一层盈盈的泪光。",
+        "range": "1937-1974",
+        "createTime": 1531725653,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_3511-3526",
+        "chapterUid": 6,
+        "markText": "也就是说，人逐渐逐渐退为影子。",
+        "range": "1275-1290",
+        "createTime": 1531725582,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_1675-1702",
+        "chapterUid": 5,
+        "markText": "我慢慢地、慢慢地意识到，我的落寞，仿佛和另一个背影有关",
+        "range": "1520-1547",
+        "createTime": 1531725368,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_1547-1602",
+        "chapterUid": 4,
+        "markText": "我慢慢地、慢慢地了解到，所谓父女母子一场，只不过意味着，你和他的缘分就是今生今世不断地在目送他的背影渐行渐远。",
+        "range": "486-541",
+        "createTime": 1531725330,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_4_486-541",
+        "chapterUid": 4,
+        "markText": "我慢慢地、慢慢地了解到，所谓父女母子一场，只不过意味着，你和他的缘分就是今生今世不断地在目送他的背影渐行渐远。",
+        "range": "486-541",
+        "createTime": 1531725106,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_3_2492-2557",
+        "chapterUid": 3,
+        "markText": "每一个被我“看见”的瞬间刹那，都被我采下，而采下的每一个当时，我都感受到一种“美”的逼迫，因为每一个当时，都稍纵即逝；稍纵，即逝。",
+        "range": "2492-2557",
+        "createTime": 1531724997,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_3_2318-2351",
+        "chapterUid": 3,
+        "markText": "寂；你来看此花时，则此花颜色一时明白起来，便知此花不在你的心外。”",
+        "range": "2318-2351",
+        "createTime": 1531724914,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_3_2303-2318",
+        "chapterUid": 3,
+        "markText": "“你未看此花时，此花与汝同归于",
+        "range": "2303-2318",
+        "createTime": 1531724898,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_3_2242-2269",
+        "chapterUid": 3,
+        "markText": "真正能看懂这世界的，难道竟是那机器，不是你自己的眼睛、",
+        "range": "2242-2269",
+        "createTime": 1531724824,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_3_1792-1803",
+        "chapterUid": 3,
+        "markText": "，她的身影柔弱如稻草。",
+        "range": "1792-1803",
+        "createTime": 1531724705,
+        "type": 1
+      },
+      {
+        "bookId": "651108",
+        "bookmarkId": "651108_3_1685-1720",
+        "chapterUid": 3,
+        "markText": "要真正地注视，必须一个人走路。一个人走路，才是你和风景之间的单独私会。",
+        "range": "1685-1720",
+        "createTime": 1531724610,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "十七岁",
+        "chapterUid": 7,
+        "chapterIdx": 7
+      },
+      {
+        "title": "散步",
+        "chapterUid": 21,
+        "chapterIdx": 21
+      },
+      {
+        "title": "雨儿",
+        "chapterUid": 6,
+        "chapterIdx": 6
+      },
+      {
+        "title": "寒色",
+        "chapterUid": 20,
+        "chapterIdx": 20
+      },
+      {
+        "title": "共老",
+        "chapterUid": 15,
+        "chapterIdx": 15
+      },
+      {
+        "title": "跌倒—寄K",
+        "chapterUid": 17,
+        "chapterIdx": 17
+      },
+      {
+        "title": "[代序]你来看此花时",
+        "chapterUid": 3,
+        "chapterIdx": 3
+      },
+      {
+        "title": "1964",
+        "chapterUid": 12,
+        "chapterIdx": 12
+      },
+      {
+        "title": "（不）相信",
+        "chapterUid": 11,
+        "chapterIdx": 11
+      },
+      {
+        "title": "I 有些路啊，只能一个人走",
+        "chapterUid": 4,
+        "chapterIdx": 4
+      },
+      {
+        "title": "目送",
+        "chapterUid": 5,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "651108",
+      "version": 1623909950,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/108/651108/s_651108.jpg",
+      "title": "目送：龙应台“人生三书”之三",
+      "author": "龙应台",
+      "coverBoxInfo": {
+        "blurhash": "KTGmezRlRR0PtPn%RjWEof",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#082202"
+          },
+          {
+            "key": "1/6",
+            "hex": "#002400"
+          },
+          {
+            "key": "1/8",
+            "hex": "#002600"
+          },
+          {
+            "key": "2/4",
+            "hex": "#233618"
+          },
+          {
+            "key": "2/6",
+            "hex": "#183804"
+          },
+          {
+            "key": "2/8",
+            "hex": "#033b00"
+          },
+          {
+            "key": "3/4",
+            "hex": "#394e2a"
+          },
+          {
+            "key": "3/6",
+            "hex": "#305018"
+          },
+          {
+            "key": "3/8",
+            "hex": "#245200"
+          },
+          {
+            "key": "3/12",
+            "hex": "#005600"
+          },
+          {
+            "key": "4/6",
+            "hex": "#486a2b"
+          },
+          {
+            "key": "4/10",
+            "hex": "#326e00"
+          },
+          {
+            "key": "4/4",
+            "hex": "#50673e"
+          },
+          {
+            "key": "5/10",
+            "hex": "#4f8800"
+          },
+          {
+            "key": "5/4",
+            "hex": "#6a8156"
+          },
+          {
+            "key": "5/8",
+            "hex": "#59862b"
+          },
+          {
+            "key": "6/4",
+            "hex": "#849b6d"
+          },
+          {
+            "key": "6/6",
+            "hex": "#7c9e59"
+          },
+          {
+            "key": "6/8",
+            "hex": "#73a142"
+          },
+          {
+            "key": "6/12",
+            "hex": "#61a500"
+          },
+          {
+            "key": "7/8",
+            "hex": "#8ebb5b"
+          },
+          {
+            "key": "7/10",
+            "hex": "#85be41"
+          },
+          {
+            "key": "7/12",
+            "hex": "#7cc01b"
+          },
+          {
+            "key": "8/4",
+            "hex": "#b8d09c"
+          },
+          {
+            "key": "8/6",
+            "hex": "#b0d387"
+          },
+          {
+            "key": "8/12",
+            "hex": "#97dc38"
+          },
+          {
+            "key": "9/2",
+            "hex": "#dae8c8"
+          },
+          {
+            "key": "9/12",
+            "hex": "#b2f84c"
+          },
+          {
+            "key": "1/100",
+            "hex": "#73a142"
+          },
+          {
+            "key": "2/100",
+            "hex": "#8ebb5b"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#EFF3E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#EFF3E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#222700"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#b3ca99",
+          "hsv": [
+            88.65937392874557,
+            24.550934948219492,
+            79.32103915347324
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/108/651108/s_651108.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/108/651108/s_651108.jpg",
+        "colorsPure": [
+          "#61a500",
+          "#7cc01b"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1578213681,
+    "totalCount": 2,
+    "reviews": [
+      {
+        "reviewId": "17061918_71KVt3SLq",
+        "review": {
+          "abstract": "我想说的是，K，在我们整个成长的过程里，谁，教过我们怎么去面对痛苦、挫折、失败？它不在我们的家庭教育里，它不在小学、中学、大学的教科书或课程里，它更不在我们的大众传播里。家庭教育、学校教育、社会教育只教我们如何去追求卓越，从砍樱桃的华盛顿、悬梁刺股的孙敬、苏秦到平地起楼的比尔·盖茨，都是成功的典范。即使是谈到失败，目的只是要你绝地反攻，再度追求出人头地，譬如越王勾践的卧薪尝胆，洗雪耻辱，譬如哪个战败的国王看见蜘蛛如何结网，不屈不挠。\n我们拼命地学习如何成功冲刺一百米，但是没有人教过我们：你跌倒时，怎么跌得有尊严；你的膝盖破得血肉模糊时，怎么清洗伤口、怎么包扎；你痛得无法忍受时，用什么样的表情去面对别人；你一头栽下时，怎么治疗内心淌血的创伤，怎么获得心灵深层的平静；心像玻璃一样碎了一地时，怎么收拾？\n谁教过我们，在跌倒时，怎样的勇敢才真正有用？怎样的智慧才能度过？跌倒，怎样可以变成行远的力量？失败，为什么往往是人生的修行？何以跌倒过的人，更深刻、更真诚？\n我们没有学过。",
+          "bookId": "651108",
+          "bookVersion": 603260828,
+          "chapterUid": 17,
+          "content": "想起一些不想想起来的，那些骄傲到后来却变成了我最大的敌人。是啊，从小到大，身边的人都在教我们一定要做要做一个有用的人，一定要怎么怎么。可是从来都没有人告诉过我们，跌倒了除了爬起来，还能怎么做？慢慢读了越来越多的书，我才慢慢认识到要从自己所设想的假想敌里面走出来，其实并不难",
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "1132-1656",
+          "title": "",
+          "type": 1,
+          "topics": [],
+          "userVid": 17061918,
+          "reviewId": "17061918_71KVt3SLq",
+          "createTime": 1534567813,
+          "flag": 16,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "651108",
+            "format": "epub",
+            "version": 1623909950,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/108/651108/s_651108.jpg",
+            "title": "目送：龙应台“人生三书”之三",
+            "author": "龙应台",
+            "payType": 1048577
+          },
+          "chapterIdx": 4,
+          "chapterTitle": "I 有些路啊，只能一个人走",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "Push yourself, don't settle",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1,
+        "friendLikesCount": 1
+      },
+      {
+        "reviewId": "17061918_71KUYh8fl",
+        "review": {
+          "abstract": "兄弟，不是永不交叉的铁轨，倒像同一株雨树上的枝叶，虽然隔开三十米，但是同树同根，日开夜合，看同一场雨直直落地，与树雨共老，挺好的。",
+          "bookId": "651108",
+          "bookVersion": 1366061291,
+          "chapterUid": 15,
+          "content": "",
+          "htmlContent": "",
+          "isPrivate": 0,
+          "range": "2529-2594",
+          "title": "",
+          "type": 7,
+          "topics": [],
+          "userVid": 17061918,
+          "reviewId": "17061918_71KUYh8fl",
+          "createTime": 1534567358,
+          "flag": 8192,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "651108",
+            "format": "epub",
+            "version": 1623909950,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/108/651108/s_651108.jpg",
+            "title": "目送：龙应台“人生三书”之三",
+            "author": "龙应台",
+            "payType": 1048577
+          },
+          "chapterIdx": 15,
+          "chapterTitle": "共老",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "Push yourself, don't settle",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 1,
+        "friendLikesCount": 1
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

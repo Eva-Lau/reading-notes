@@ -1,0 +1,301 @@
+{
+  "bookInfo": {
+    "bookId": "3300014275",
+    "title": "职场晋升101",
+    "author": "崔璀",
+    "noteCount": 9,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 33
+  },
+  "bookmarks": {
+    "synckey": 1671757217,
+    "updated": [
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_16_1893-2013",
+        "chapterUid": 16,
+        "markText": "1.我的真实感受是什么？2.“想要”和“应该”之间的这种冲突，原因是什么？这是一个绝好的思考人生的机会，千万别让它轻易溜走。",
+        "range": "1893-2013",
+        "createTime": 1671757217,
+        "type": 1
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_14_746-796",
+        "chapterUid": 14,
+        "markText": "信息越爆炸，就越要主动做减法；越是不知道如何下手，越要敢于舍弃大量的与你无关的信息，做少而准确的事。",
+        "range": "746-796",
+        "createTime": 1671756920,
+        "type": 1
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_10_1293-1333",
+        "chapterUid": 10,
+        "markText": "Fake it until you make it（一直假装下去，就成真的了）。",
+        "range": "1293-1333",
+        "createTime": 1671755562,
+        "type": 1
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_9_1988-2033",
+        "chapterUid": 9,
+        "markText": "“如果我要逼着自己成为别人，那到头来，我谁也不是。我欣赏他人的才华，但我也有自己的坚持。”",
+        "range": "1988-2033",
+        "createTime": 1671755428,
+        "type": 1
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_9_1372-1395",
+        "createTime": 1669515613,
+        "range": "1372-1395",
+        "markText": "事实上，在你的优势领域花力气，效率才是最高的。",
+        "type": 1,
+        "chapterUid": 9
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_4_5691-5784",
+        "createTime": 1669455920,
+        "range": "5691-5784",
+        "markText": "因此，我们看到了对方的不同，理解和承认你我是不一样的人。\n我们努力学习如何与不同的人协作，以此来完成我们共同的目标，彼此成就。",
+        "type": 1,
+        "chapterUid": 4
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_4_5282-5301",
+        "createTime": 1669454240,
+        "range": "5282-5301",
+        "markText": "当我们被爱着的时候，我们就会变得更好。",
+        "type": 1,
+        "chapterUid": 4
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_4_5227-5238",
+        "createTime": 1669454227,
+        "range": "5227-5238",
+        "markText": "情绪价值，是第一生产力",
+        "type": 1,
+        "chapterUid": 4
+      },
+      {
+        "bookId": "3300014275",
+        "bookmarkId": "3300014275_3_840-874",
+        "createTime": 1669449543,
+        "range": "840-874",
+        "markText": "她做任何一份工作，都是先从热爱出发，一旦确定，就落子无悔，全力以赴；",
+        "type": 1,
+        "chapterUid": 3
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "012 我想要A，但他们都说应该选B，我该听谁的",
+        "chapterUid": 16,
+        "chapterIdx": 16
+      },
+      {
+        "title": "序言 我一直在给职场中不同的人做翻译",
+        "chapterUid": 4,
+        "chapterIdx": 4
+      },
+      {
+        "title": "010 时间就这么多，我到底学哪个",
+        "chapterUid": 14,
+        "chapterIdx": 14
+      },
+      {
+        "title": "006 学历低=能力低吗",
+        "chapterUid": 10,
+        "chapterIdx": 10
+      },
+      {
+        "title": "005 如何面对隐性职场PUA",
+        "chapterUid": 9,
+        "chapterIdx": 9
+      },
+      {
+        "title": "推荐序 职场晋升的101个招式",
+        "chapterUid": 3,
+        "chapterIdx": 3
+      }
+    ],
+    "book": {
+      "bookId": "3300014275",
+      "version": 368004220,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/75/3300014275/s_3300014275.jpg",
+      "title": "职场晋升101",
+      "author": "崔璀",
+      "coverBoxInfo": {
+        "blurhash": "KQRB:2Xk%I0PRks+pUVuRS",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#291a00"
+          },
+          {
+            "key": "1/6",
+            "hex": "#2e1900"
+          },
+          {
+            "key": "1/8",
+            "hex": "#321800"
+          },
+          {
+            "key": "2/4",
+            "hex": "#3d2f04"
+          },
+          {
+            "key": "2/6",
+            "hex": "#412e00"
+          },
+          {
+            "key": "2/8",
+            "hex": "#442e00"
+          },
+          {
+            "key": "3/4",
+            "hex": "#54461e"
+          },
+          {
+            "key": "3/6",
+            "hex": "#594500"
+          },
+          {
+            "key": "3/8",
+            "hex": "#5c4500"
+          },
+          {
+            "key": "3/12",
+            "hex": "#614400"
+          },
+          {
+            "key": "4/6",
+            "hex": "#735e15"
+          },
+          {
+            "key": "4/10",
+            "hex": "#785d00"
+          },
+          {
+            "key": "4/4",
+            "hex": "#6f5f30"
+          },
+          {
+            "key": "5/10",
+            "hex": "#947700"
+          },
+          {
+            "key": "5/4",
+            "hex": "#887948"
+          },
+          {
+            "key": "5/8",
+            "hex": "#927702"
+          },
+          {
+            "key": "6/4",
+            "hex": "#a29361"
+          },
+          {
+            "key": "6/6",
+            "hex": "#a89245"
+          },
+          {
+            "key": "6/8",
+            "hex": "#ad9124"
+          },
+          {
+            "key": "6/12",
+            "hex": "#b29100"
+          },
+          {
+            "key": "7/8",
+            "hex": "#c7ac41"
+          },
+          {
+            "key": "7/10",
+            "hex": "#cbab13"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ceab00"
+          },
+          {
+            "key": "8/4",
+            "hex": "#d6c891"
+          },
+          {
+            "key": "8/6",
+            "hex": "#dcc876"
+          },
+          {
+            "key": "8/12",
+            "hex": "#eac600"
+          },
+          {
+            "key": "9/2",
+            "hex": "#ece3c3"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffe221"
+          },
+          {
+            "key": "1/100",
+            "hex": "#ad9124"
+          },
+          {
+            "key": "2/100",
+            "hex": "#c7ac41"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3F1E5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3F1E5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271E00"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#fee265",
+          "hsv": [
+            49.003632426581696,
+            60.34171826625388,
+            99.65211880804954
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/275/3300014275/s_3300014275.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/275/3300014275/s_3300014275.jpg",
+        "colorsPure": [
+          "#b29100",
+          "#ceab00"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

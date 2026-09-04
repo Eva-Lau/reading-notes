@@ -1,0 +1,291 @@
+{
+  "bookInfo": {
+    "bookId": "33800862",
+    "title": "少有人走的路：心智成熟的旅程",
+    "author": "M.斯科特·派克",
+    "noteCount": 9,
+    "reviewCount": 0,
+    "markedStatus": 2,
+    "readingProgress": 20
+  },
+  "bookmarks": {
+    "synckey": 1686332864,
+    "updated": [
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_12_551-583",
+        "chapterUid": 73,
+        "markText": "唯一的办法——我们应该勇敢地说：“这是我的问题，要由我来解决！”",
+        "range": "533-565",
+        "createTime": 1674820259,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_12_391-437",
+        "chapterUid": 73,
+        "markText": "不能及时解决自己面临的问题，这些问题就会像山一样横亘在我们心中，阻碍心灵的成长和心智的成熟。",
+        "range": "373-419",
+        "createTime": 1674820220,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_11_4085-4112",
+        "chapterUid": 72,
+        "markText": "问题拖得越久，就越是积重难返，解决起来自然更加艰难了。",
+        "range": "4066-4093",
+        "createTime": 1674820206,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_11_3405-3501",
+        "chapterUid": 72,
+        "markText": "我们都有过这样的体验：问题降临时，势必带来不同程度的痛苦。尽可能早地面对问题，意味着把满足感向后推迟，放弃暂时的安逸或是程度较轻的痛苦，去体验程度较大的痛苦，这才是对待问题和痛苦最明智的办法。",
+        "range": "3386-3482",
+        "createTime": 1674820103,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_11_3373-3405",
+        "chapterUid": 72,
+        "markText": "问题通常不可能自行消失，若不解决，就会永远存在，阻碍心智的成熟。",
+        "range": "3354-3386",
+        "createTime": 1674820072,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_11_2784-2816",
+        "chapterUid": 72,
+        "markText": "问题没有消失，它仍然继续存在，仍然妨碍着心灵的成长和心智的成熟。",
+        "range": "2765-2797",
+        "createTime": 1674820022,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_11_848-864",
+        "chapterUid": 72,
+        "markText": "“你只不过没有花时间去尝试罢了。",
+        "range": "830-846",
+        "createTime": 1674819693,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_9_1342-1437",
+        "chapterUid": 70,
+        "markText": "推迟满足感，就是不贪图暂时的安逸，先苦后甜，重新设置人生快乐与痛苦的次序：首先，面对问题并感受痛苦；然后，解决问题并享受更大的快乐。在充满问题和痛苦的人生中，推迟满足感是唯一可行的生活方式。",
+        "range": "1323-1418",
+        "createTime": 1673572349,
+        "type": 1
+      },
+      {
+        "bookId": "33800862",
+        "bookmarkId": "33800862_8_2489-2518",
+        "chapterUid": 69,
+        "markText": "自律有四个原则：推迟满足感、承担责任、忠于事实、保持平衡。",
+        "range": "2471-2500",
+        "createTime": 1673572283,
+        "type": 1
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "承担责任",
+        "chapterUid": 73,
+        "chapterIdx": 12
+      },
+      {
+        "title": "解决问题的时机",
+        "chapterUid": 72,
+        "chapterIdx": 11
+      },
+      {
+        "title": "推迟满足感",
+        "chapterUid": 70,
+        "chapterIdx": 9
+      },
+      {
+        "title": "问题和痛苦",
+        "chapterUid": 69,
+        "chapterIdx": 8
+      }
+    ],
+    "book": {
+      "bookId": "33800862",
+      "version": 4786160,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/862/33800862/s_33800862.jpg",
+      "title": "少有人走的路：心智成熟的旅程",
+      "author": "M.斯科特·派克",
+      "coverBoxInfo": {
+        "blurhash": "K*R2MnM{kCuiM{aeL~Rja|",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#360e19"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3f0218"
+          },
+          {
+            "key": "1/8",
+            "hex": "#470019"
+          },
+          {
+            "key": "2/4",
+            "hex": "#4d2528"
+          },
+          {
+            "key": "2/6",
+            "hex": "#571d25"
+          },
+          {
+            "key": "2/8",
+            "hex": "#620e21"
+          },
+          {
+            "key": "3/4",
+            "hex": "#693b39"
+          },
+          {
+            "key": "3/6",
+            "hex": "#743333"
+          },
+          {
+            "key": "3/8",
+            "hex": "#80292c"
+          },
+          {
+            "key": "3/12",
+            "hex": "#950020"
+          },
+          {
+            "key": "4/6",
+            "hex": "#8f4d49"
+          },
+          {
+            "key": "4/10",
+            "hex": "#a63c3a"
+          },
+          {
+            "key": "4/4",
+            "hex": "#825451"
+          },
+          {
+            "key": "5/10",
+            "hex": "#c45751"
+          },
+          {
+            "key": "5/4",
+            "hex": "#9b6e6a"
+          },
+          {
+            "key": "5/8",
+            "hex": "#b76059"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b58984"
+          },
+          {
+            "key": "6/6",
+            "hex": "#c4827b"
+          },
+          {
+            "key": "6/8",
+            "hex": "#d27c73"
+          },
+          {
+            "key": "6/12",
+            "hex": "#ec6b62"
+          },
+          {
+            "key": "7/8",
+            "hex": "#ef958b"
+          },
+          {
+            "key": "7/10",
+            "hex": "#fd8e83"
+          },
+          {
+            "key": "7/12",
+            "hex": "#ff8579"
+          },
+          {
+            "key": "8/4",
+            "hex": "#ebbdb7"
+          },
+          {
+            "key": "8/6",
+            "hex": "#fcb7ad"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ff9c8e"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f1dfdc"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffb5a8"
+          },
+          {
+            "key": "1/100",
+            "hex": "#d27c73"
+          },
+          {
+            "key": "2/100",
+            "hex": "#ef958b"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3E5E8"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3E5E8"
+          },
+          {
+            "key": "6/100",
+            "hex": "#270007"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#e1022c",
+          "hsv": [
+            348.75566948996664,
+            99.10650808300336,
+            88.19339664771205
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/862/33800862/s_33800862.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/862/33800862/s_33800862.jpg",
+        "colorsPure": [
+          "#ec6b62",
+          "#ff8579"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "totalCount": 0,
+    "reviews": [],
+    "removed": [],
+    "hasMore": 0
+  }
+}

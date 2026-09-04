@@ -1,0 +1,338 @@
+{
+  "bookInfo": {
+    "bookId": "3001365349",
+    "title": "你有你的计划 世界另有计划 万维钢作品 (罗辑思维推荐)",
+    "author": "万维钢",
+    "noteCount": 3,
+    "reviewCount": 2,
+    "markedStatus": 4,
+    "readingProgress": 100
+  },
+  "bookmarks": {
+    "synckey": 1639716394,
+    "updated": [
+      {
+        "bookId": "3001365349",
+        "bookmarkId": "3001365349_5_27876-28074",
+        "createTime": 1639716394,
+        "range": "27876-28074",
+        "markText": "现在有一个流行的学习风格分类模型叫 VARK（Visual,Aural,Read/write,Kinesthetic,VARK 把学习风格分成四种：视觉、听觉、读写和动手实践），你可以到它的官网[10]测试一下自己喜欢的学习风格。",
+        "type": 1,
+        "chapterUid": 5
+      },
+      {
+        "bookId": "3001365349",
+        "bookmarkId": "3001365349_5_21936-21967",
+        "createTime": 1639715553,
+        "range": "21936-21967",
+        "markText": "再进一步，我们还可以从接收信息和输出信息这个视角审视一下人生。",
+        "type": 1,
+        "chapterUid": 5
+      },
+      {
+        "bookId": "3001365349",
+        "bookmarkId": "3001365349_5_21400-21488",
+        "createTime": 1639715405,
+        "range": "21400-21488",
+        "markText": "反过来说，读书则是一个接收信息的问题。现在有各种关于“速读”的方法，而从信息论的角度看，阅读速度并不是由眼球转动的速度决定的",
+        "type": 1,
+        "chapterUid": 5
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第一章 高手的心法",
+        "chapterUid": 5,
+        "chapterIdx": 5
+      }
+    ],
+    "book": {
+      "bookId": "3001365349",
+      "version": 1718175876,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 5,
+      "cover": "https://cdn.weread.qq.com/outpic/349/3001365349.jpg",
+      "title": "你有你的计划 世界另有计划 万维钢作品 (罗辑思维推荐)",
+      "author": "万维钢",
+      "coverBoxInfo": {
+        "blurhash": "K}L4sdWV~qj[j[f7xuWBRj",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#321500"
+          },
+          {
+            "key": "1/6",
+            "hex": "#391000"
+          },
+          {
+            "key": "1/8",
+            "hex": "#410800"
+          },
+          {
+            "key": "2/4",
+            "hex": "#452b0e"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4b2900"
+          },
+          {
+            "key": "2/8",
+            "hex": "#502700"
+          },
+          {
+            "key": "3/4",
+            "hex": "#5e4223"
+          },
+          {
+            "key": "3/6",
+            "hex": "#65400b"
+          },
+          {
+            "key": "3/8",
+            "hex": "#693e00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#733900"
+          },
+          {
+            "key": "4/6",
+            "hex": "#815823"
+          },
+          {
+            "key": "4/10",
+            "hex": "#8a5400"
+          },
+          {
+            "key": "4/4",
+            "hex": "#795a37"
+          },
+          {
+            "key": "5/10",
+            "hex": "#a86d00"
+          },
+          {
+            "key": "5/4",
+            "hex": "#937450"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a46f1f"
+          },
+          {
+            "key": "6/4",
+            "hex": "#ae8e69"
+          },
+          {
+            "key": "6/6",
+            "hex": "#b88b52"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c08939"
+          },
+          {
+            "key": "6/12",
+            "hex": "#ca8500"
+          },
+          {
+            "key": "7/8",
+            "hex": "#dba353"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e3a137"
+          },
+          {
+            "key": "7/12",
+            "hex": "#e99f03"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e3c39a"
+          },
+          {
+            "key": "8/6",
+            "hex": "#eec083"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb92f"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f2e1c9"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd54b"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c08939"
+          },
+          {
+            "key": "2/100",
+            "hex": "#dba353"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#98661a",
+          "hsv": [
+            36.253446779866366,
+            82.9499596448749,
+            59.704802259887
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/349/3001365349/s_3001365349.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/349/3001365349/s_3001365349.jpg",
+        "colorsPure": [
+          "#ca8500",
+          "#e99f03"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1639716299,
+    "totalCount": 2,
+    "reviews": [
+      {
+        "reviewId": "17061918_7vC7Ko21O",
+        "review": {
+          "bookId": "3001365349",
+          "content": "这样来看，至少我自己从小受到的教育是固定型思维模式，所以，人最终是要多读书才能看透更多东西的",
+          "bookVersion": 1718175875,
+          "range": "27035-27406",
+          "abstract": "假设你的小孩完成了一项任务，比如考试考得不错，或者作业写得好，这时你就要给他一个口头表扬。这个表扬方式非常关键，你要字斟句酌。\n如果你表扬孩子聪明——“这题你都会做？我儿子太聪明了！”他就会陷入固定型思维模式之中。他会把以后每一项任务都当成证明自己聪明的测试，他会非常害怕被证明不聪明，他会尽量选择简单的任务。\n所以你一定要表扬他努力——“不错啊！这次做得很好，看来你下了很大功夫！下次继续！只要你努力，什么事都能做成！”\n德韦克的研究表明，这么说，你才能在他心中埋下成长型思维模式的种子。他会把每一项任务都当成成长的机会，会愿意花更长的时间钻研难题，会主动选择困难的任务。",
+          "type": 1,
+          "chapterUid": 5,
+          "reviewId": "17061918_7vC7Ko21O",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1639716299,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3001365349",
+            "format": "epub",
+            "version": 0,
+            "soldout": 1,
+            "bookStatus": 5,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/outpic/349/3001365349.jpg",
+            "title": "你有你的计划 世界另有计划 万维钢作品 (罗辑思维推荐)",
+            "author": "万维钢",
+            "payType": 33
+          },
+          "chapterIdx": 5,
+          "chapterTitle": "第一章 高手的心法",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      },
+      {
+        "reviewId": "17061918_7vC6SYfnN",
+        "review": {
+          "bookId": "3001365349",
+          "content": "读到这里突然想到刘先生给我分享他自己读很多本同类小说的感受",
+          "bookVersion": 1718175875,
+          "range": "21727-21804",
+          "abstract": "所以一个人读书速度的快慢，从根本上来说，取决于这个人以前读过多少书。对一个领域了解越多，读这个领域的新书就越快。小说看多了，再看新小说就觉得到处都是俗套。",
+          "type": 1,
+          "chapterUid": 5,
+          "reviewId": "17061918_7vC6SYfnN",
+          "userVid": 17061918,
+          "topics": [],
+          "createTime": 1639715509,
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "3001365349",
+            "format": "epub",
+            "version": 0,
+            "soldout": 1,
+            "bookStatus": 5,
+            "type": 0,
+            "cover": "https://cdn.weread.qq.com/outpic/349/3001365349.jpg",
+            "title": "你有你的计划 世界另有计划 万维钢作品 (罗辑思维推荐)",
+            "author": "万维钢",
+            "payType": 33
+          },
+          "chapterIdx": 5,
+          "chapterTitle": "第一章 高手的心法",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}

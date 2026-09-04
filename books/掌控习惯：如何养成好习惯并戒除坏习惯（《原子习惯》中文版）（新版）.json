@@ -1,0 +1,299 @@
+{
+  "bookInfo": {
+    "bookId": "26934843",
+    "title": "掌控习惯：如何养成好习惯并戒除坏习惯（《原子习惯》中文版）（新版）",
+    "author": "詹姆斯·克利尔",
+    "noteCount": 9,
+    "reviewCount": 1,
+    "markedStatus": 2,
+    "readingProgress": 30
+  },
+  "bookmarks": {
+    "synckey": 1787895058,
+    "updated": [
+      {
+        "bookId": "26934843",
+        "chapterIdx": 14,
+        "bookmarkId": "26934843_144_11710-11828",
+        "range": "11710-11828",
+        "markText": "执行意图的公式是：我将于［时间］在［地点］做［行为］。\n习惯叠加是一种策略，你可以用它来将新习惯与当前习惯进行整合。\n习惯叠加的公式是：继［当前习惯］之后，我将［新习惯］。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 144,
+        "createTime": 1787895058
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 14,
+        "bookmarkId": "26934843_144_11596-11612",
+        "range": "11596-11612",
+        "markText": "行为转变第一定律是让它显而易见。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 144,
+        "createTime": 1787895047
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 14,
+        "bookmarkId": "26934843_144_4463-4524",
+        "range": "4463-4524",
+        "markText": "创立执行意图还有另一个好处，明确你想要什么并且具体化实现的路径，将有助于摒弃妨碍你进步、分散注意力，或让你偏离正轨的事情。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 144,
+        "createTime": 1787894127
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 13,
+        "bookmarkId": "26934843_143_8512-8545",
+        "range": "8512-8545",
+        "markText": "行为转变的过程总是始于自觉。在你想改变习惯之前，你需要首先了解它。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 143,
+        "createTime": 1787893779
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 13,
+        "bookmarkId": "26934843_143_8426-8456",
+        "range": "8426-8456",
+        "markText": "有了足够的练习，你的大脑会不假思索地拾取预测特定结果的提示。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 143,
+        "createTime": 1787893766
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 11,
+        "bookmarkId": "26934843_141_11450-11522",
+        "range": "11450-11522",
+        "markText": "行为转变四大定律是一套我们可以用来养成好习惯的简单规则。它们是：(1)让它显而易见；(2)让它有吸引力；(3)让它简便易行；(4)让它令人愉悦。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 141,
+        "createTime": 1787893531
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 11,
+        "bookmarkId": "26934843_141_11396-11433",
+        "range": "11396-11433",
+        "markText": "任何习惯都可以分解成一个反馈回路，它包括四个步骤：提示、渴求、反应和奖励。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 141,
+        "createTime": 1787893524
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 11,
+        "bookmarkId": "26934843_141_11350-11379",
+        "range": "11350-11379",
+        "markText": "习惯的最终目的是用尽可能少的精力和努力来解决生活中的问题。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 141,
+        "createTime": 1787893519
+      },
+      {
+        "bookId": "26934843",
+        "chapterIdx": 11,
+        "bookmarkId": "26934843_141_5440-5628",
+        "range": "5440-5628",
+        "markText": "养成习惯的过程可以分为四个简单的步骤：提示、渴求、反应和奖励。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 141,
+        "createTime": 1787878389
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "第4章 看着不对劲的那个人",
+        "chapterUid": 143,
+        "chapterIdx": 13
+      },
+      {
+        "title": "第3章 培养良好习惯的四步法",
+        "chapterUid": 141,
+        "chapterIdx": 11
+      },
+      {
+        "title": "第5章 培养新习惯的最佳方式",
+        "chapterUid": 144,
+        "chapterIdx": 14
+      }
+    ],
+    "book": {
+      "bookId": "26934843",
+      "version": 839978567,
+      "format": "epub",
+      "soldout": 0,
+      "bookStatus": 1,
+      "cover": "https://cdn.weread.qq.com/weread/cover/25/yuewen_26934843/s_yuewen_269348431702464198.jpg",
+      "title": "掌控习惯：如何养成好习惯并戒除坏习惯（《原子习惯》中文版）（新版）",
+      "author": "詹姆斯·克利尔",
+      "coverBoxInfo": {
+        "blurhash": "KoP~vHo#o#?wj[ozIAV@WB",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#341300"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3a0e00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#420500"
+          },
+          {
+            "key": "2/4",
+            "hex": "#472a12"
+          },
+          {
+            "key": "2/6",
+            "hex": "#4f2600"
+          },
+          {
+            "key": "2/8",
+            "hex": "#542300"
+          },
+          {
+            "key": "3/4",
+            "hex": "#614126"
+          },
+          {
+            "key": "3/6",
+            "hex": "#683d12"
+          },
+          {
+            "key": "3/8",
+            "hex": "#6e3b00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#783500"
+          },
+          {
+            "key": "4/6",
+            "hex": "#855628"
+          },
+          {
+            "key": "4/10",
+            "hex": "#905100"
+          },
+          {
+            "key": "4/4",
+            "hex": "#7c593b"
+          },
+          {
+            "key": "5/10",
+            "hex": "#af6904"
+          },
+          {
+            "key": "5/4",
+            "hex": "#967354"
+          },
+          {
+            "key": "5/8",
+            "hex": "#a96c28"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b18c6d"
+          },
+          {
+            "key": "6/6",
+            "hex": "#bc8958"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c58642"
+          },
+          {
+            "key": "6/12",
+            "hex": "#d28100"
+          },
+          {
+            "key": "7/8",
+            "hex": "#e1a05b"
+          },
+          {
+            "key": "7/10",
+            "hex": "#e99d42"
+          },
+          {
+            "key": "7/12",
+            "hex": "#f19a20"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e6c19e"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f3be89"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb53d"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f4e0cc"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffd058"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c58642"
+          },
+          {
+            "key": "2/100",
+            "hex": "#e1a05b"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#b58353",
+          "hsv": [
+            29.360713610874235,
+            53.92904811102114,
+            70.9776617429425
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/843/26934843/s_26934843.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/843/26934843/s_26934843.jpg",
+        "colorsPure": [
+          "#d28100",
+          "#f19a20"
+        ]
+      }
+    }
+  },
+  "reviews": {}
+}

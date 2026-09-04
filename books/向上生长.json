@@ -1,0 +1,443 @@
+{
+  "bookInfo": {
+    "bookId": "31265523",
+    "title": "向上生长",
+    "author": "九边",
+    "noteCount": 9,
+    "reviewCount": 2,
+    "markedStatus": 2,
+    "readingProgress": 43
+  },
+  "bookmarks": {
+    "synckey": 1727151520,
+    "updated": [
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_48_1365-1393",
+        "createTime": 1727151520,
+        "chapterUid": 48,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "这就是一种“低层次循环”，日复一日，人生越混越掉坑里了。",
+        "range": "1365-1393"
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_44_6502-6696",
+        "createTime": 1727070288,
+        "range": "6502-6696",
+        "markText": "摘自巴里·施瓦茨(Barry Schwartz)的《选择的悖论》(Paradox of Choice)一书——如果一个人长时间处于一种缺乏选择的状态，大脑潜意识会慢慢认为做任何事都无法改变现状改变自身命运，于是会进入一种所谓习得性无助(Learned helplessness)的状态，变得更为消极。即使情况改变，有机可乘时，也不去行动。这种情况严重时，会导致免疫力下降，甚至会得抑郁症。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 44
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_41_6125-6186",
+        "createTime": 1727066995,
+        "range": "6125-6186",
+        "markText": "第一，重复就是力量。\n第二，欧成效说的，非常有启发：数量堆死质量。",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 41
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_41_3395-3468",
+        "createTime": 1727066807,
+        "range": "3395-3468",
+        "markText": "想进步，最难的地方，就是随时想放弃，为什么想放弃呢？因为看不到进展，不知道自己在进步。而人不管干什么正经事都有个慢启动过程，也就是一开始没什么效果",
+        "colorStyle": 0,
+        "type": 1,
+        "chapterUid": 41
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_41_648-701",
+        "createTime": 1726969277,
+        "chapterUid": 41,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "绝大部分人一辈子也没努力过，也没主动过，更没有主动做过艰难的决定，只是被动地接受生活的摆布，过一天算一天。",
+        "range": "648-701"
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_38_2526-2579",
+        "createTime": 1726865730,
+        "chapterUid": 38,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "我们看现在所有的一切，意义都不大，但是再过五年回过头来，才能发现五年后的自己正是现在你的每一个行为塑造的。",
+        "range": "2526-2579"
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_37_576-606",
+        "createTime": 1726865296,
+        "chapterUid": 37,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "这种看待问题、解决问题的能力一定程度上是可以向下一代传递的。",
+        "range": "576-606"
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_37_989-1033",
+        "createTime": 1726865280,
+        "chapterUid": 37,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "奖励一定是可度量的，也就是达成什么结果我才给什么奖励，这一点需要家长和孩子之间反复博弈。",
+        "range": "989-1033"
+      },
+      {
+        "bookId": "31265523",
+        "bookmarkId": "31265523_35_1429-1482",
+        "createTime": 1726864458,
+        "chapterUid": 35,
+        "colorStyle": 3,
+        "type": 1,
+        "markText": "外部的挑战，新的知识，新技能的学习，都是系统或者人的“负熵流”，只有那种有持续输入的系统或者个人才有活路。",
+        "range": "1429-1482"
+      }
+    ],
+    "removed": [],
+    "chapters": [
+      {
+        "title": "掉进坑里如何爬出来",
+        "chapterUid": 48,
+        "chapterIdx": 17
+      },
+      {
+        "title": "穷人翻身有多难",
+        "chapterUid": 44,
+        "chapterIdx": 13
+      },
+      {
+        "title": "如何向上跨越阶层",
+        "chapterUid": 41,
+        "chapterIdx": 10
+      },
+      {
+        "title": "厉害的人的工作和学习心得",
+        "chapterUid": 37,
+        "chapterIdx": 6
+      },
+      {
+        "title": "关于积累、精进、进阶",
+        "chapterUid": 38,
+        "chapterIdx": 7
+      },
+      {
+        "title": "为什么要学习及如何学习",
+        "chapterUid": 35,
+        "chapterIdx": 4
+      }
+    ],
+    "book": {
+      "bookId": "31265523",
+      "version": 1631166361,
+      "format": "epub",
+      "soldout": 1,
+      "bookStatus": 1,
+      "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/523/31265523/s_31265523.jpg",
+      "title": "向上生长",
+      "author": "九边",
+      "coverBoxInfo": {
+        "blurhash": "KuPh5kadxt.madR:PCfkkB",
+        "colors": [
+          {
+            "key": "1/4",
+            "hex": "#351200"
+          },
+          {
+            "key": "1/6",
+            "hex": "#3b0d00"
+          },
+          {
+            "key": "1/8",
+            "hex": "#420300"
+          },
+          {
+            "key": "2/4",
+            "hex": "#482913"
+          },
+          {
+            "key": "2/6",
+            "hex": "#502600"
+          },
+          {
+            "key": "2/8",
+            "hex": "#562200"
+          },
+          {
+            "key": "3/4",
+            "hex": "#614027"
+          },
+          {
+            "key": "3/6",
+            "hex": "#6a3d14"
+          },
+          {
+            "key": "3/8",
+            "hex": "#703a00"
+          },
+          {
+            "key": "3/12",
+            "hex": "#7a3300"
+          },
+          {
+            "key": "4/6",
+            "hex": "#86552a"
+          },
+          {
+            "key": "4/10",
+            "hex": "#924f00"
+          },
+          {
+            "key": "4/4",
+            "hex": "#7d583c"
+          },
+          {
+            "key": "5/10",
+            "hex": "#b1680b"
+          },
+          {
+            "key": "5/4",
+            "hex": "#977255"
+          },
+          {
+            "key": "5/8",
+            "hex": "#ab6b2a"
+          },
+          {
+            "key": "6/4",
+            "hex": "#b18c6e"
+          },
+          {
+            "key": "6/6",
+            "hex": "#bd895a"
+          },
+          {
+            "key": "6/8",
+            "hex": "#c78544"
+          },
+          {
+            "key": "6/12",
+            "hex": "#d57f00"
+          },
+          {
+            "key": "7/8",
+            "hex": "#e39f5d"
+          },
+          {
+            "key": "7/10",
+            "hex": "#eb9c46"
+          },
+          {
+            "key": "7/12",
+            "hex": "#f39926"
+          },
+          {
+            "key": "8/4",
+            "hex": "#e7c19f"
+          },
+          {
+            "key": "8/6",
+            "hex": "#f4bd8b"
+          },
+          {
+            "key": "8/12",
+            "hex": "#ffb342"
+          },
+          {
+            "key": "9/2",
+            "hex": "#f4e0cd"
+          },
+          {
+            "key": "9/12",
+            "hex": "#ffce5c"
+          },
+          {
+            "key": "1/100",
+            "hex": "#c78544"
+          },
+          {
+            "key": "2/100",
+            "hex": "#e39f5d"
+          },
+          {
+            "key": "3/100",
+            "hex": "#ffffff"
+          },
+          {
+            "key": "4/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "5/100",
+            "hex": "#F3EDE5"
+          },
+          {
+            "key": "6/100",
+            "hex": "#271300"
+          }
+        ],
+        "dominate_color": {
+          "hex": "#f2b57b",
+          "hsv": [
+            29.58028556492896,
+            49.12106260361569,
+            94.71934949080288
+          ]
+        },
+        "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/523/31265523/s_31265523.jpg",
+        "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/523/31265523/s_31265523.jpg",
+        "colorsPure": [
+          "#d57f00",
+          "#f39926"
+        ]
+      }
+    }
+  },
+  "reviews": {
+    "synckey": 1758024182,
+    "totalCount": 2,
+    "reviews": [
+      {
+        "reviewId": "17061918_7Uogu8V1v",
+        "review": {
+          "abstract": "绝大部分人一辈子也没努力过，也没主动过，更没有主动做过艰难的决定，只是被动地接受生活的摆布，过一天算一天。",
+          "atUserVids": [],
+          "bookId": "31265523",
+          "bookVersion": 640345058,
+          "chapterName": "如何向上跨越阶层",
+          "chapterUid": 41,
+          "content": "“被动地接受生活的摆布，过一天算一天”这句话真的太真实了。我身边接触到有力量的那些人，从来都是主动的人，主动放弃过，选择过，失败过，也成功过，这些主动，最终折射到他们个人身上，都是力量，深深地吸引着我。",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 0,
+          "notVisibleToFriends": 0,
+          "range": "648-701",
+          "createTime": 1726969466,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7Uogu8V1v",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 0,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "31265523",
+            "format": "epub",
+            "version": 1631166361,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/523/31265523/s_31265523.jpg",
+            "title": "向上生长",
+            "author": "九边",
+            "payType": 1048577
+          },
+          "chapterIdx": 10,
+          "chapterTitle": "如何向上跨越阶层",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        },
+        "likesCount": 7
+      },
+      {
+        "reviewId": "17061918_7UmpTcJzr",
+        "review": {
+          "abstract": "外部的挑战，新的知识，新技能的学习，都是系统或者人的“负熵流”，只有那种有持续输入的系统或者个人才有活路。",
+          "atUserVids": [],
+          "bookId": "31265523",
+          "bookVersion": 640345058,
+          "chapterName": "为什么要学习及如何学习",
+          "chapterUid": 35,
+          "content": "持续学习",
+          "contextAbstract": "",
+          "friendship": 0,
+          "htmlContent": "",
+          "isPrivate": 1,
+          "notVisibleToFriends": 0,
+          "range": "1429-1482",
+          "createTime": 1726864481,
+          "title": "",
+          "type": 1,
+          "reviewId": "17061918_7UmpTcJzr",
+          "userVid": 17061918,
+          "topics": [],
+          "flag": 8,
+          "isLike": 0,
+          "isReposted": 0,
+          "book": {
+            "bookId": "31265523",
+            "format": "epub",
+            "version": 1631166361,
+            "soldout": 1,
+            "bookStatus": 1,
+            "type": 0,
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/523/31265523/s_31265523.jpg",
+            "title": "向上生长",
+            "author": "九边",
+            "payType": 1048577
+          },
+          "chapterIdx": 4,
+          "chapterTitle": "为什么要学习及如何学习",
+          "author": {
+            "userVid": 17061918,
+            "name": "小胡的胡思乱想",
+            "avatar": "https://res.weread.qq.com/wravatar/WV0022-eWc9QRln6~8LPz5acRg4dd8/0",
+            "isFollowing": 1,
+            "isFollower": 1,
+            "isBlacking": 0,
+            "isBlackBy": 0,
+            "isHide": 1,
+            "nick": "小胡的胡思乱想",
+            "isV": 0,
+            "vDesc": "半途而废的医学生",
+            "roleTags": [],
+            "followPromote": "",
+            "isDeepV": false,
+            "deepVTitle": "",
+            "signature": "",
+            "medalInfo": {
+              "id": "M5-0-10",
+              "desc": "读完书籍",
+              "title": "读完书籍",
+              "levelIndex": 10
+            }
+          }
+        }
+      }
+    ],
+    "removed": [],
+    "hasMore": 0
+  }
+}
